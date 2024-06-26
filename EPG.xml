@@ -43644,6 +43644,18 @@
 	<programme channel="黑莓动画" start="20240627005400 +0800" stop="20240627011700 +0800">
 		<title lang="zh">08_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240627012600 +0800" stop="20240627013500 +0800">
+		<title lang="zh">42_我靠充值当武帝</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240627014500 +0800" stop="20240627020900 +0800">
+		<title lang="zh">07_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240627011700 +0800" stop="20240627025800 +0800">
+		<title lang="zh">奇门遁甲</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -43968,6 +43980,9 @@
 	<programme channel="newtv超级电视剧" start="20240627004400 +0800" stop="20240627013000 +0800">
 		<title lang="zh">16_大村官</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240627013000 +0800" stop="20240627021600 +0800">
+		<title lang="zh">17_大村官</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -43976,6 +43991,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240627005900 +0800" stop="20240627014100 +0800">
 		<title lang="zh">38_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240627014100 +0800" stop="20240627022200 +0800">
+		<title lang="zh">39_北国英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -43986,6 +44004,9 @@
 	<programme channel="newtv精品纪录" start="20240627004800 +0800" stop="20240627011800 +0800">
 		<title lang="zh">第四集 大艺法古</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240627011800 +0800" stop="20240627020700 +0800">
+		<title lang="zh">01_爱因斯坦与霍金 解锁宇宙</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -43995,11 +44016,17 @@
 	<programme channel="newtv古装剧场" start="20240627005000 +0800" stop="20240627013600 +0800">
 		<title lang="zh">02_大秦帝国之裂变</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240627013600 +0800" stop="20240627022200 +0800">
+		<title lang="zh">03_大秦帝国之裂变</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
 	<programme channel="newtv军旅剧场" start="20240627003600 +0800" stop="20240627012100 +0800">
 		<title lang="zh">07_一代枭雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240627012100 +0800" stop="20240627020700 +0800">
+		<title lang="zh">08_一代枭雄</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -44015,6 +44042,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20240627002700 +0800" stop="20240627014500 +0800">
 		<title lang="zh">限时营救</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240627014500 +0800" stop="20240627032800 +0800">
+		<title lang="zh">终极胜利</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -44037,6 +44067,9 @@
 	<programme channel="newtv怡伴健康" start="20240627005300 +0800" stop="20240627014000 +0800">
 		<title lang="zh">56_清平乐</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240627014000 +0800" stop="20240627022700 +0800">
+		<title lang="zh">57_清平乐</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -44051,6 +44084,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240627005500 +0800" stop="20240627012000 +0800">
 		<title lang="zh">代表委员的强军故事 第2集</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240627012000 +0800" stop="20240627014500 +0800">
+		<title lang="zh">代表委员的强军故事 第3集</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240627014500 +0800" stop="20240627021100 +0800">
+		<title lang="zh">假军人现形记</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -44069,6 +44108,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240627004100 +0800" stop="20240627013000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240627013000 +0800" stop="20240627024300 +0800">
+		<title lang="zh">英叔之古墓狂魔</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
