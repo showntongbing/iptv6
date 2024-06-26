@@ -43788,11 +43788,17 @@
 	<programme channel="黑莓动画" start="20240627023200 +0800" stop="20240627025800 +0800">
 		<title lang="zh">07_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240627025800 +0800" stop="20240627032200 +0800">
+		<title lang="zh">08_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240627011700 +0800" stop="20240627025800 +0800">
 		<title lang="zh">奇门遁甲</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240627025800 +0800" stop="20240627042800 +0800">
+		<title lang="zh">红萼纷纷</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -44130,6 +44136,9 @@
 	<programme channel="newtv精品纪录" start="20240627023200 +0800" stop="20240627025600 +0800">
 		<title lang="zh">04_守护</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240627025600 +0800" stop="20240627035400 +0800">
+		<title lang="zh">第2集：帝企鹅顽强生存</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -44156,6 +44165,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240627020700 +0800" stop="20240627025200 +0800">
 		<title lang="zh">09_一代枭雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240627025200 +0800" stop="20240627033700 +0800">
+		<title lang="zh">10_一代枭雄</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -44223,6 +44235,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240627020500 +0800" stop="20240627024700 +0800">
 		<title lang="zh">15_我的博士老公</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240627024700 +0800" stop="20240627032800 +0800">
+		<title lang="zh">16_我的博士老公</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -44252,6 +44267,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240627014900 +0800" stop="20240627024900 +0800">
 		<title lang="zh">2023多情的土地（20230404）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240627030000 +0800" stop="20240627031000 +0800">
+		<title lang="zh">龙的传人-乌兰图雅</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
