@@ -64095,6 +64095,9 @@
 	<programme channel="newtv超级体育" start="20240628040000 +0800" stop="20240628060000 +0800">
 		<title lang="zh">2024年法国网球公开赛-男单半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240628060000 +0800" stop="20240628063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -64499,6 +64502,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240628032000 +0800" stop="20240628060300 +0800">
 		<title lang="zh">半熟恋人第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240628060300 +0800" stop="20240628074900 +0800">
+		<title lang="zh">中国文艺（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
