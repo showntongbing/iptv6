@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20240701042200 +0800" stop="20240701045700 +0800">
 		<title lang="zh">重返地球20180216</title>
 	</programme>
+	<programme channel="4K综艺" start="20240701045700 +0800" stop="20240701053100 +0800">
+		<title lang="zh">重返地球20180223</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -21326,6 +21329,141 @@
 	</programme>
 	<programme channel="五星体育" start="20240701220000 +0800" stop="20240701235900 +0800">
 		<title lang="zh">弈棋耍大牌</title>
+	</programme>
+	<channel id="亚洲美食">
+		<display-name lang="zh">亚洲美食</display-name>
+	</channel>
+	<programme channel="亚洲美食" start="20240701000000 +0800" stop="20240701002500 +0800">
+		<title lang="zh">安德鲁来晚餐 第2季第11集 -甘能</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701002500 +0800" stop="20240701005500 +0800">
+		<title lang="zh">安德鲁来晚餐 第2季第12集 -希尔布鲁克</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701005500 +0800" stop="20240701015000 +0800">
+		<title lang="zh">吃东西 第2季第7集 -烤猪</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701015000 +0800" stop="20240701021500 +0800">
+		<title lang="zh">马克金柏莉与大厨 第1季第7集 -布莱克大厨</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701021500 +0800" stop="20240701024500 +0800">
+		<title lang="zh">马克金柏莉与大厨 第1季第8集 -彭姆大厨</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701024500 +0800" stop="20240701031000 +0800">
+		<title lang="zh">阿贤这么吃 第2季第7集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701031000 +0800" stop="20240701034000 +0800">
+		<title lang="zh">阿贤这么吃 第2季第8集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701034000 +0800" stop="20240701040500 +0800">
+		<title lang="zh">牧场餐桌 第1季第3集 -牛仔的餐食</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701040500 +0800" stop="20240701043500 +0800">
+		<title lang="zh">牧场餐桌 第1季第4集 -牧场烧烤</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701043500 +0800" stop="20240701050000 +0800">
+		<title lang="zh">马克金柏莉与大厨 第1季第7集 -布莱克大厨</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701050000 +0800" stop="20240701053000 +0800">
+		<title lang="zh">马克金柏莉与大厨 第1季第8集 -彭姆大厨</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701053000 +0800" stop="20240701060000 +0800">
+		<title lang="zh">牧场餐桌 第1季第4集 -牧场烧烤</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701060000 +0800" stop="20240701062500 +0800">
+		<title lang="zh">流浪主厨 第1季第3集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701062500 +0800" stop="20240701065000 +0800">
+		<title lang="zh">流浪主厨 第1季第4集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701065000 +0800" stop="20240701071500 +0800">
+		<title lang="zh">不一样的农场 第1季第4集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701071500 +0800" stop="20240701074500 +0800">
+		<title lang="zh">东西面食无国界 第1季第8集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701074500 +0800" stop="20240701081000 +0800">
+		<title lang="zh">安德鲁来晚餐 第2季第11集 -甘能</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701081000 +0800" stop="20240701084000 +0800">
+		<title lang="zh">安德鲁来晚餐 第2季第12集 -希尔布鲁克</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701084000 +0800" stop="20240701093500 +0800">
+		<title lang="zh">带阿母去旅行 第1季第10集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701093500 +0800" stop="20240701100000 +0800">
+		<title lang="zh">牧场餐桌 第1季第3集 -牛仔的餐食</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701100000 +0800" stop="20240701103000 +0800">
+		<title lang="zh">牧场餐桌 第1季第4集 -牧场烧烤</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701103000 +0800" stop="20240701105500 +0800">
+		<title lang="zh">料理面对面 第1季第9集 -Dumplings  Hong Kong Week</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701105500 +0800" stop="20240701112500 +0800">
+		<title lang="zh">料理面对面 第1季第10集 -Technique</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701112500 +0800" stop="20240701122000 +0800">
+		<title lang="zh">世界速食 第1季第1集 -拉丁美洲篇</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701122000 +0800" stop="20240701124500 +0800">
+		<title lang="zh">马克金柏莉与大厨 第1季第7集 -布莱克大厨</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701124500 +0800" stop="20240701131500 +0800">
+		<title lang="zh">马克金柏莉与大厨 第1季第8集 -彭姆大厨</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701131500 +0800" stop="20240701134000 +0800">
+		<title lang="zh">阿贤这么吃 第2季第7集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701134000 +0800" stop="20240701141000 +0800">
+		<title lang="zh">阿贤这么吃 第2季第8集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701141000 +0800" stop="20240701143500 +0800">
+		<title lang="zh">阮卢克的越南铁道行 第1季第1集 -胡志明市的家传食谱</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701143500 +0800" stop="20240701150500 +0800">
+		<title lang="zh">阮卢克的越南铁道行 第1季第2集 -大叻的越南披萨</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701150500 +0800" stop="20240701160000 +0800">
+		<title lang="zh">带阿母去旅行 第1季第10集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701160000 +0800" stop="20240701163000 +0800">
+		<title lang="zh">流浪主厨 第1季第3集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701163000 +0800" stop="20240701170000 +0800">
+		<title lang="zh">流浪主厨 第1季第4集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701170000 +0800" stop="20240701173000 +0800">
+		<title lang="zh">不一样的农场 第1季第4集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701173000 +0800" stop="20240701180000 +0800">
+		<title lang="zh">东西面食无国界 第1季第8集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701180000 +0800" stop="20240701183000 +0800">
+		<title lang="zh">牧场餐桌 第1季第3集 -牛仔的餐食</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701183000 +0800" stop="20240701190000 +0800">
+		<title lang="zh">牧场餐桌 第1季第4集 -牧场烧烤</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701190000 +0800" stop="20240701193000 +0800">
+		<title lang="zh">甄文达的亚洲最爱美食 第2季第3集 -Tribute To Nonya</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701193000 +0800" stop="20240701200000 +0800">
+		<title lang="zh">甄文达的亚洲最爱美食 第2季第4集 -Family Gathering</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701200000 +0800" stop="20240701210000 +0800">
+		<title lang="zh">吃东西 第2季第8集 -早餐</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701210000 +0800" stop="20240701213000 +0800">
+		<title lang="zh">马克金柏莉与大厨 第1季第7集 -布莱克大厨</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701213000 +0800" stop="20240701220000 +0800">
+		<title lang="zh">马克金柏莉与大厨 第1季第8集 -彭姆大厨</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701220000 +0800" stop="20240701230000 +0800">
+		<title lang="zh">带阿母去旅行 第1季第10集</title>
+	</programme>
+	<programme channel="亚洲美食" start="20240701230000 +0800" stop="20240701233000 +0800">
+		<title lang="zh">甄文达的亚洲最爱美食 第2季第3集 -Tribute To Nonya</title>
 	</programme>
 	<channel id="人间卫视">
 		<display-name lang="zh">人间卫视</display-name>
@@ -55722,6 +55860,9 @@
 	<programme channel="纯享4K" start="20240701044500 +0800" stop="20240701045000 +0800">
 		<title lang="zh">美丽中国自然4K 河北系列 冬季的考验</title>
 	</programme>
+	<programme channel="纯享4K" start="20240701045500 +0800" stop="20240701050600 +0800">
+		<title lang="zh">秘境之眼4K 珠峰秘境</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66669,6 +66810,9 @@
 	<programme channel="newtv精品纪录" start="20240701040300 +0800" stop="20240701045200 +0800">
 		<title lang="zh">08_夜港航灯</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240701045200 +0800" stop="20240701052300 +0800">
+		<title lang="zh">03_守护</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -66753,6 +66897,9 @@
 	<programme channel="newtv热播精选" start="20240701040600 +0800" stop="20240701045100 +0800">
 		<title lang="zh">09_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240701045100 +0800" stop="20240701053700 +0800">
+		<title lang="zh">10_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -66765,6 +66912,9 @@
 	<programme channel="newtv爱情喜剧" start="20240701041200 +0800" stop="20240701045700 +0800">
 		<title lang="zh">13_光荣时代</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240701045700 +0800" stop="20240701054200 +0800">
+		<title lang="zh">14_光荣时代</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -66776,6 +66926,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240701032500 +0800" stop="20240701045400 +0800">
 		<title lang="zh">江湖英雄联盟之奇门惊情</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240701045400 +0800" stop="20240701062400 +0800">
+		<title lang="zh">冰的启示</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -66804,6 +66957,9 @@
 	<programme channel="newtv怡伴健康" start="20240701043300 +0800" stop="20240701050000 +0800">
 		<title lang="zh">动物的超级本领</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240701050000 +0800" stop="20240701052700 +0800">
+		<title lang="zh">花园里的动物邻居（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -66821,6 +66977,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240701041700 +0800" stop="20240701050000 +0800">
 		<title lang="zh">08_双生花</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240701050000 +0800" stop="20240701054300 +0800">
+		<title lang="zh">09_双生花</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -66858,6 +67017,9 @@
 	<programme channel="newtv军事评论" start="20240701043200 +0800" stop="20240701045400 +0800">
 		<title lang="zh">俄乌冲突中的轻武器 2</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240701045400 +0800" stop="20240701051600 +0800">
+		<title lang="zh">俄乌冲突中的轻武器 3</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66888,6 +67050,9 @@
 	<programme channel="newtv炫舞未来" start="20240701044400 +0800" stop="20240701045300 +0800">
 		<title lang="zh">女儿情-完整（无二维码）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240701045600 +0800" stop="20240701054400 +0800">
+		<title lang="zh">04_养</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -66902,6 +67067,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240701040600 +0800" stop="20240701044700 +0800">
 		<title lang="zh">04_黎明前的抉择</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240701044700 +0800" stop="20240701052800 +0800">
+		<title lang="zh">05_黎明前的抉择</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -66992,6 +67160,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240701030900 +0800" stop="20240701044900 +0800">
 		<title lang="zh">笑盗江湖</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240701044900 +0800" stop="20240701060800 +0800">
+		<title lang="zh">女子太极剑</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
