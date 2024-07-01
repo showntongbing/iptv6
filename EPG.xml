@@ -21495,6 +21495,9 @@
 	<programme channel="咪咕综合体育" start="20240702043500 +0800" stop="20240702050100 +0800">
 		<title lang="zh">2024WTT常规挑战赛拉各斯站女单1/4决赛回放：Ab7穆克吉3-0法里达b7巴达维（周冠达）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240702050100 +0800" stop="20240702065900 +0800">
+		<title lang="zh">2024NBL全国男子篮球联赛常规赛第4轮全场回放：石家庄翔蓝vs合肥狂风峻茂（现场解说）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -40605,6 +40608,9 @@
 	<programme channel="纯享4K" start="20240702044300 +0800" stop="20240702044800 +0800">
 		<title lang="zh">美丽中国自然4K 三江源系列 生命江源</title>
 	</programme>
+	<programme channel="纯享4K" start="20240702045800 +0800" stop="20240702054800 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第1集 荒原新生</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48600,6 +48606,9 @@
 	<programme channel="newtv超级电影" start="20240702033300 +0800" stop="20240702050400 +0800">
 		<title lang="zh">对门儿</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240702050400 +0800" stop="20240702065900 +0800">
+		<title lang="zh">韩家军镖客</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48645,6 +48654,9 @@
 	<programme channel="newtv精品大剧" start="20240702040200 +0800" stop="20240702044800 +0800">
 		<title lang="zh">08_独孤天下</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240702044800 +0800" stop="20240702053300 +0800">
+		<title lang="zh">09_独孤天下</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -48665,6 +48677,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240702040900 +0800" stop="20240702045800 +0800">
 		<title lang="zh">09_不屈之城</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240702045800 +0800" stop="20240702052900 +0800">
+		<title lang="zh">05_重生</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48753,6 +48768,9 @@
 	<programme channel="newtv热播精选" start="20240702040800 +0800" stop="20240702045400 +0800">
 		<title lang="zh">14_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240702045400 +0800" stop="20240702053900 +0800">
+		<title lang="zh">15_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -48770,6 +48788,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240702041100 +0800" stop="20240702045600 +0800">
 		<title lang="zh">20_光荣时代</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240702045600 +0800" stop="20240702054100 +0800">
+		<title lang="zh">21_光荣时代</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48992,6 +49013,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240702034700 +0800" stop="20240702045400 +0800">
 		<title lang="zh">寻龙契约2龙炼</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240702045400 +0800" stop="20240702060200 +0800">
+		<title lang="zh">男子南拳</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
