@@ -54468,6 +54468,9 @@
 	<programme channel="纯享4K" start="20240705050600 +0800" stop="20240705055600 +0800">
 		<title lang="zh">国家公园——万物共生之境4K 第4集 回归之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20240705055600 +0800" stop="20240705062600 +0800">
+		<title lang="zh">寻古中国4K 古蜀记b7再续华彩</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65097,6 +65100,9 @@
 	<programme channel="黑莓电影" start="20240705042000 +0800" stop="20240705055200 +0800">
 		<title lang="zh">蜻蜓少年</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240705055200 +0800" stop="20240705073700 +0800">
+		<title lang="zh">沙尼达尔之花</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -65607,6 +65613,9 @@
 	<programme channel="newtv超级体育" start="20240705040000 +0800" stop="20240705060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240705060000 +0800" stop="20240705063000 +0800">
+		<title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-巴库站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -65651,6 +65660,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240705051800 +0800" stop="20240705060000 +0800">
 		<title lang="zh">09_我们的队伍向太阳</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240705060000 +0800" stop="20240705064100 +0800">
+		<title lang="zh">10_我们的队伍向太阳</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -65705,6 +65717,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240705045900 +0800" stop="20240705054800 +0800">
 		<title lang="zh">04_归来</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240705054800 +0800" stop="20240705062100 +0800">
+		<title lang="zh">19_我的抗战：松山之战</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -65786,6 +65801,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240705051400 +0800" stop="20240705055500 +0800">
 		<title lang="zh">14_北部湾人家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240705055500 +0800" stop="20240705063700 +0800">
+		<title lang="zh">15_北部湾人家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -65873,6 +65891,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240705052600 +0800" stop="20240705055300 +0800">
 		<title lang="zh">超感大自然b7视觉（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240705055300 +0800" stop="20240705081900 +0800">
+		<title lang="zh">秦腔《打銮驾》合集</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -65969,6 +65990,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240705053500 +0800" stop="20240705054700 +0800">
 		<title lang="zh">02_牧羊曲-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240705054700 +0800" stop="20240705060500 +0800">
+		<title lang="zh">04_那拉提的养蜂女-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
