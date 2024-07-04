@@ -62493,6 +62493,9 @@
 	<programme channel="newtv超级体育" start="20240705023500 +0800" stop="20240705040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 多哈站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240705040000 +0800" stop="20240705060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -62526,6 +62529,9 @@
 	<programme channel="newtv超级电视剧" start="20240705031100 +0800" stop="20240705035500 +0800">
 		<title lang="zh">23_刘老根3</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240705035500 +0800" stop="20240705043700 +0800">
+		<title lang="zh">07_我们的队伍向太阳</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -62543,6 +62549,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240705031400 +0800" stop="20240705040000 +0800">
 		<title lang="zh">35_幸福来敲门</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240705040000 +0800" stop="20240705044600 +0800">
+		<title lang="zh">23_独孤天下</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -62601,6 +62610,9 @@
 	<programme channel="newtv军旅剧场" start="20240705030900 +0800" stop="20240705035300 +0800">
 		<title lang="zh">07_兵心依旧</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240705035300 +0800" stop="20240705043800 +0800">
+		<title lang="zh">11_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -62618,6 +62630,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240705030500 +0800" stop="20240705035100 +0800">
 		<title lang="zh">07_好歹一家人</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240705035100 +0800" stop="20240705043200 +0800">
+		<title lang="zh">12_北部湾人家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -62685,6 +62700,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240705030600 +0800" stop="20240705035100 +0800">
 		<title lang="zh">04_我的三个母亲</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240705035100 +0800" stop="20240705043600 +0800">
+		<title lang="zh">05_我的三个母亲</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -62733,6 +62751,9 @@
 	<programme channel="newtv炫舞未来" start="20240705034600 +0800" stop="20240705035400 +0800">
 		<title lang="zh">女儿情-李萍</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240705035400 +0800" stop="20240705040900 +0800">
+		<title lang="zh">枉凝眉-完整（无二维码）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62759,6 +62780,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240705022900 +0800" stop="20240705035800 +0800">
 		<title lang="zh">索命暹罗之按摩师</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240705035800 +0800" stop="20240705052400 +0800">
+		<title lang="zh">南宋诡事之鬼樊楼</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
