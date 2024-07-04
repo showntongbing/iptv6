@@ -62619,6 +62619,9 @@
 	<programme channel="newtv怡伴健康" start="20240705020700 +0800" stop="20240705025300 +0800">
 		<title lang="zh">12_大村官</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240705025300 +0800" stop="20240705033800 +0800">
+		<title lang="zh">13_大村官</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -62646,6 +62649,9 @@
 	<programme channel="newtv军事评论" start="20240705022900 +0800" stop="20240705025400 +0800">
 		<title lang="zh">这个教官有点“狠”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240705025400 +0800" stop="20240705032000 +0800">
+		<title lang="zh">迷彩色的“硬核”爱情</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -62655,6 +62661,9 @@
 	<programme channel="newtv炫舞未来" start="20240705022900 +0800" stop="20240705024700 +0800">
 		<title lang="zh">好姑娘-応子（完整教学）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240705024700 +0800" stop="20240705030500 +0800">
+		<title lang="zh">好姑娘-応子</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62663,6 +62672,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240705014200 +0800" stop="20240705025500 +0800">
 		<title lang="zh">朋友请吃饭</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240705025500 +0800" stop="20240705033600 +0800">
+		<title lang="zh">22_黎明前的抉择</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -62744,6 +62756,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240705013600 +0800" stop="20240705025900 +0800">
 		<title lang="zh">挑灯斩蛇录</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240705025900 +0800" stop="20240705042300 +0800">
+		<title lang="zh">大武师</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
