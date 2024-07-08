@@ -56970,6 +56970,12 @@
 	<programme channel="纯享4K" start="20240709034300 +0800" stop="20240709042600 +0800">
 		<title lang="zh">远方的家4K 长江行 相逢在长江源</title>
 	</programme>
+	<programme channel="纯享4K" start="20240709043100 +0800" stop="20240709043600 +0800">
+		<title lang="zh">美丽中国自然4K 岭南之南系列 中华白海豚</title>
+	</programme>
+	<programme channel="纯享4K" start="20240709044100 +0800" stop="20240709052100 +0800">
+		<title lang="zh">荣宝斋4K 第1集 荣重书林</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -68508,6 +68514,9 @@
 	<programme channel="黑莓动画" start="20240709041100 +0800" stop="20240709043400 +0800">
 		<title lang="zh">29_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240709043400 +0800" stop="20240709045600 +0800">
+		<title lang="zh">30_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69057,6 +69066,9 @@
 	<programme channel="newtv超级综艺" start="20240709030900 +0800" stop="20240709045000 +0800">
 		<title lang="zh">国家宝藏 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240709045000 +0800" stop="20240709060700 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69065,6 +69077,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240709013500 +0800" stop="20240709043500 +0800">
 		<title lang="zh">顶级赛事-高尔夫</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240709043500 +0800" stop="20240709060000 +0800">
+		<title lang="zh">2024年世界男排联赛总决赛-决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -69095,6 +69110,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240709034600 +0800" stop="20240709043200 +0800">
 		<title lang="zh">05_我哥我嫂</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240709043200 +0800" stop="20240709051300 +0800">
+		<title lang="zh">27_我们的队伍向太阳</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -69137,6 +69155,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240709033400 +0800" stop="20240709042000 +0800">
 		<title lang="zh">06_经济命脉</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240709042000 +0800" stop="20240709050700 +0800">
+		<title lang="zh">07_风气之先</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -69234,6 +69255,9 @@
 	<programme channel="newtv爱情喜剧" start="20240709035800 +0800" stop="20240709044300 +0800">
 		<title lang="zh">10_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240709044300 +0800" stop="20240709052800 +0800">
+		<title lang="zh">11_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -69245,6 +69269,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240709031800 +0800" stop="20240709044100 +0800">
 		<title lang="zh">鲨卷风</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240709044100 +0800" stop="20240709061500 +0800">
+		<title lang="zh">鲨卷风2</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -69267,6 +69294,9 @@
 	<programme channel="newtv怡伴健康" start="20240709035900 +0800" stop="20240709042600 +0800">
 		<title lang="zh">海岛上的新生命</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240709042600 +0800" stop="20240709045300 +0800">
+		<title lang="zh">豹的传承（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -69281,6 +69311,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240709033800 +0800" stop="20240709042300 +0800">
 		<title lang="zh">29_我的三个母亲</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240709042300 +0800" stop="20240709050900 +0800">
+		<title lang="zh">30_我的三个母亲</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -69299,6 +69332,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240709035200 +0800" stop="20240709044400 +0800">
 		<title lang="zh">天山雄鹰长空劲旅 国防知识挑战赛</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240709044400 +0800" stop="20240709050600 +0800">
+		<title lang="zh">F-16能否改变俄乌战局</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -69329,6 +69365,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240709034600 +0800" stop="20240709043100 +0800">
 		<title lang="zh">07_绝密使命</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240709043100 +0800" stop="20240709051600 +0800">
+		<title lang="zh">08_绝密使命</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
