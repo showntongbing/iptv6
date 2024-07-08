@@ -59637,6 +59637,9 @@
 	<programme channel="纯享4K" start="20240709052100 +0800" stop="20240709060100 +0800">
 		<title lang="zh">荣宝斋4K 第2集 宝增艺圃</title>
 	</programme>
+	<programme channel="纯享4K" start="20240709060100 +0800" stop="20240709063100 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71754,6 +71757,9 @@
 	<programme channel="newtv超级体育" start="20240709043500 +0800" stop="20240709060000 +0800">
 		<title lang="zh">2024年世界男排联赛总决赛-决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240709060000 +0800" stop="20240709063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71792,6 +71798,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240709051300 +0800" stop="20240709055500 +0800">
 		<title lang="zh">28_我们的队伍向太阳</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240709055500 +0800" stop="20240709063600 +0800">
+		<title lang="zh">29_我们的队伍向太阳</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -71849,6 +71858,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240709052900 +0800" stop="20240709055000 +0800">
 		<title lang="zh">08_刘铭传在台湾</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240709055000 +0800" stop="20240709061800 +0800">
+		<title lang="zh">28_我的抗战：击毙</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72021,6 +72033,9 @@
 	<programme channel="newtv怡伴健康" start="20240709052000 +0800" stop="20240709054700 +0800">
 		<title lang="zh">湖上风景线——百鸟齐飞（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240709054700 +0800" stop="20240709065600 +0800">
+		<title lang="zh">京剧《龙凤呈祥》第一段</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -72041,6 +72056,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240709050900 +0800" stop="20240709055400 +0800">
 		<title lang="zh">31_我的三个母亲</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240709055400 +0800" stop="20240709063900 +0800">
+		<title lang="zh">32_我的三个母亲</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72068,6 +72086,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240709052800 +0800" stop="20240709055000 +0800">
 		<title lang="zh">“以小博大”的反坦克弹药</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240709055000 +0800" stop="20240709061200 +0800">
+		<title lang="zh">“作秀”的北约援乌战车</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
