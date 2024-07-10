@@ -63828,6 +63828,9 @@
 	<programme channel="黑莓动画" start="20240711022700 +0800" stop="20240711025000 +0800">
 		<title lang="zh">10_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240711025000 +0800" stop="20240711031300 +0800">
+		<title lang="zh">11_骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -64368,6 +64371,9 @@
 	<programme channel="newtv超级电视剧" start="20240711021800 +0800" stop="20240711030400 +0800">
 		<title lang="zh">14_我哥我嫂</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240711030400 +0800" stop="20240711034900 +0800">
+		<title lang="zh">15_我哥我嫂</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -64445,6 +64451,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240711022000 +0800" stop="20240711030100 +0800">
 		<title lang="zh">07_幸福照相馆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240711030100 +0800" stop="20240711034200 +0800">
+		<title lang="zh">08_幸福照相馆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -64545,6 +64554,9 @@
 	<programme channel="newtv炫舞未来" start="20240711024500 +0800" stop="20240711025400 +0800">
 		<title lang="zh">《广场舞》 天马（附教学）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240711025400 +0800" stop="20240711031000 +0800">
+		<title lang="zh">说出愿望吧-応子（完整）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -64553,6 +64565,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240711013400 +0800" stop="20240711024700 +0800">
 		<title lang="zh">朋友请吃饭</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240711024700 +0800" stop="20240711033300 +0800">
+		<title lang="zh">16_绝密使命</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
