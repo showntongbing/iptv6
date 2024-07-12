@@ -25122,6 +25122,9 @@
 	<programme channel="咪咕综合体育" start="20240713013800 +0800" stop="20240713035700 +0800">
 		<title lang="zh">2024超三联赛深圳赛区Day2晚间场全场回放（王冠证）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240713035700 +0800" stop="20240713065500 +0800">
+		<title lang="zh">2024NBL全国男子篮球联赛常规赛第1轮全场回放：石家庄翔蓝vs河南赊店老酒（现场解说）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -63354,6 +63357,9 @@
 	<programme channel="newtv超级体育" start="20240713023500 +0800" stop="20240713040000 +0800">
 		<title lang="zh">2024年世界男排联赛总决赛-三四名决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240713040000 +0800" stop="20240713060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63444,6 +63450,9 @@
 	<programme channel="newtv古装剧场" start="20240713030600 +0800" stop="20240713035200 +0800">
 		<title lang="zh">37_大秦帝国之纵横</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240713035200 +0800" stop="20240713043700 +0800">
+		<title lang="zh">25_扶摇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63458,6 +63467,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240713030700 +0800" stop="20240713035500 +0800">
 		<title lang="zh">16_红幡</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240713035500 +0800" stop="20240713044200 +0800">
+		<title lang="zh">17_红幡</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -63606,6 +63618,9 @@
 	<programme channel="newtv炫舞未来" start="20240713034400 +0800" stop="20240713034800 +0800">
 		<title lang="zh">不惜时光-毕刚（舞蹈展示）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240713035900 +0800" stop="20240713040300 +0800">
+		<title lang="zh">在灿烂阳光下—毕刚（舞蹈展示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -63617,6 +63632,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240713030200 +0800" stop="20240713034800 +0800">
 		<title lang="zh">26_绝密使命</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240713034800 +0800" stop="20240713043300 +0800">
+		<title lang="zh">27_绝密使命</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -63698,6 +63716,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240713022600 +0800" stop="20240713035400 +0800">
 		<title lang="zh">龙门镇客栈</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240713035400 +0800" stop="20240713052300 +0800">
+		<title lang="zh">侠探锦毛鼠之血光再起</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
