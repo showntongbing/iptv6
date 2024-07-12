@@ -55479,6 +55479,9 @@
 	<programme channel="纯享4K" start="20240713051100 +0800" stop="20240713060100 +0800">
 		<title lang="zh">国家公园——万物共生之境4K 第2集 相伴同行</title>
 	</programme>
+	<programme channel="纯享4K" start="20240713060100 +0800" stop="20240713063100 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏礼赓续</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66111,6 +66114,9 @@
 	<programme channel="黑莓电影" start="20240713041900 +0800" stop="20240713055400 +0800">
 		<title lang="zh">燕赤霞猎妖传</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240713055400 +0800" stop="20240713074100 +0800">
+		<title lang="zh">照相师</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -66594,6 +66600,9 @@
 	<programme channel="newtv超级体育" start="20240713040000 +0800" stop="20240713060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年尤伯杯羽毛球赛 决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240713060000 +0800" stop="20240713063000 +0800">
+		<title lang="zh">赛事集锦-2024年射箭世界杯-安塔利亚站2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -66885,6 +66894,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240713050800 +0800" stop="20240713055200 +0800">
 		<title lang="zh">01_独生子女的婆婆妈妈</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240713055200 +0800" stop="20240713063600 +0800">
+		<title lang="zh">02_独生子女的婆婆妈妈</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -66935,6 +66947,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240713053200 +0800" stop="20240713055400 +0800">
 		<title lang="zh">俄乌冲突中的装甲对攻</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240713055400 +0800" stop="20240713061600 +0800">
+		<title lang="zh">俄乌冲突中的远程巡航导弹</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -67005,6 +67020,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240713041300 +0800" stop="20240713055200 +0800">
 		<title lang="zh">镇魔司：灵源秘术</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240713055200 +0800" stop="20240713071700 +0800">
+		<title lang="zh">南宋诡事之鬼樊楼</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -67028,6 +67046,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240713043100 +0800" stop="20240713054600 +0800">
 		<title lang="zh">大伙之家</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240713054600 +0800" stop="20240713070800 +0800">
+		<title lang="zh">德云斗笑社 第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
