@@ -49761,6 +49761,9 @@
 	<programme channel="纯享4K" start="20240714021200 +0800" stop="20240714025000 +0800">
 		<title lang="zh">探索b7发现4K 探秘三星堆 第4集</title>
 	</programme>
+	<programme channel="纯享4K" start="20240714025000 +0800" stop="20240714030500 +0800">
+		<title lang="zh">跑马溜溜的云上4K 第2集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59298,6 +59301,9 @@
 	<programme channel="黑莓动画" start="20240714021700 +0800" stop="20240714024000 +0800">
 		<title lang="zh">05_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240714024000 +0800" stop="20240714030400 +0800">
+		<title lang="zh">06_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59772,6 +59778,9 @@
 	<programme channel="newtv超级综艺" start="20240714014400 +0800" stop="20240714030100 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240714030100 +0800" stop="20240714044200 +0800">
+		<title lang="zh">国家宝藏 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59823,6 +59832,9 @@
 	<programme channel="newtv精品大剧" start="20240714021200 +0800" stop="20240714025700 +0800">
 		<title lang="zh">13_新刑警本色</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240714025700 +0800" stop="20240714034200 +0800">
+		<title lang="zh">14_新刑警本色</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59868,6 +59880,9 @@
 	<programme channel="newtv军旅剧场" start="20240714015300 +0800" stop="20240714023900 +0800">
 		<title lang="zh">20_红幡</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240714023900 +0800" stop="20240714032600 +0800">
+		<title lang="zh">21_红幡</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -59891,6 +59906,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240714011300 +0800" stop="20240714024800 +0800">
 		<title lang="zh">海豹突击队大战僵尸</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240714024800 +0800" stop="20240714033300 +0800">
+		<title lang="zh">36_最好的时代</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -59925,6 +59943,9 @@
 	<programme channel="newtv怡伴健康" start="20240714022600 +0800" stop="20240714025900 +0800">
 		<title lang="zh">02_你是我的奇迹</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240714025900 +0800" stop="20240714032600 +0800">
+		<title lang="zh">冰海本色——丰衣足食（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -59933,6 +59954,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240714021300 +0800" stop="20240714025700 +0800">
 		<title lang="zh">03_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240714025700 +0800" stop="20240714034100 +0800">
+		<title lang="zh">04_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -59958,6 +59982,9 @@
 	<programme channel="newtv军事评论" start="20240714022200 +0800" stop="20240714024400 +0800">
 		<title lang="zh">船政学堂 第七集 蛟龙出海（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240714024400 +0800" stop="20240714030500 +0800">
+		<title lang="zh">俄乌冲突中的防空力量</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -59969,6 +59996,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240714020500 +0800" stop="20240714025500 +0800">
 		<title lang="zh">05_香港</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240714025500 +0800" stop="20240714030300 +0800">
+		<title lang="zh">欢乐的歌儿唱起来-乌兰图雅（舞蹈展示+教学分解）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
