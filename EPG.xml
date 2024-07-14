@@ -58971,6 +58971,9 @@
 	<programme channel="黑莓动画" start="20240715033100 +0800" stop="20240715035400 +0800">
 		<title lang="zh">11_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240715035400 +0800" stop="20240715041200 +0800">
+		<title lang="zh">07_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59625,6 +59628,9 @@
 	<programme channel="newtv军事评论" start="20240715033400 +0800" stop="20240715035600 +0800">
 		<title lang="zh">共筑国防 有你有我 3</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240715035600 +0800" stop="20240715041800 +0800">
+		<title lang="zh">共筑国防 有你有我 4</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -59648,6 +59654,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240715034200 +0800" stop="20240715034600 +0800">
 		<title lang="zh">阿里山的姑娘-毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240715035400 +0800" stop="20240715051100 +0800">
+		<title lang="zh">爱要勇敢说出来 男嘉宾借采访表白（20240709）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
