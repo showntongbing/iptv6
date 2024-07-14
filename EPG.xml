@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20240715041800 +0800" stop="20240715060000 +0800">
 		<title lang="zh">花儿与少年第一季20140606</title>
 	</programme>
+	<programme channel="4K综艺" start="20240715060000 +0800" stop="20240715062500 +0800">
+		<title lang="zh">少年说听你说20180711</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -27425,6 +27428,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20240715035600 +0800" stop="20240715060300 +0800">
 		<title lang="zh">2024NBL全国男子篮球联赛常规赛第10轮全场回放：武汉锟鹏vs江西赣驰（现场解说）</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240715060300 +0800" stop="20240715075300 +0800">
+		<title lang="zh">2024斯诺克世界大奖赛Day4回放：周跃龙3-4罗尼b7奥沙利文（李照）</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -62535,6 +62541,9 @@
 	<programme channel="newtv超级体育" start="20240715013000 +0800" stop="20240715060000 +0800">
 		<title lang="zh">2024欧洲杯足球赛-决赛 西班牙-英格兰</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240715060000 +0800" stop="20240715063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -62655,6 +62664,9 @@
 	<programme channel="newtv古装剧场" start="20240715050400 +0800" stop="20240715054900 +0800">
 		<title lang="zh">36_扶摇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240715054900 +0800" stop="20240715063400 +0800">
+		<title lang="zh">37_扶摇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -62678,6 +62690,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240715050700 +0800" stop="20240715055300 +0800">
 		<title lang="zh">20_大汉口</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240715055300 +0800" stop="20240715063900 +0800">
+		<title lang="zh">21_大汉口</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -62820,6 +62835,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240715050200 +0800" stop="20240715054600 +0800">
 		<title lang="zh">13_独生子女的婆婆妈妈</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240715054600 +0800" stop="20240715063000 +0800">
+		<title lang="zh">14_独生子女的婆婆妈妈</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -62903,6 +62921,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240715053200 +0800" stop="20240715055400 +0800">
 		<title lang="zh">小器械塑形：软铁负重背心训练（20231024）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240715055400 +0800" stop="20240715061500 +0800">
+		<title lang="zh">民族健身舞《上海产的半导体》（20231023）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -63023,6 +63044,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240715041900 +0800" stop="20240715054900 +0800">
 		<title lang="zh">女子太极剑</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240715054900 +0800" stop="20240715062100 +0800">
+		<title lang="zh">女子轻重量级世界拳王争霸赛：丹尼尔斯VS罗宾逊</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
