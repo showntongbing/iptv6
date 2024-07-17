@@ -67536,6 +67536,9 @@
 	<programme channel="纯享4K" start="20240718021700 +0800" stop="20240718024700 +0800">
 		<title lang="zh">村庄故事4K 山水岩龙（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240718024700 +0800" stop="20240718031700 +0800">
+		<title lang="zh">村庄故事4K 山水岩龙（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -79953,6 +79956,9 @@
 	<programme channel="黑莓动画" start="20240718020900 +0800" stop="20240718023200 +0800">
 		<title lang="zh">01_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240718030000 +0800" stop="20240718032500 +0800">
+		<title lang="zh">07_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80511,6 +80517,9 @@
 	<programme channel="newtv精品大剧" start="20240718021500 +0800" stop="20240718030000 +0800">
 		<title lang="zh">04_菜刀班尖刀连</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240718030000 +0800" stop="20240718034600 +0800">
+		<title lang="zh">05_菜刀班尖刀连</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -80522,6 +80531,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240718020500 +0800" stop="20240718025600 +0800">
 		<title lang="zh">第2集：海洋</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240718025600 +0800" stop="20240718033500 +0800">
+		<title lang="zh">02_崇文重教</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -80535,6 +80547,9 @@
 	<programme channel="newtv古装剧场" start="20240718014600 +0800" stop="20240718023200 +0800">
 		<title lang="zh">10_天和局</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240718023200 +0800" stop="20240718031900 +0800">
+		<title lang="zh">11_天和局</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -80547,6 +80562,9 @@
 	<programme channel="newtv军旅剧场" start="20240718014600 +0800" stop="20240718023300 +0800">
 		<title lang="zh">02_红色娘子军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240718023300 +0800" stop="20240718032000 +0800">
+		<title lang="zh">03_红色娘子军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -80558,6 +80576,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240718014600 +0800" stop="20240718023100 +0800">
 		<title lang="zh">02_沃野飘香</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240718023100 +0800" stop="20240718031600 +0800">
+		<title lang="zh">03_沃野飘香</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80601,6 +80622,9 @@
 	<programme channel="newtv怡伴健康" start="20240718022100 +0800" stop="20240718025500 +0800">
 		<title lang="zh">14_你是我的奇迹</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240718025500 +0800" stop="20240718032200 +0800">
+		<title lang="zh">地球上的野性旅程（一）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80612,6 +80636,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240718021200 +0800" stop="20240718025600 +0800">
 		<title lang="zh">28_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240718025600 +0800" stop="20240718034000 +0800">
+		<title lang="zh">29_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80630,6 +80657,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240718022900 +0800" stop="20240718024300 +0800">
 		<title lang="zh">东方红-饶子龙（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240718025800 +0800" stop="20240718031200 +0800">
+		<title lang="zh">领航-李萍（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
