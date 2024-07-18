@@ -36855,6 +36855,9 @@
 	<programme channel="咪咕综合体育" start="20240719011300 +0800" stop="20240719032900 +0800">
 		<title lang="zh">2024NBL全国男子篮球联赛常规赛第11轮全场回放：河南赊店老酒vs长沙湾田勇胜（现场解说）</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240719032900 +0800" stop="20240719054300 +0800">
+		<title lang="zh">2024NBL全国男子篮球联赛常规赛第12轮全场回放：安徽文一vs江苏汤沟国藏（现场解说）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -64302,6 +64305,9 @@
 	<programme channel="纯享4K" start="20240719030900 +0800" stop="20240719033900 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7保山篇（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240719033900 +0800" stop="20240719042000 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -76881,6 +76887,9 @@
 	<programme channel="黑莓动画" start="20240719030300 +0800" stop="20240719033100 +0800">
 		<title lang="zh">10_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240719033100 +0800" stop="20240719035300 +0800">
+		<title lang="zh">11_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76889,6 +76898,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240719021100 +0800" stop="20240719033000 +0800">
 		<title lang="zh">法医秦明之血色婚礼</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240719033000 +0800" stop="20240719050200 +0800">
+		<title lang="zh">心中的秘密</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -77424,6 +77436,9 @@
 	<programme channel="newtv超级电视剧" start="20240719024600 +0800" stop="20240719033300 +0800">
 		<title lang="zh">05_亲爱的，你在哪里</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240719033300 +0800" stop="20240719041900 +0800">
+		<title lang="zh">06_亲爱的，你在哪里</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -77439,6 +77454,9 @@
 	<programme channel="newtv精品大剧" start="20240719024700 +0800" stop="20240719033300 +0800">
 		<title lang="zh">10_菜刀班尖刀连</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240719033300 +0800" stop="20240719041900 +0800">
+		<title lang="zh">11_菜刀班尖刀连</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -77453,6 +77471,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240719024800 +0800" stop="20240719034000 +0800">
 		<title lang="zh">第1集：生命之岛</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240719034000 +0800" stop="20240719041000 +0800">
+		<title lang="zh">第4集：张小斐是怎么做到的</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -77487,6 +77508,9 @@
 	<programme channel="newtv军旅剧场" start="20240719024100 +0800" stop="20240719032800 +0800">
 		<title lang="zh">08_红色娘子军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240719032800 +0800" stop="20240719041600 +0800">
+		<title lang="zh">09_红色娘子军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -77501,6 +77525,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240719025500 +0800" stop="20240719034000 +0800">
 		<title lang="zh">08_沃野飘香</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240719034000 +0800" stop="20240719043000 +0800">
+		<title lang="zh">09_沃野飘香</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -77525,6 +77552,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240719024900 +0800" stop="20240719033900 +0800">
 		<title lang="zh">07_女医明妃传</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240719033900 +0800" stop="20240719042600 +0800">
+		<title lang="zh">08_女医明妃传</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -77553,6 +77583,9 @@
 	<programme channel="newtv怡伴健康" start="20240719030600 +0800" stop="20240719033300 +0800">
 		<title lang="zh">飞瀑下的生机（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240719033300 +0800" stop="20240719040000 +0800">
+		<title lang="zh">飞瀑下的生机（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -77567,6 +77600,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240719025600 +0800" stop="20240719034000 +0800">
 		<title lang="zh">36_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240719034000 +0800" stop="20240719042400 +0800">
+		<title lang="zh">37_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -77586,6 +77622,12 @@
 	<programme channel="newtv炫舞未来" start="20240719022900 +0800" stop="20240719032800 +0800">
 		<title lang="zh">8岁像风一样的女子 跨栏跑出虚影 曾被奥运冠军刘翔点赞（20231214）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240719032800 +0800" stop="20240719033200 +0800">
+		<title lang="zh">中国吉祥-毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240719033900 +0800" stop="20240719045600 +0800">
+		<title lang="zh">天津消防VS内蒙古森林消防 谁是消防界的“显眼包”？（20231120）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -77594,6 +77636,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240719023300 +0800" stop="20240719034300 +0800">
 		<title lang="zh">灿烂的前行</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240719034300 +0800" stop="20240719042800 +0800">
+		<title lang="zh">22_风声</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
