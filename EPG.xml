@@ -63453,6 +63453,9 @@
 	<programme channel="纯享4K" start="20240720023100 +0800" stop="20240720030100 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7蒙阴篇（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240720030100 +0800" stop="20240720033100 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7蒙阴篇（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -76041,6 +76044,9 @@
 	<programme channel="黑莓动画" start="20240720022600 +0800" stop="20240720024900 +0800">
 		<title lang="zh">05_骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240720024900 +0800" stop="20240720031500 +0800">
+		<title lang="zh">12_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76515,6 +76521,9 @@
 	<programme channel="newtv超级综艺" start="20240720013600 +0800" stop="20240720025400 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240720025400 +0800" stop="20240720042700 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -76596,6 +76605,9 @@
 	<programme channel="newtv古装剧场" start="20240720021100 +0800" stop="20240720025800 +0800">
 		<title lang="zh">20_天和局</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240720025800 +0800" stop="20240720034400 +0800">
+		<title lang="zh">21_天和局</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -76607,6 +76619,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240720020200 +0800" stop="20240720024900 +0800">
 		<title lang="zh">12_红色娘子军</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240720024900 +0800" stop="20240720033700 +0800">
+		<title lang="zh">13_红色娘子军</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -76650,6 +76665,9 @@
 	<programme channel="newtv动作电影" start="20240720002900 +0800" stop="20240720025800 +0800">
 		<title lang="zh">变形金刚2</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240720025800 +0800" stop="20240720042100 +0800">
+		<title lang="zh">绝对忠诚之国家利益</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -76677,6 +76695,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240720021400 +0800" stop="20240720025800 +0800">
 		<title lang="zh">01_乌鸦小姐与蜥蜴先生</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240720025800 +0800" stop="20240720034200 +0800">
+		<title lang="zh">02_乌鸦小姐与蜥蜴先生</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -76694,6 +76715,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240720023700 +0800" stop="20240720025000 +0800">
 		<title lang="zh">东方红-饶子龙（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240720025000 +0800" stop="20240720030600 +0800">
+		<title lang="zh">点赞新时代-饶子龙（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
