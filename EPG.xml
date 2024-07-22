@@ -77169,6 +77169,9 @@
 	<programme channel="newtv超级电视剧" start="20240723031700 +0800" stop="20240723040300 +0800">
 		<title lang="zh">26_亲爱的，你在哪里</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240723040300 +0800" stop="20240723044100 +0800">
+		<title lang="zh">25_特种兵之火凤凰</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -77387,6 +77390,12 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240723003200 +0800" stop="20240723014800 +0800">
 		<title lang="zh">恰好是少年</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240723014800 +0800" stop="20240723034600 +0800">
+		<title lang="zh">登录圆鱼洲</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240723034600 +0800" stop="20240723053700 +0800">
+		<title lang="zh">黄金100秒（2022）</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240723014800 +0800" stop="20240723034600 +0800">
 		<title lang="zh">登录圆鱼洲</title>
