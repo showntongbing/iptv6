@@ -64302,6 +64302,9 @@
 	<programme channel="纯享4K" start="20240723041600 +0800" stop="20240723045800 +0800">
 		<title lang="zh">远方的家4K 长江行 卓克河：穿越四季</title>
 	</programme>
+	<programme channel="纯享4K" start="20240723045800 +0800" stop="20240723050300 +0800">
+		<title lang="zh">美丽中国自然4K 辽东湾的动物们系列 斑海豹</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -77601,6 +77604,9 @@
 	<programme channel="newtv精品大剧" start="20240723040800 +0800" stop="20240723045200 +0800">
 		<title lang="zh">17_狐影</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240723045200 +0800" stop="20240723053500 +0800">
+		<title lang="zh">18_狐影</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -77627,6 +77633,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240723043700 +0800" stop="20240723045200 +0800">
 		<title lang="zh">02_痴狂轮滑 骆垠材</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240723045200 +0800" stop="20240723051000 +0800">
+		<title lang="zh">03_寻味人生 唐敏</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -77694,6 +77703,9 @@
 	<programme channel="newtv家庭剧场" start="20240723041000 +0800" stop="20240723045500 +0800">
 		<title lang="zh">08_满堂儿女</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240723045500 +0800" stop="20240723054000 +0800">
+		<title lang="zh">09_满堂儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -77724,6 +77736,9 @@
 	<programme channel="newtv爱情喜剧" start="20240723040000 +0800" stop="20240723044700 +0800">
 		<title lang="zh">28_女医明妃传</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240723044700 +0800" stop="20240723053600 +0800">
+		<title lang="zh">29_女医明妃传</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -77735,6 +77750,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240723031700 +0800" stop="20240723044900 +0800">
 		<title lang="zh">镖行天下前传之至尊国宝</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240723044900 +0800" stop="20240723060700 +0800">
+		<title lang="zh">兵临城下-虎贲</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -77783,6 +77801,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240723040700 +0800" stop="20240723045100 +0800">
 		<title lang="zh">24_乌鸦小姐与蜥蜴先生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240723045100 +0800" stop="20240723053400 +0800">
+		<title lang="zh">25_乌鸦小姐与蜥蜴先生</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -77927,6 +77948,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240723040800 +0800" stop="20240723045600 +0800">
 		<title lang="zh">女子南棍</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240723045600 +0800" stop="20240723055100 +0800">
+		<title lang="zh">女子长拳</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
