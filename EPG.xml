@@ -36168,6 +36168,9 @@
 	<programme channel="咪咕综合体育" start="20240725044500 +0800" stop="20240725045500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240725045500 +0800" stop="20240725060500 +0800">
+		<title lang="zh">奥运风采-东京奥运会乒乓球男单决赛 樊振东-马龙</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -65580,6 +65583,9 @@
 	<programme channel="纯享4K" start="20240725041100 +0800" stop="20240725045300 +0800">
 		<title lang="zh">远方的家4K 长江行 金沙江：公主起舞的乐园</title>
 	</programme>
+	<programme channel="纯享4K" start="20240725045800 +0800" stop="20240725050300 +0800">
+		<title lang="zh">美丽中国自然4K 江西宜丰系列 遇见苦槠</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -79467,6 +79473,9 @@
 	<programme channel="newtv超级体育" start="20240725030000 +0800" stop="20240725050000 +0800">
 		<title lang="zh">巴黎奥运会-男足小组赛(法国队-美国队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240725050000 +0800" stop="20240725060000 +0800">
+		<title lang="zh">2024年皮划艇激流回旋世界杯-德国站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79569,6 +79578,9 @@
 	<programme channel="newtv古装剧场" start="20240725040400 +0800" stop="20240725044900 +0800">
 		<title lang="zh">18_少林寺传奇藏经阁</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240725044900 +0800" stop="20240725053400 +0800">
+		<title lang="zh">19_少林寺传奇藏经阁</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79611,6 +79623,9 @@
 	<programme channel="newtv家庭剧场" start="20240725041100 +0800" stop="20240725045600 +0800">
 		<title lang="zh">18_满堂儿女</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240725045600 +0800" stop="20240725054100 +0800">
+		<title lang="zh">19_满堂儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -79628,6 +79643,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240725041200 +0800" stop="20240725045800 +0800">
 		<title lang="zh">17_好事成双</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240725045800 +0800" stop="20240725054300 +0800">
+		<title lang="zh">18_好事成双</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -79710,11 +79728,17 @@
 	<programme channel="newtv潮妈辣婆" start="20240725040900 +0800" stop="20240725045100 +0800">
 		<title lang="zh">36_乌鸦小姐与蜥蜴先生</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240725045100 +0800" stop="20240725053000 +0800">
+		<title lang="zh">01_凤弈</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
 	<programme channel="newtv军事评论" start="20240725001600 +0800" stop="20240725004100 +0800">
 		<title lang="zh">国防军事早报</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240725044700 +0800" stop="20240725051200 +0800">
+		<title lang="zh">我架战鹰过险关</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
