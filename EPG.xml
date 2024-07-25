@@ -67233,6 +67233,9 @@
 	<programme channel="黑莓电影" start="20240726042600 +0800" stop="20240726055800 +0800">
 		<title lang="zh">命之途</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240726055800 +0800" stop="20240726072300 +0800">
+		<title lang="zh">东北奇缘</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -67518,6 +67521,9 @@
 	<programme channel="newtv超级体育" start="20240726050000 +0800" stop="20240726060000 +0800">
 		<title lang="zh">2024年皮划艇激流回旋世界杯-捷克站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240726060000 +0800" stop="20240726063000 +0800">
+		<title lang="zh">实况录像-2024年射箭世界杯 上海站 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67614,6 +67620,9 @@
 	<programme channel="newtv精品纪录" start="20240726053000 +0800" stop="20240726055400 +0800">
 		<title lang="zh">03_数学教会了我们什么</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240726055400 +0800" stop="20240726062300 +0800">
+		<title lang="zh">04_抽象的巨人</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -67664,6 +67673,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240726051400 +0800" stop="20240726055900 +0800">
 		<title lang="zh">06_秘密列车</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240726055900 +0800" stop="20240726064400 +0800">
+		<title lang="zh">07_秘密列车</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -67824,6 +67836,9 @@
 	<programme channel="newtv军事评论" start="20240726053100 +0800" stop="20240726055600 +0800">
 		<title lang="zh">来自长春航空展的“惊喜”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240726055600 +0800" stop="20240726062200 +0800">
+		<title lang="zh">来自高原天路的团员约定</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -67853,6 +67868,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240726054300 +0800" stop="20240726054700 +0800">
 		<title lang="zh">《广场舞》 花样年华表演</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240726060000 +0800" stop="20240726060600 +0800">
+		<title lang="zh">《广场舞》 花儿香第一讲_相思的方向</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -67913,6 +67931,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240726035300 +0800" stop="20240726054700 +0800">
 		<title lang="zh">2024美洲杯1/4决赛：委内瑞拉VS加拿大</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240726054700 +0800" stop="20240726072500 +0800">
+		<title lang="zh">2024美洲杯1/4决赛：哥伦比亚VS巴拿马</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
