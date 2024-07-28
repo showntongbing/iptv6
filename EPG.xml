@@ -36942,6 +36942,9 @@
 	<programme channel="黑莓动画" start="20240729002700 +0800" stop="20240729005100 +0800">
 		<title lang="zh">23_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240729005100 +0800" stop="20240729011700 +0800">
+		<title lang="zh">24_一人之下第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -37296,6 +37299,9 @@
 	<programme channel="newtv精品纪录" start="20240729003900 +0800" stop="20240729005000 +0800">
 		<title lang="zh">第4集：沈阳</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240729005000 +0800" stop="20240729010200 +0800">
+		<title lang="zh">第5集：南京</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -37323,6 +37329,9 @@
 	<programme channel="newtv热播精选" start="20240729001000 +0800" stop="20240729005900 +0800">
 		<title lang="zh">自然之臻新疆有机纯驼乳粉（新）-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240729005900 +0800" stop="20240729024100 +0800">
+		<title lang="zh">怒火冲天</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -37332,41 +37341,8 @@
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
-	<programme channel="newtv动作电影" start="20240729000000 +0800" stop="20240729020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729020000 +0800" stop="20240729040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729060000 +0800" stop="20240729080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729080000 +0800" stop="20240729100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729100600 +0800" stop="20240729120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729120000 +0800" stop="20240729140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729140000 +0800" stop="20240729160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729160000 +0800" stop="20240729180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729180000 +0800" stop="20240729190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729190000 +0800" stop="20240729200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729200000 +0800" stop="20240729220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240729220000 +0800" stop="20240729235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv动作电影" start="20240729005900 +0800" stop="20240729021700 +0800">
+		<title lang="zh">幽灵毒枭</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
