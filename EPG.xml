@@ -38646,6 +38646,9 @@
 	<programme channel="明星大片" start="20240728195900 +0800" stop="20240728204400 +0800">
 		<title lang="zh">21_暗恋橘生淮南</title>
 	</programme>
+	<programme channel="明星大片" start="20240728204400 +0800" stop="20240728211400 +0800">
+		<title lang="zh">【推广】花样人生W2版</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -61554,6 +61557,9 @@
 	<programme channel="纯享4K" start="20240728202800 +0800" stop="20240728203300 +0800">
 		<title lang="zh">美丽中国自然4K 哀牢山系列 铁树开花</title>
 	</programme>
+	<programme channel="纯享4K" start="20240728204300 +0800" stop="20240728213300 +0800">
+		<title lang="zh">世界遗产漫步4K 第2集 鼓浪屿</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -76806,6 +76812,9 @@
 	<programme channel="黑莓动画" start="20240728200900 +0800" stop="20240728203400 +0800">
 		<title lang="zh">11_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240728203400 +0800" stop="20240728204700 +0800">
+		<title lang="zh">15_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78273,6 +78282,9 @@
 	<programme channel="newtv古装剧场" start="20240728201000 +0800" stop="20240728204000 +0800">
 		<title lang="zh">【推广】花样人生W2版</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240728204000 +0800" stop="20240728212600 +0800">
+		<title lang="zh">38_星汉灿烂b7月升沧海</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -78753,6 +78765,9 @@
 	<programme channel="newtv怡伴健康" start="20240728201000 +0800" stop="20240728203900 +0800">
 		<title lang="zh">辽宁智慧斗vs湖南名将 第5局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240728203900 +0800" stop="20240728210900 +0800">
+		<title lang="zh">【推广】美丽密码A6版</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79113,6 +79128,9 @@
 	<programme channel="newtv精品综合" start="20240728195900 +0800" stop="20240728204400 +0800">
 		<title lang="zh">21_暗恋橘生淮南</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240728204400 +0800" stop="20240728211400 +0800">
+		<title lang="zh">【推广】花样人生W2版</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -79208,6 +79226,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240728192600 +0800" stop="20240728203600 +0800">
 		<title lang="zh">半熟恋人第3季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240728203600 +0800" stop="20240728210600 +0800">
+		<title lang="zh">【推广】美丽密码A6版</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
