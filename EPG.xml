@@ -25038,6 +25038,9 @@
 	<programme channel="咪咕综合体育" start="20240728090000 +0800" stop="20240728120000 +0800">
 		<title lang="zh">奥运时刻-混合团体10米气步枪决赛、女子双人3米板决赛等</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240728120000 +0800" stop="20240728121000 +0800">
+		<title lang="zh">奥运宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -77306,6 +77309,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240728090500 +0800" stop="20240728120000 +0800">
 		<title lang="zh">巴黎奥运会-赛事录播 7.28-1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240728120000 +0800" stop="20240728130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
