@@ -38397,6 +38397,9 @@
 	<programme channel="明星大片" start="20240728100200 +0800" stop="20240728105100 +0800">
 		<title lang="zh">琦玉坊和田玉中国龙传承尊-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20240728105100 +0800" stop="20240728113900 +0800">
+		<title lang="zh">08_星汉灿烂</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -77391,6 +77394,9 @@
 	<programme channel="newtv精品大剧" start="20240728095700 +0800" stop="20240728104700 +0800">
 		<title lang="zh">25_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240728104700 +0800" stop="20240728113600 +0800">
+		<title lang="zh">自然之臻新疆有机纯驼乳粉（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -77444,6 +77450,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240728100600 +0800" stop="20240728104900 +0800">
 		<title lang="zh">05_风涌稻香</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240728104900 +0800" stop="20240728112800 +0800">
+		<title lang="zh">千城百味（四十一）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -77721,6 +77730,9 @@
 	<programme channel="newtv怡伴健康" start="20240728101200 +0800" stop="20240728105100 +0800">
 		<title lang="zh">安化黑茶义聚昌一号贡尖30年茯茶-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240728105100 +0800" stop="20240728113300 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -77868,6 +77880,9 @@
 	<programme channel="newtv炫舞未来" start="20240728093400 +0800" stop="20240728105000 +0800">
 		<title lang="zh">第8期：尼格买提王冰冰刺激漂流打水仗</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240728105000 +0800" stop="20240728114000 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -77906,6 +77921,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240728100200 +0800" stop="20240728105100 +0800">
 		<title lang="zh">琦玉坊和田玉中国龙传承尊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240728105100 +0800" stop="20240728113900 +0800">
+		<title lang="zh">08_星汉灿烂</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
