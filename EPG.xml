@@ -55476,6 +55476,9 @@
 	<programme channel="爱情喜剧" start="20240728093700 +0800" stop="20240728103300 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20240728103300 +0800" stop="20240728112100 +0800">
+		<title lang="zh">17_老酒馆</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -61116,6 +61119,9 @@
 	<programme channel="纯享4K" start="20240728100400 +0800" stop="20240728103400 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7西双版纳（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240728103400 +0800" stop="20240728112500 +0800">
+		<title lang="zh">乘火车看中国4K 第三集 复兴之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66179,6 +66185,9 @@
 	</programme>
 	<programme channel="超级电影" start="20240728082600 +0800" stop="20240728104900 +0800">
 		<title lang="zh">白蛇2：青蛇劫起</title>
+	</programme>
+	<programme channel="超级电影" start="20240728104900 +0800" stop="20240728121300 +0800">
+		<title lang="zh">精灵糕点铺</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -76254,6 +76263,9 @@
 	<programme channel="黑莓动画" start="20240728101900 +0800" stop="20240728104300 +0800">
 		<title lang="zh">汪汪队立大功第3季15</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240728104300 +0800" stop="20240728110600 +0800">
+		<title lang="zh">汪汪队立大功第3季16</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77280,6 +77292,9 @@
 	<programme channel="newtv超级电影" start="20240728082600 +0800" stop="20240728104900 +0800">
 		<title lang="zh">白蛇2：青蛇劫起</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240728104900 +0800" stop="20240728121300 +0800">
+		<title lang="zh">精灵糕点铺</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -77330,6 +77345,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240728101200 +0800" stop="20240728105400 +0800">
 		<title lang="zh">20_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240728105400 +0800" stop="20240728113500 +0800">
+		<title lang="zh">21_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -77514,6 +77532,9 @@
 	<programme channel="newtv军旅剧场" start="20240728095400 +0800" stop="20240728103900 +0800">
 		<title lang="zh">23_锁定美军特使</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240728103900 +0800" stop="20240728112400 +0800">
+		<title lang="zh">24_锁定美军特使</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -77555,6 +77576,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240728094800 +0800" stop="20240728103600 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240728103600 +0800" stop="20240728112200 +0800">
+		<title lang="zh">25_非常有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -77621,6 +77645,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240728093700 +0800" stop="20240728103300 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240728103300 +0800" stop="20240728112100 +0800">
+		<title lang="zh">17_老酒馆</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -78029,6 +78056,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240728094500 +0800" stop="20240728103400 +0800">
 		<title lang="zh">57_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240728103400 +0800" stop="20240728111900 +0800">
+		<title lang="zh">58_少林寺传奇藏经阁</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
