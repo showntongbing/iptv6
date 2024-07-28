@@ -18534,6 +18534,9 @@
 	<programme channel="动作电影" start="20240728140000 +0800" stop="20240728155900 +0800">
 		<title lang="zh">破冰船</title>
 	</programme>
+	<programme channel="动作电影" start="20240728155900 +0800" stop="20240728170200 +0800">
+		<title lang="zh">铁甲狂猴之亡命雷霆</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -38477,6 +38480,9 @@
 	</programme>
 	<programme channel="明星大片" start="20240728150500 +0800" stop="20240728155400 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20240728155400 +0800" stop="20240728163900 +0800">
+		<title lang="zh">07_启航：当风起时</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -66324,6 +66330,9 @@
 	<programme channel="超级电影" start="20240728145300 +0800" stop="20240728155600 +0800">
 		<title lang="zh">电影《烈火营救》</title>
 	</programme>
+	<programme channel="超级电影" start="20240728155600 +0800" stop="20240728171700 +0800">
+		<title lang="zh">电影《后羿之逐日之战》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -76455,6 +76464,9 @@
 	<programme channel="黑莓动画" start="20240728154400 +0800" stop="20240728154700 +0800">
 		<title lang="zh">罗拉的雷厉机甲 可以变形为超酷的运动汽车</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240728154700 +0800" stop="20240728161100 +0800">
+		<title lang="zh">25_蟑螂王回来了 上</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77466,6 +77478,9 @@
 	<programme channel="newtv超级综艺" start="20240728144600 +0800" stop="20240728160200 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240728160200 +0800" stop="20240728170300 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -77528,6 +77543,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240728145300 +0800" stop="20240728155600 +0800">
 		<title lang="zh">电影《烈火营救》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240728155600 +0800" stop="20240728171700 +0800">
+		<title lang="zh">电影《后羿之逐日之战》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -77600,6 +77618,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240728151700 +0800" stop="20240728160300 +0800">
 		<title lang="zh">05_天狼星行动</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240728160300 +0800" stop="20240728164400 +0800">
+		<title lang="zh">16_花开山乡</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -77934,6 +77955,9 @@
 	<programme channel="newtv家庭剧场" start="20240728150400 +0800" stop="20240728160000 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240728160000 +0800" stop="20240728162400 +0800">
+		<title lang="zh">39_平安是福</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -77987,6 +78011,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240728150600 +0800" stop="20240728155000 +0800">
 		<title lang="zh">09_风声</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240728155000 +0800" stop="20240728163500 +0800">
+		<title lang="zh">10_风声</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -78075,6 +78102,9 @@
 	<programme channel="newtv动作电影" start="20240728140000 +0800" stop="20240728155900 +0800">
 		<title lang="zh">破冰船</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240728155900 +0800" stop="20240728170200 +0800">
+		<title lang="zh">铁甲狂猴之亡命雷霆</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -78149,6 +78179,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240728150300 +0800" stop="20240728155200 +0800">
 		<title lang="zh">福禧来红珊瑚龙凤挂牌套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240728155200 +0800" stop="20240728160600 +0800">
+		<title lang="zh">相声《年三十的歌》岳云鹏、孙越</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -78423,6 +78456,9 @@
 	<programme channel="newtv精品综合" start="20240728150500 +0800" stop="20240728155400 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240728155400 +0800" stop="20240728163900 +0800">
+		<title lang="zh">07_启航：当风起时</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -78494,6 +78530,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240728151600 +0800" stop="20240728155500 +0800">
 		<title lang="zh">火菲尔冷触媒喷雾循环扇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240728155500 +0800" stop="20240728172100 +0800">
+		<title lang="zh">中国地名大会 第三季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -78620,6 +78659,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240728150500 +0800" stop="20240728154900 +0800">
 		<title lang="zh">56_大唐荣耀</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240728154900 +0800" stop="20240728163800 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
