@@ -35172,6 +35172,9 @@
 	<programme channel="明星大片" start="20240729143600 +0800" stop="20240729145800 +0800">
 		<title lang="zh">09_一人之下第二季</title>
 	</programme>
+	<programme channel="明星大片" start="20240729145800 +0800" stop="20240729154700 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -57627,6 +57630,9 @@
 	<programme channel="纯享4K" start="20240729142300 +0800" stop="20240729145300 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7玉琢华章</title>
 	</programme>
+	<programme channel="纯享4K" start="20240729145300 +0800" stop="20240729153700 +0800">
+		<title lang="zh">乐享汇4K “新的唱响”演唱会（2）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71007,6 +71013,9 @@
 	<programme channel="黑莓动画" start="20240729144000 +0800" stop="20240729144600 +0800">
 		<title lang="zh">中秋的友谊小剧场，点亮佩奇灯笼获得世界上最美味的果冻</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240729150000 +0800" stop="20240729150600 +0800">
+		<title lang="zh">吃零食牙齿长蛀牙了，来和大牙学习怎么爱护牙齿吧</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71904,6 +71913,9 @@
 	<programme channel="newtv超级体育" start="20240729144500 +0800" stop="20240729150000 +0800">
 		<title lang="zh">2024年巴黎奥运会报道-遇见巴黎-17(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240729150000 +0800" stop="20240729152500 +0800">
+		<title lang="zh">巴黎奥运会- 赛事直播 7.29</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -72135,6 +72147,9 @@
 	<programme channel="newtv精品纪录" start="20240729140300 +0800" stop="20240729145000 +0800">
 		<title lang="zh">第12集：傀儡操纵大师</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240729145000 +0800" stop="20240729152500 +0800">
+		<title lang="zh">18_我的抗战：生命线</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -72191,6 +72206,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240729140100 +0800" stop="20240729144700 +0800">
 		<title lang="zh">33_梦华录</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240729144700 +0800" stop="20240729153200 +0800">
+		<title lang="zh">34_梦华录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -72318,6 +72336,9 @@
 	<programme channel="newtv家庭剧场" start="20240729142800 +0800" stop="20240729145300 +0800">
 		<title lang="zh">44_平安是福</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240729145300 +0800" stop="20240729154900 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -72368,6 +72389,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240729140700 +0800" stop="20240729145600 +0800">
 		<title lang="zh">12_风声</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240729145600 +0800" stop="20240729154100 +0800">
+		<title lang="zh">13_风声</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -72651,6 +72675,9 @@
 	<programme channel="newtv军事评论" start="20240729142700 +0800" stop="20240729145200 +0800">
 		<title lang="zh">日本加速将民用机场“军事化” 以军欲在加沙南部发起“斩首行动”？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240729145200 +0800" stop="20240729151800 +0800">
+		<title lang="zh">岛内媒体曝光台军新型“抗炸机堡” 美媒披露以色列“全球追杀”计划</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72785,6 +72812,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240729143600 +0800" stop="20240729145800 +0800">
 		<title lang="zh">09_一人之下第二季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240729145800 +0800" stop="20240729154700 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
