@@ -71418,6 +71418,9 @@
 	<programme channel="黑莓动画" start="20240729222700 +0800" stop="20240729225100 +0800">
 		<title lang="zh">23_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240729225100 +0800" stop="20240729231500 +0800">
+		<title lang="zh">24_咒术回战</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72720,6 +72723,9 @@
 	<programme channel="newtv精品纪录" start="20240729222800 +0800" stop="20240729225800 +0800">
 		<title lang="zh">钱学森</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240729225800 +0800" stop="20240729232500 +0800">
+		<title lang="zh">于敏</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -73356,6 +73362,9 @@
 	<programme channel="newtv怡伴健康" start="20240729222900 +0800" stop="20240729230000 +0800">
 		<title lang="zh">北京东炸团vs湖南名将 第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240729230000 +0800" stop="20240729234400 +0800">
+		<title lang="zh">第1期：彪悍女怀疑19岁男友爱上富婆，精致男孩为挽留女友现场卸妆</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -73569,6 +73578,9 @@
 	<programme channel="newtv军事评论" start="20240729222700 +0800" stop="20240729224900 +0800">
 		<title lang="zh">国安有我</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240729224900 +0800" stop="20240729231100 +0800">
+		<title lang="zh">枪械纪元b7冲锋枪 上</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -73670,6 +73682,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240729224000 +0800" stop="20240729225500 +0800">
 		<title lang="zh">点赞新时代-饶子龙（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240729225500 +0800" stop="20240729230800 +0800">
+		<title lang="zh">领航-李萍（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
