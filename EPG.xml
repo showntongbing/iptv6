@@ -41748,6 +41748,9 @@
 	<programme channel="newtv超级电视剧" start="20240730031000 +0800" stop="20240730035600 +0800">
 		<title lang="zh">20_山里红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240730035600 +0800" stop="20240730044100 +0800">
+		<title lang="zh">03_一代枭雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
