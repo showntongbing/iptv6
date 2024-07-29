@@ -16626,6 +16626,9 @@
 	<programme channel="动作电影" start="20240729190200 +0800" stop="20240729204800 +0800">
 		<title lang="zh">A计划续集</title>
 	</programme>
+	<programme channel="动作电影" start="20240729204800 +0800" stop="20240729211800 +0800">
+		<title lang="zh">【推广】美丽改变生活B版</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -32486,6 +32489,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20240729202000 +0800" stop="20240729205000 +0800">
 		<title lang="zh">【推广】花样人生W2版</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20240729205000 +0800" stop="20240729231100 +0800">
+		<title lang="zh">寻找雅克</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -51921,6 +51927,9 @@
 	<programme channel="爱情喜剧" start="20240729202500 +0800" stop="20240729205500 +0800">
 		<title lang="zh">【推广】美丽改变生活B版</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20240729205500 +0800" stop="20240729222600 +0800">
+		<title lang="zh">烧烤</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -71352,6 +71361,9 @@
 	<programme channel="黑莓动画" start="20240729204000 +0800" stop="20240729205400 +0800">
 		<title lang="zh">17_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240729205400 +0800" stop="20240729210700 +0800">
+		<title lang="zh">18_托宝战士之银河侦探1</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72615,6 +72627,9 @@
 	<programme channel="newtv精品纪录" start="20240729200800 +0800" stop="20240729205700 +0800">
 		<title lang="zh">福禧来红珊瑚龙凤挂牌套组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240729205700 +0800" stop="20240729215000 +0800">
+		<title lang="zh">07_千言万语</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -72698,6 +72713,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240729202800 +0800" stop="20240729205800 +0800">
 		<title lang="zh">【推广】花样人生W2版</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240729205800 +0800" stop="20240729215000 +0800">
+		<title lang="zh">42_星汉灿烂b7月升沧海</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -73038,6 +73056,9 @@
 	<programme channel="newtv爱情喜剧" start="20240729202500 +0800" stop="20240729205500 +0800">
 		<title lang="zh">【推广】美丽改变生活B版</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240729205500 +0800" stop="20240729222600 +0800">
+		<title lang="zh">烧烤</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -73085,6 +73106,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240729190200 +0800" stop="20240729204800 +0800">
 		<title lang="zh">A计划续集</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240729204800 +0800" stop="20240729211800 +0800">
+		<title lang="zh">【推广】美丽改变生活B版</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -73380,6 +73404,9 @@
 	<programme channel="newtv军事评论" start="20240729203300 +0800" stop="20240729205900 +0800">
 		<title lang="zh">穿越75年的战舰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240729205900 +0800" stop="20240729212100 +0800">
+		<title lang="zh">铸剑强国（1）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -73610,6 +73637,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240729202000 +0800" stop="20240729205000 +0800">
 		<title lang="zh">【推广】花样人生W2版</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240729205000 +0800" stop="20240729231100 +0800">
+		<title lang="zh">寻找雅克</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
