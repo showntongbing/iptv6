@@ -55188,6 +55188,9 @@
 	<programme channel="纯享4K" start="20240731141800 +0800" stop="20240731144800 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7玉耀古国</title>
 	</programme>
+	<programme channel="纯享4K" start="20240731144800 +0800" stop="20240731153200 +0800">
+		<title lang="zh">乐享汇4K “新的唱响”演唱会（4）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -69528,6 +69531,9 @@
 	<programme channel="黑莓动画" start="20240731144600 +0800" stop="20240731144900 +0800">
 		<title lang="zh">和鲨鱼宝宝在海底世界游戏吧！</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240731145800 +0800" stop="20240731150400 +0800">
+		<title lang="zh">大牙DIY系列用奥利奥巧克力饼干来制作花盆</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70506,6 +70512,9 @@
 	<programme channel="newtv超级电视剧" start="20240731140800 +0800" stop="20240731145400 +0800">
 		<title lang="zh">15_天狼星行动</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240731145400 +0800" stop="20240731154000 +0800">
+		<title lang="zh">16_天狼星行动</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -70701,6 +70710,9 @@
 	<programme channel="newtv古装剧场" start="20240731140400 +0800" stop="20240731144900 +0800">
 		<title lang="zh">02_参工传奇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240731144900 +0800" stop="20240731153500 +0800">
+		<title lang="zh">03_参工传奇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -70878,6 +70890,9 @@
 	<programme channel="newtv热播精选" start="20240731140900 +0800" stop="20240731145400 +0800">
 		<title lang="zh">20_风声</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240731145400 +0800" stop="20240731154300 +0800">
+		<title lang="zh">21_风声</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -71040,6 +71055,9 @@
 	<programme channel="newtv怡伴健康" start="20240731144000 +0800" stop="20240731145000 +0800">
 		<title lang="zh">小品《路口》 表演：郭冬临 魏积安 赵亮</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240731145600 +0800" stop="20240731150700 +0800">
+		<title lang="zh">相声《我的变 变 变》岳云鹏、孙越</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -71168,6 +71186,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240731142600 +0800" stop="20240731145100 +0800">
 		<title lang="zh">乌遭“最大规模空袭” 俄导弹飞越北约领空？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240731145100 +0800" stop="20240731151700 +0800">
+		<title lang="zh">日方炒作中国海警船巡航钓鱼岛几乎“全年无休” 俄乌开启大规模袭击</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
