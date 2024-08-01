@@ -69,6 +69,9 @@
 	<programme channel="4K综艺" start="20240802041800 +0800" stop="20240802050000 +0800">
 		<title lang="zh">重返地球20180302</title>
 	</programme>
+	<programme channel="4K综艺" start="20240802050000 +0800" stop="20240802062700 +0800">
+		<title lang="zh">奇兵神犬20171110</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -17579,6 +17582,93 @@
 	</programme>
 	<programme channel="上海纪实人文" start="20240802234100 +0800" stop="20240802235900 +0800">
 		<title lang="zh">纪录片</title>
+	</programme>
+	<channel id="上海都市">
+		<display-name lang="zh">上海都市</display-name>
+	</channel>
+	<programme channel="上海都市" start="20240802000400 +0800" stop="20240802005000 +0800">
+		<title lang="zh">开心全接触</title>
+	</programme>
+	<programme channel="上海都市" start="20240802005000 +0800" stop="20240802014300 +0800">
+		<title lang="zh">新老娘舅·我要问律师</title>
+	</programme>
+	<programme channel="上海都市" start="20240802014300 +0800" stop="20240802023600 +0800">
+		<title lang="zh">嘎讪胡</title>
+	</programme>
+	<programme channel="上海都市" start="20240802023600 +0800" stop="20240802032900 +0800">
+		<title lang="zh">人气美食</title>
+	</programme>
+	<programme channel="上海都市" start="20240802032900 +0800" stop="20240802042400 +0800">
+		<title lang="zh">X诊所</title>
+	</programme>
+	<programme channel="上海都市" start="20240802042400 +0800" stop="20240802045000 +0800">
+		<title lang="zh">人气美食</title>
+	</programme>
+	<programme channel="上海都市" start="20240802045000 +0800" stop="20240802045700 +0800">
+		<title lang="zh">纪录片</title>
+	</programme>
+	<programme channel="上海都市" start="20240802045700 +0800" stop="20240802055000 +0800">
+		<title lang="zh">嘎讪胡</title>
+	</programme>
+	<programme channel="上海都市" start="20240802055000 +0800" stop="20240802065100 +0800">
+		<title lang="zh">新老娘舅·我要问律师</title>
+	</programme>
+	<programme channel="上海都市" start="20240802065100 +0800" stop="20240802075100 +0800">
+		<title lang="zh">X诊所</title>
+	</programme>
+	<programme channel="上海都市" start="20240802075100 +0800" stop="20240802080300 +0800">
+		<title lang="zh">人气美食</title>
+	</programme>
+	<programme channel="上海都市" start="20240802080300 +0800" stop="20240802090000 +0800">
+		<title lang="zh">嘎讪胡</title>
+	</programme>
+	<programme channel="上海都市" start="20240802090000 +0800" stop="20240802102000 +0800">
+		<title lang="zh">开心全接触</title>
+	</programme>
+	<programme channel="上海都市" start="20240802102000 +0800" stop="20240802111300 +0800">
+		<title lang="zh">X诊所</title>
+	</programme>
+	<programme channel="上海都市" start="20240802111300 +0800" stop="20240802121400 +0800">
+		<title lang="zh">新老娘舅·我要问律师</title>
+	</programme>
+	<programme channel="上海都市" start="20240802121400 +0800" stop="20240802133200 +0800">
+		<title lang="zh">人气美食</title>
+	</programme>
+	<programme channel="上海都市" start="20240802133200 +0800" stop="20240802142800 +0800">
+		<title lang="zh">嘎讪胡</title>
+	</programme>
+	<programme channel="上海都市" start="20240802142800 +0800" stop="20240802152200 +0800">
+		<title lang="zh">X诊所</title>
+	</programme>
+	<programme channel="上海都市" start="20240802152200 +0800" stop="20240802161700 +0800">
+		<title lang="zh">新老娘舅·我要问律师</title>
+	</programme>
+	<programme channel="上海都市" start="20240802161700 +0800" stop="20240802164400 +0800">
+		<title lang="zh">开心全接触</title>
+	</programme>
+	<programme channel="上海都市" start="20240802164400 +0800" stop="20240802170500 +0800">
+		<title lang="zh">人气美食</title>
+	</programme>
+	<programme channel="上海都市" start="20240802170500 +0800" stop="20240802180000 +0800">
+		<title lang="zh">开心全接触</title>
+	</programme>
+	<programme channel="上海都市" start="20240802180000 +0800" stop="20240802190000 +0800">
+		<title lang="zh">新老娘舅·我要问律师</title>
+	</programme>
+	<programme channel="上海都市" start="20240802190000 +0800" stop="20240802200100 +0800">
+		<title lang="zh">疯狂的冰箱</title>
+	</programme>
+	<programme channel="上海都市" start="20240802200100 +0800" stop="20240802205500 +0800">
+		<title lang="zh">好吃记得夸我</title>
+	</programme>
+	<programme channel="上海都市" start="20240802205500 +0800" stop="20240802215400 +0800">
+		<title lang="zh">36.7</title>
+	</programme>
+	<programme channel="上海都市" start="20240802215400 +0800" stop="20240802225000 +0800">
+		<title lang="zh">人气美食</title>
+	</programme>
+	<programme channel="上海都市" start="20240802225000 +0800" stop="20240802234500 +0800">
+		<title lang="zh">疯狂的冰箱</title>
 	</programme>
 	<channel id="上视东方影视">
 		<display-name lang="zh">上视东方影视</display-name>
@@ -72402,6 +72492,9 @@
 	<programme channel="newtv超级体育" start="20240802043300 +0800" stop="20240802050000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 射击比赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240802050000 +0800" stop="20240802060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 乒乓球混双决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -72519,6 +72612,9 @@
 	<programme channel="newtv古装剧场" start="20240802041400 +0800" stop="20240802045800 +0800">
 		<title lang="zh">58_少林寺传奇藏经阁</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240802045800 +0800" stop="20240802054300 +0800">
+		<title lang="zh">59_少林寺传奇藏经阁</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -72585,6 +72681,9 @@
 	<programme channel="newtv热播精选" start="20240802041400 +0800" stop="20240802050000 +0800">
 		<title lang="zh">19_平凡之路</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240802050000 +0800" stop="20240802054500 +0800">
+		<title lang="zh">20_平凡之路</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -72603,6 +72702,9 @@
 	<programme channel="newtv爱情喜剧" start="20240802040500 +0800" stop="20240802045400 +0800">
 		<title lang="zh">30_独生子女的婆婆妈妈</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240802045400 +0800" stop="20240802054400 +0800">
+		<title lang="zh">31_独生子女的婆婆妈妈</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -72614,6 +72716,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240802032900 +0800" stop="20240802045000 +0800">
 		<title lang="zh">人类削减计划</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240802045000 +0800" stop="20240802060400 +0800">
+		<title lang="zh">杀戮部队</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -72681,6 +72786,9 @@
 	<programme channel="newtv军事评论" start="20240802043300 +0800" stop="20240802045800 +0800">
 		<title lang="zh">迷彩色的“硬核”爱情</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240802045800 +0800" stop="20240802052400 +0800">
+		<title lang="zh">青春绽放在新疆边防</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72704,6 +72812,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240802033800 +0800" stop="20240802045500 +0800">
 		<title lang="zh">爱要勇敢说出来 男嘉宾借采访表白（20240709）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240802045500 +0800" stop="20240802051700 +0800">
+		<title lang="zh">胸大肌中部训练（20231017）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
