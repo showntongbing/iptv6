@@ -72360,6 +72360,9 @@
 	<programme channel="黑莓动画" start="20240803053600 +0800" stop="20240803060100 +0800">
 		<title lang="zh">04_入间同学入魔了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240803060100 +0800" stop="20240803062600 +0800">
+		<title lang="zh">26_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72870,6 +72873,9 @@
 	<programme channel="newtv超级电影" start="20240803035100 +0800" stop="20240803055800 +0800">
 		<title lang="zh">李逵传奇</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240803055800 +0800" stop="20240803073700 +0800">
+		<title lang="zh">寻龙夺宝</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -73008,6 +73014,9 @@
 	<programme channel="newtv军旅剧场" start="20240803050900 +0800" stop="20240803055300 +0800">
 		<title lang="zh">21_红蔷薇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240803055300 +0800" stop="20240803063600 +0800">
+		<title lang="zh">22_红蔷薇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -73031,6 +73040,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240803050500 +0800" stop="20240803055000 +0800">
 		<title lang="zh">06_我和我的儿女们</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240803055000 +0800" stop="20240803063500 +0800">
+		<title lang="zh">07_我和我的儿女们</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -73143,6 +73155,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240803051300 +0800" stop="20240803055200 +0800">
 		<title lang="zh">16_特种兵之火凤凰</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240803055200 +0800" stop="20240803062800 +0800">
+		<title lang="zh">17_特种兵之火凤凰</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -73164,6 +73179,9 @@
 	<programme channel="newtv军事评论" start="20240803052100 +0800" stop="20240803054600 +0800">
 		<title lang="zh">我的战位不可或缺</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240803054600 +0800" stop="20240803061200 +0800">
+		<title lang="zh">“兵王”的奋斗强军路 第2集 士兵工匠张俊凯</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -73184,6 +73202,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240803054500 +0800" stop="20240803054900 +0800">
 		<title lang="zh">映山红-孙爱迪（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240803055300 +0800" stop="20240803071000 +0800">
+		<title lang="zh">把空竹抖出花 北京的大爷大妈真“会玩”（20220414）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
