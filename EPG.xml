@@ -67602,6 +67602,9 @@
 	<programme channel="黑莓动画" start="20240805042400 +0800" stop="20240805044700 +0800">
 		<title lang="zh">04_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240805044700 +0800" stop="20240805050900 +0800">
+		<title lang="zh">05_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68061,6 +68064,9 @@
 	<programme channel="newtv超级电视剧" start="20240805041600 +0800" stop="20240805050100 +0800">
 		<title lang="zh">30_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240805050100 +0800" stop="20240805054600 +0800">
+		<title lang="zh">31_一代枭雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -68196,6 +68202,9 @@
 	<programme channel="newtv热播精选" start="20240805040800 +0800" stop="20240805045400 +0800">
 		<title lang="zh">35_平凡之路</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240805045400 +0800" stop="20240805054000 +0800">
+		<title lang="zh">36_平凡之路</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -68286,6 +68295,9 @@
 	<programme channel="newtv军事评论" start="20240805040700 +0800" stop="20240805045900 +0800">
 		<title lang="zh">国防知识挑战赛</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240805045900 +0800" stop="20240805055100 +0800">
+		<title lang="zh">走进英雄皮旅</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -68324,6 +68336,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240805040100 +0800" stop="20240805045200 +0800">
 		<title lang="zh">35_无间</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240805045200 +0800" stop="20240805053800 +0800">
+		<title lang="zh">36_无间</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -68414,6 +68429,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240805042900 +0800" stop="20240805050000 +0800">
 		<title lang="zh">男子太极拳、太极剑全能</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240805050000 +0800" stop="20240805052100 +0800">
+		<title lang="zh">女子太极拳、太极剑全能</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
