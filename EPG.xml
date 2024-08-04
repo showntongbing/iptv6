@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20240805042200 +0800" stop="20240805055200 +0800">
 		<title lang="zh">亲爱的客栈第三季20191129</title>
 	</programme>
+	<programme channel="4K综艺" start="20240805055200 +0800" stop="20240805071100 +0800">
+		<title lang="zh">亲爱的客栈第三季20191206</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -68223,6 +68226,9 @@
 	<programme channel="黑莓动画" start="20240805053300 +0800" stop="20240805055700 +0800">
 		<title lang="zh">08_入间同学入魔了</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240805055700 +0800" stop="20240805062300 +0800">
+		<title lang="zh">30_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68234,6 +68240,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240805041900 +0800" stop="20240805054700 +0800">
 		<title lang="zh">星际大逃亡</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240805054700 +0800" stop="20240805072100 +0800">
+		<title lang="zh">毒中毒</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -68799,6 +68808,9 @@
 	<programme channel="newtv军旅剧场" start="20240805050400 +0800" stop="20240805055000 +0800">
 		<title lang="zh">31_红蔷薇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240805055000 +0800" stop="20240805064100 +0800">
+		<title lang="zh">32_红蔷薇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -68825,6 +68837,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240805051400 +0800" stop="20240805055900 +0800">
 		<title lang="zh">17_我和我的儿女们</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240805055900 +0800" stop="20240805064400 +0800">
+		<title lang="zh">18_我和我的儿女们</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -68867,6 +68882,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240805050900 +0800" stop="20240805060000 +0800">
 		<title lang="zh">05_大都市小爱情</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240805060000 +0800" stop="20240805065100 +0800">
+		<title lang="zh">06_大都市小爱情</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -68937,6 +68955,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240805051500 +0800" stop="20240805055300 +0800">
 		<title lang="zh">30_特种兵之火凤凰</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240805055300 +0800" stop="20240805062600 +0800">
+		<title lang="zh">31_特种兵之火凤凰</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -68948,6 +68969,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240805045900 +0800" stop="20240805055100 +0800">
 		<title lang="zh">走进英雄皮旅</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240805055100 +0800" stop="20240805064400 +0800">
+		<title lang="zh">神箭从这里腾飞</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -69101,6 +69125,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240805052100 +0800" stop="20240805055300 +0800">
 		<title lang="zh">洲际拳王争霸赛：凯肖恩-戴维斯VS纳西尔-奥尔布赖特</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240805055300 +0800" stop="20240805064100 +0800">
+		<title lang="zh">中量级世界拳王统一战：阿里姆哈努利VS瓜尔蒂耶里</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
