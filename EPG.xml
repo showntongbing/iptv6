@@ -58224,6 +58224,9 @@
 	<programme channel="黑莓动画" start="20240808032800 +0800" stop="20240808034700 +0800">
 		<title lang="zh">07_全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240808034700 +0800" stop="20240808040400 +0800">
+		<title lang="zh">08_全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -58731,41 +58734,8 @@
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20240808000000 +0800" stop="20240808020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808020000 +0800" stop="20240808040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808060000 +0800" stop="20240808080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808080000 +0800" stop="20240808100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808100600 +0800" stop="20240808120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808120000 +0800" stop="20240808140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808140000 +0800" stop="20240808160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808160000 +0800" stop="20240808180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808180000 +0800" stop="20240808190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808190000 +0800" stop="20240808200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808200000 +0800" stop="20240808220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240808220000 +0800" stop="20240808235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20240808040000 +0800" stop="20240808053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 体操单项决赛2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -58778,6 +58748,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240808020100 +0800" stop="20240808035500 +0800">
 		<title lang="zh">天机-富春山居图</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240808035500 +0800" stop="20240808053100 +0800">
+		<title lang="zh">兰梅记</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58950,6 +58923,9 @@
 	<programme channel="newtv怡伴健康" start="20240808033200 +0800" stop="20240808035600 +0800">
 		<title lang="zh">在中国大地上边走边跳b7山东乐陵</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240808035600 +0800" stop="20240808042100 +0800">
+		<title lang="zh">新声乐游季</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -58964,6 +58940,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240808032100 +0800" stop="20240808035600 +0800">
 		<title lang="zh">47_特种兵之火凤凰</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240808035600 +0800" stop="20240808042400 +0800">
+		<title lang="zh">48_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -58991,6 +58970,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240808033900 +0800" stop="20240808035100 +0800">
 		<title lang="zh">不忘初心-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240808035200 +0800" stop="20240808040900 +0800">
+		<title lang="zh">万疆-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -59033,6 +59015,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20240808020900 +0800" stop="20240808034900 +0800">
 		<title lang="zh">2024美洲杯小组赛：巴拉圭VS巴西</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240808034900 +0800" stop="20240808052400 +0800">
+		<title lang="zh">2024美洲杯小组赛：哥伦比亚VS哥斯达黎加</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
