@@ -53493,6 +53493,9 @@
 	<programme channel="纯享4K" start="20240809024200 +0800" stop="20240809025600 +0800">
 		<title lang="zh">跑马溜溜的云上4K 第4集</title>
 	</programme>
+	<programme channel="纯享4K" start="20240809025600 +0800" stop="20240809032100 +0800">
+		<title lang="zh">在乡村4K 第5集 理想的房子</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65145,6 +65148,9 @@
 	<programme channel="newtv超级电视剧" start="20240809020800 +0800" stop="20240809025400 +0800">
 		<title lang="zh">08_远方的山楂树</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240809025400 +0800" stop="20240809033900 +0800">
+		<title lang="zh">09_远方的山楂树</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -65156,6 +65162,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240809020800 +0800" stop="20240809025300 +0800">
 		<title lang="zh">05_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240809025300 +0800" stop="20240809033800 +0800">
+		<title lang="zh">06_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -65214,6 +65223,9 @@
 	<programme channel="newtv家庭剧场" start="20240809021300 +0800" stop="20240809025800 +0800">
 		<title lang="zh">17_好歹一家人</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240809025800 +0800" stop="20240809034400 +0800">
+		<title lang="zh">18_好歹一家人</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -65262,6 +65274,9 @@
 	<programme channel="newtv怡伴健康" start="20240809022000 +0800" stop="20240809025400 +0800">
 		<title lang="zh">17_怒晴湘西</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240809025400 +0800" stop="20240809031900 +0800">
+		<title lang="zh">舞蹈世界</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -65295,6 +65310,9 @@
 	<programme channel="newtv炫舞未来" start="20240809024200 +0800" stop="20240809025300 +0800">
 		<title lang="zh">《广场舞》 赞赞赞（附教学）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240809030000 +0800" stop="20240809030400 +0800">
+		<title lang="zh">《广场舞》 谁家的姑娘（正面演示）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -65321,6 +65339,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240809001800 +0800" stop="20240809030600 +0800">
 		<title lang="zh">灿烂的前行</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240809030600 +0800" stop="20240809050300 +0800">
+		<title lang="zh">天天把歌唱（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -65378,6 +65399,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240809013300 +0800" stop="20240809025000 +0800">
 		<title lang="zh">封神：画圣归来</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240809025000 +0800" stop="20240809041900 +0800">
+		<title lang="zh">侠义神捕之诡影</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
