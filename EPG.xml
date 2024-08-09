@@ -65475,41 +65475,8 @@
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20240810000000 +0800" stop="20240810020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810020000 +0800" stop="20240810040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810060000 +0800" stop="20240810080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810080000 +0800" stop="20240810100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810100600 +0800" stop="20240810120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810120000 +0800" stop="20240810140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810140000 +0800" stop="20240810160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810160000 +0800" stop="20240810180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810180000 +0800" stop="20240810190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810190000 +0800" stop="20240810200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810200000 +0800" stop="20240810220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20240810220000 +0800" stop="20240810235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20240810040000 +0800" stop="20240810053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 羽毛球女单决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -65540,6 +65507,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240810031300 +0800" stop="20240810035800 +0800">
 		<title lang="zh">15_远方的山楂树</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240810035800 +0800" stop="20240810044400 +0800">
+		<title lang="zh">10_青山不墨</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
