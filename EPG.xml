@@ -73158,6 +73158,9 @@
 	<programme channel="黑莓动画" start="20240810101800 +0800" stop="20240810104100 +0800">
 		<title lang="zh">汪汪队立大功第3季01</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240810104100 +0800" stop="20240810110400 +0800">
+		<title lang="zh">汪汪队立大功第3季02</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73827,6 +73830,9 @@
 	<programme channel="newtv精品大剧" start="20240810095600 +0800" stop="20240810104100 +0800">
 		<title lang="zh">22_乡村爱情10（下）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240810104100 +0800" stop="20240810112700 +0800">
+		<title lang="zh">23_乡村爱情10（下）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -73874,6 +73880,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240810095200 +0800" stop="20240810103200 +0800">
 		<title lang="zh">第6集：结婚</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240810103200 +0800" stop="20240810111000 +0800">
+		<title lang="zh">家乡至味2022（10）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -73965,6 +73974,9 @@
 	<programme channel="newtv军旅剧场" start="20240810095300 +0800" stop="20240810103600 +0800">
 		<title lang="zh">21_百战天狼</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240810103600 +0800" stop="20240810112000 +0800">
+		<title lang="zh">22_百战天狼</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -74051,6 +74063,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240810095400 +0800" stop="20240810103900 +0800">
 		<title lang="zh">51_独孤天下</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240810103900 +0800" stop="20240810112500 +0800">
+		<title lang="zh">52_独孤天下</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -74250,6 +74265,9 @@
 	<programme channel="newtv军事评论" start="20240810101700 +0800" stop="20240810103900 +0800">
 		<title lang="zh">直击首届亚洲通用航空展 下</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240810103900 +0800" stop="20240810110000 +0800">
+		<title lang="zh">俄乌冲突中的北约战车</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -74307,6 +74325,9 @@
 	<programme channel="newtv炫舞未来" start="20240810091400 +0800" stop="20240810103100 +0800">
 		<title lang="zh">凯德丽娅带来音乐剧《摇篮曲》讲述感人故事（20240803）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240810103100 +0800" stop="20240810111300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -74348,6 +74369,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240810100100 +0800" stop="20240810104100 +0800">
 		<title lang="zh">财源滚滚鸿运福礼套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240810104100 +0800" stop="20240810112700 +0800">
+		<title lang="zh">17_嫣语赋</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
