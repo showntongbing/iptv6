@@ -51135,6 +51135,9 @@
 	<programme channel="纯享4K" start="20240812030700 +0800" stop="20240812034800 +0800">
 		<title lang="zh">远方的家4K 长江行 海派文化 历久弥新</title>
 	</programme>
+	<programme channel="纯享4K" start="20240812034800 +0800" stop="20240812043000 +0800">
+		<title lang="zh">远方的家4K 长江行 共创家园 筑梦上海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61383,6 +61386,9 @@
 	<programme channel="黑莓动画" start="20240812033300 +0800" stop="20240812035200 +0800">
 		<title lang="zh">04_全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240812035200 +0800" stop="20240812041400 +0800">
+		<title lang="zh">18_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61791,6 +61797,9 @@
 	<programme channel="newtv超级综艺" start="20240812015100 +0800" stop="20240812035600 +0800">
 		<title lang="zh">首届青年京剧演员大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240812035600 +0800" stop="20240812051700 +0800">
+		<title lang="zh">乐在旅途</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -61827,6 +61836,9 @@
 	<programme channel="newtv超级电视剧" start="20240812031900 +0800" stop="20240812040500 +0800">
 		<title lang="zh">25_远方的山楂树</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240812040500 +0800" stop="20240812045000 +0800">
+		<title lang="zh">18_青山不墨</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61844,6 +61856,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240812030300 +0800" stop="20240812034800 +0800">
 		<title lang="zh">20_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240812034800 +0800" stop="20240812043400 +0800">
+		<title lang="zh">34_射天狼</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61920,6 +61935,9 @@
 	<programme channel="newtv家庭剧场" start="20240812030200 +0800" stop="20240812035600 +0800">
 		<title lang="zh">05_幸福的错觉</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240812035600 +0800" stop="20240812044100 +0800">
+		<title lang="zh">15_我和我的他们</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -61935,6 +61953,9 @@
 	<programme channel="newtv热播精选" start="20240812030600 +0800" stop="20240812035200 +0800">
 		<title lang="zh">35_林深见鹿</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240812035200 +0800" stop="20240812043800 +0800">
+		<title lang="zh">36_林深见鹿</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61946,6 +61967,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240812025700 +0800" stop="20240812035100 +0800">
 		<title lang="zh">12_婚姻那些事儿</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240812035100 +0800" stop="20240812044400 +0800">
+		<title lang="zh">13_婚姻那些事儿</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61979,6 +62003,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240812032400 +0800" stop="20240812034900 +0800">
 		<title lang="zh">中国舞蹈b7非遗 山中舞</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240812034900 +0800" stop="20240812041300 +0800">
+		<title lang="zh">在中国大地上边走边跳b7河南三门峡</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -62030,6 +62057,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240812030400 +0800" stop="20240812034900 +0800">
 		<title lang="zh">28_百战天狼</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240812034900 +0800" stop="20240812043300 +0800">
+		<title lang="zh">29_百战天狼</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
