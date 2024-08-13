@@ -67929,6 +67929,9 @@
 	<programme channel="newtv超级体育" start="20240814053000 +0800" stop="20240814060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 射击比赛3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240814060000 +0800" stop="20240814063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 赛艇比赛2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
