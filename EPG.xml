@@ -63117,6 +63117,15 @@
 	<programme channel="黑莓动画" start="20240815003200 +0800" stop="20240815005700 +0800">
 		<title lang="zh">19_一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240815005700 +0800" stop="20240815012100 +0800">
+		<title lang="zh">20_一人之下第二季</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20240815004800 +0800" stop="20240815022100 +0800">
+		<title lang="zh">刚果惊魂</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -63612,6 +63621,9 @@
 	<programme channel="newtv超级电影" start="20240815004100 +0800" stop="20240815005500 +0800">
 		<title lang="zh">今日影评</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240815005500 +0800" stop="20240815022400 +0800">
+		<title lang="zh">超萌英雄</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -63635,6 +63647,9 @@
 	</channel>
 	<programme channel="newtv古装剧场" start="20240815001700 +0800" stop="20240815005800 +0800">
 		<title lang="zh">33_解忧公主</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240815005800 +0800" stop="20240815013900 +0800">
+		<title lang="zh">34_解忧公主</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -63677,6 +63692,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240815004100 +0800" stop="20240815005500 +0800">
 		<title lang="zh">小品《新借髢髢》 表演：范军 秦梦瑶 等</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240815005500 +0800" stop="20240815010500 +0800">
+		<title lang="zh">小品《新虎口遐想》 表演：姜昆 戴志诚</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -63828,41 +63846,8 @@
 	<channel id="newtv中国功夫">
 		<display-name lang="zh">NEWTV中国功夫</display-name>
 	</channel>
-	<programme channel="newtv中国功夫" start="20240815000000 +0800" stop="20240815020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815020000 +0800" stop="20240815040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815060000 +0800" stop="20240815080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815080000 +0800" stop="20240815100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815100600 +0800" stop="20240815120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815120000 +0800" stop="20240815140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815140000 +0800" stop="20240815160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815160000 +0800" stop="20240815180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815180000 +0800" stop="20240815190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815190000 +0800" stop="20240815200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815200000 +0800" stop="20240815220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv中国功夫" start="20240815220000 +0800" stop="20240815235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv中国功夫" start="20240815005000 +0800" stop="20240815021000 +0800">
+		<title lang="zh">七剑降魔传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
