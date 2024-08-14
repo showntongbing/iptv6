@@ -52005,6 +52005,9 @@
 	<programme channel="纯享4K" start="20240815030500 +0800" stop="20240815034700 +0800">
 		<title lang="zh">远方的家4K 大运河（19） 航行在苏南运河</title>
 	</programme>
+	<programme channel="纯享4K" start="20240815034700 +0800" stop="20240815042900 +0800">
+		<title lang="zh">远方的家4K 大运河（20） 从枫桥到阊门</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63375,6 +63378,9 @@
 	<programme channel="黑莓动画" start="20240815033100 +0800" stop="20240815034900 +0800">
 		<title lang="zh">09_全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240815034900 +0800" stop="20240815040800 +0800">
+		<title lang="zh">10_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63383,6 +63389,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240815022100 +0800" stop="20240815035000 +0800">
 		<title lang="zh">我的美女室友</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240815035000 +0800" stop="20240815052200 +0800">
+		<title lang="zh">瓜田喜事</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -63888,6 +63897,9 @@
 	<programme channel="newtv超级体育" start="20240815030000 +0800" stop="20240815040000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 举重女子49公斤级决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240815040000 +0800" stop="20240815050000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 羽毛球男单决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63899,6 +63911,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240815022400 +0800" stop="20240815035100 +0800">
 		<title lang="zh">一生有你</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240815035100 +0800" stop="20240815052200 +0800">
+		<title lang="zh">烽火木兰山</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -63956,6 +63971,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240815032100 +0800" stop="20240815035500 +0800">
 		<title lang="zh">发明b7传播</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240815035500 +0800" stop="20240815041800 +0800">
+		<title lang="zh">05_解码之路</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -64026,6 +64044,9 @@
 	<programme channel="newtv热播精选" start="20240815025800 +0800" stop="20240815034600 +0800">
 		<title lang="zh">11_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240815034600 +0800" stop="20240815043400 +0800">
+		<title lang="zh">12_爱的二八定律</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -64077,6 +64098,9 @@
 	<programme channel="newtv怡伴健康" start="20240815032200 +0800" stop="20240815034700 +0800">
 		<title lang="zh">舞蹈世界</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240815034700 +0800" stop="20240815041100 +0800">
+		<title lang="zh">在中国大地上边走边跳b7贵州村超</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -64121,6 +64145,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240815033800 +0800" stop="20240815035500 +0800">
 		<title lang="zh">万疆-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240815035500 +0800" stop="20240815041400 +0800">
+		<title lang="zh">江山-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
