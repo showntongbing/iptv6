@@ -53313,6 +53313,9 @@
 	<programme channel="纯享4K" start="20240816024400 +0800" stop="20240816025900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 扑灰年画b7踢毽子</title>
 	</programme>
+	<programme channel="纯享4K" start="20240816025900 +0800" stop="20240816034000 +0800">
+		<title lang="zh">远方的家4K 大运河（21） 江南水乡 姑苏风情</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65112,6 +65115,9 @@
 	<programme channel="黑莓动画" start="20240816020200 +0800" stop="20240816025000 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240816025000 +0800" stop="20240816034200 +0800">
+		<title lang="zh">星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65613,6 +65619,9 @@
 	<programme channel="newtv超级体育" start="20240816013000 +0800" stop="20240816030000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 男排半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240816030000 +0800" stop="20240816040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 举重女子59公斤级决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -65802,6 +65811,9 @@
 	<programme channel="newtv炫舞未来" start="20240816023800 +0800" stop="20240816024700 +0800">
 		<title lang="zh">火辣辣的情歌-乌兰图雅（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240816025500 +0800" stop="20240816030800 +0800">
+		<title lang="zh">不忘初心-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -65825,6 +65837,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240816002200 +0800" stop="20240816024900 +0800">
 		<title lang="zh">大伙之家</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240816024900 +0800" stop="20240816044500 +0800">
+		<title lang="zh">天天把歌唱（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
