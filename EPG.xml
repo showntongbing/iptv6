@@ -62943,6 +62943,9 @@
 	<programme channel="newtv超级体育" start="20240817053000 +0800" stop="20240817060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 花样游泳双人技术自选</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240817060000 +0800" stop="20240817063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 女子七人制橄榄球比赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -62954,6 +62957,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240817041500 +0800" stop="20240817055900 +0800">
 		<title lang="zh">石头村发财记</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240817055900 +0800" stop="20240817074100 +0800">
+		<title lang="zh">命之途</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -63005,6 +63011,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240817050800 +0800" stop="20240817055000 +0800">
 		<title lang="zh">22_北部湾人家</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240817055000 +0800" stop="20240817063100 +0800">
+		<title lang="zh">23_北部湾人家</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -63066,6 +63075,9 @@
 	<programme channel="newtv古装剧场" start="20240817051800 +0800" stop="20240817055800 +0800">
 		<title lang="zh">23_民国恩仇录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240817055800 +0800" stop="20240817063800 +0800">
+		<title lang="zh">24_民国恩仇录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -63116,6 +63128,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240817050700 +0800" stop="20240817055300 +0800">
 		<title lang="zh">04_小日子</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240817055300 +0800" stop="20240817064000 +0800">
+		<title lang="zh">05_小日子</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -63207,6 +63222,9 @@
 	<programme channel="newtv怡伴健康" start="20240817052200 +0800" stop="20240817054900 +0800">
 		<title lang="zh">蝰蛇王国（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240817054900 +0800" stop="20240817080600 +0800">
+		<title lang="zh">京剧《清风亭》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -63242,6 +63260,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240817050700 +0800" stop="20240817060000 +0800">
 		<title lang="zh">光荣的通信兵 学习争标兵 训练砺精兵 通信当尖兵</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240817060000 +0800" stop="20240817065200 +0800">
+		<title lang="zh">追寻保定红色记忆 国防知识挑战赛走进河北保定</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -63281,6 +63302,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240817054400 +0800" stop="20240817055700 +0800">
 		<title lang="zh">荷塘月色-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240817055700 +0800" stop="20240817061400 +0800">
+		<title lang="zh">草原的月亮-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
