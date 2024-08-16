@@ -34164,6 +34164,9 @@
 	<programme channel="纯享4K" start="20240817003300 +0800" stop="20240817010100 +0800">
 		<title lang="zh">记住乡愁4K 第八季 理塘——天空之城 同舟共济</title>
 	</programme>
+	<programme channel="纯享4K" start="20240817010100 +0800" stop="20240817021100 +0800">
+		<title lang="zh">乐享汇4K “心声向往”演唱会</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -42891,6 +42894,9 @@
 	<programme channel="newtv超级体育" start="20240817003500 +0800" stop="20240817010800 +0800">
 		<title lang="zh">顶级赛事-象棋</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240817010800 +0800" stop="20240817023500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 男排决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -42902,6 +42908,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20240817001900 +0800" stop="20240817010400 +0800">
 		<title lang="zh">46_远方的山楂树</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240817010400 +0800" stop="20240817014900 +0800">
+		<title lang="zh">47_远方的山楂树</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42923,6 +42932,9 @@
 	</channel>
 	<programme channel="newtv古装剧场" start="20240817001200 +0800" stop="20240817005700 +0800">
 		<title lang="zh">01_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240817005700 +0800" stop="20240817014200 +0800">
+		<title lang="zh">02_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -42995,6 +43007,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240817004000 +0800" stop="20240817004900 +0800">
 		<title lang="zh">小品《暖冬》 表演：冯巩 金玉婷</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240817004900 +0800" stop="20240817010300 +0800">
+		<title lang="zh">相声《年三十的歌》岳云鹏、孙越</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
