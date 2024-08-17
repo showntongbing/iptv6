@@ -25779,6 +25779,9 @@
 	<programme channel="咪咕综合体育" start="20240818021500 +0800" stop="20240818045500 +0800">
 		<title lang="zh">足球世界-德国超级杯 勒沃库森-斯图加特 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240818050000 +0800" stop="20240818063000 +0800">
+		<title lang="zh">奥运时刻-击剑 女子个人重剑 男子个人佩剑金牌赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -65142,6 +65145,9 @@
 	<programme channel="newtv精品大剧" start="20240818041200 +0800" stop="20240818045800 +0800">
 		<title lang="zh">20_冷风暴</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240818045800 +0800" stop="20240818053900 +0800">
+		<title lang="zh">28_北部湾人家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -65165,6 +65171,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240818035700 +0800" stop="20240818045300 +0800">
 		<title lang="zh">第四集 脱胎换骨</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240818045300 +0800" stop="20240818055200 +0800">
+		<title lang="zh">02_爱因斯坦与霍金 解锁宇宙</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -65250,6 +65259,9 @@
 	<programme channel="newtv热播精选" start="20240818040200 +0800" stop="20240818045000 +0800">
 		<title lang="zh">27_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240818045000 +0800" stop="20240818053800 +0800">
+		<title lang="zh">28_爱的二八定律</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -65261,6 +65273,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240818035400 +0800" stop="20240818044700 +0800">
 		<title lang="zh">13_春光灿烂猪九妹</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240818044700 +0800" stop="20240818054000 +0800">
+		<title lang="zh">14_春光灿烂猪九妹</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -65325,6 +65340,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240818040300 +0800" stop="20240818044800 +0800">
 		<title lang="zh">16_家有喜妇（DVD版）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240818044800 +0800" stop="20240818053300 +0800">
+		<title lang="zh">17_家有喜妇（DVD版）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -65372,6 +65390,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240818040400 +0800" stop="20240818044800 +0800">
 		<title lang="zh">20_使徒行者3</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240818044800 +0800" stop="20240818053100 +0800">
+		<title lang="zh">21_使徒行者3</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
