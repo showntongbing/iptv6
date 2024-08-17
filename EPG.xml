@@ -67848,6 +67848,9 @@
 	<programme channel="newtv超级体育" start="20240818053000 +0800" stop="20240818060000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 花样游泳双人自由自选</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240818060000 +0800" stop="20240818063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 竞走女子20公里</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67947,6 +67950,9 @@
 	<programme channel="newtv精品纪录" start="20240818045300 +0800" stop="20240818055200 +0800">
 		<title lang="zh">02_爱因斯坦与霍金 解锁宇宙</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240818055200 +0800" stop="20240818062700 +0800">
+		<title lang="zh">共和国医者：张嘉庆 王泰龄</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -67974,6 +67980,9 @@
 	<programme channel="newtv古装剧场" start="20240818051400 +0800" stop="20240818055400 +0800">
 		<title lang="zh">28_民国恩仇录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240818055400 +0800" stop="20240818063400 +0800">
+		<title lang="zh">29_民国恩仇录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -68000,6 +68009,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240818051700 +0800" stop="20240818060100 +0800">
 		<title lang="zh">20_对与决</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240818060100 +0800" stop="20240818064500 +0800">
+		<title lang="zh">21_对与决</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -68118,6 +68130,9 @@
 	<programme channel="newtv怡伴健康" start="20240818053000 +0800" stop="20240818055700 +0800">
 		<title lang="zh">温暖如春的湖畔（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240818055700 +0800" stop="20240818074200 +0800">
+		<title lang="zh">评剧《杨三姐告状》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -68226,6 +68241,9 @@
 	<programme channel="newtv金牌综艺" start="20240818035400 +0800" stop="20240818055000 +0800">
 		<title lang="zh">天天把歌唱（2023）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20240818055000 +0800" stop="20240818083300 +0800">
+		<title lang="zh">开门大吉（2022）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -68294,6 +68312,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240818042200 +0800" stop="20240818055300 +0800">
 		<title lang="zh">女子太极拳</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240818055300 +0800" stop="20240818071700 +0800">
+		<title lang="zh">男子太极剑</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
