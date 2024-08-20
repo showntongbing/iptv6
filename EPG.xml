@@ -38148,6 +38148,9 @@
 	<programme channel="黑莓动画" start="20240821001100 +0800" stop="20240821004700 +0800">
 		<title lang="zh">西行纪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240821004700 +0800" stop="20240821013600 +0800">
+		<title lang="zh">一人之下第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -38508,17 +38511,26 @@
 	<programme channel="newtv超级电视剧" start="20240821001400 +0800" stop="20240821010300 +0800">
 		<title lang="zh">18_红蔷薇</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240821010300 +0800" stop="20240821014900 +0800">
+		<title lang="zh">19_红蔷薇</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20240821001200 +0800" stop="20240821005800 +0800">
 		<title lang="zh">33_冷风暴</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240821005800 +0800" stop="20240821014900 +0800">
+		<title lang="zh">34_冷风暴</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
 	<programme channel="newtv精品纪录" start="20240821000700 +0800" stop="20240821010000 +0800">
 		<title lang="zh">第2集：问b7答</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240821010000 +0800" stop="20240821013400 +0800">
+		<title lang="zh">01_少年已知愁滋味</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -38540,6 +38552,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20240821001300 +0800" stop="20240821005800 +0800">
 		<title lang="zh">10_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240821005800 +0800" stop="20240821014100 +0800">
+		<title lang="zh">11_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -38564,6 +38579,9 @@
 	</channel>
 	<programme channel="newtv怡伴健康" start="20240821003000 +0800" stop="20240821004700 +0800">
 		<title lang="zh">小品《休息区的故事》表演者：郭冬临、邵峰、韩云云等</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240821005900 +0800" stop="20240821010700 +0800">
+		<title lang="zh">相声《新未来已来》 表演：金霏 陈曦</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
