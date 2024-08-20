@@ -38796,6 +38796,9 @@
 	<programme channel="黑莓电影" start="20240821032000 +0800" stop="20240821044600 +0800">
 		<title lang="zh">传话的人</title>
 	</programme>
+	<programme channel="黑莓电影" start="20240821044600 +0800" stop="20240821063200 +0800">
+		<title lang="zh">相棒剧场版2</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -39231,6 +39234,9 @@
 	<programme channel="newtv精品纪录" start="20240821040100 +0800" stop="20240821045000 +0800">
 		<title lang="zh">蓝色能源 海盐</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240821045000 +0800" stop="20240821051500 +0800">
+		<title lang="zh">梅兰芳 第一集 惊梦</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -39248,6 +39254,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240821035500 +0800" stop="20240821044900 +0800">
 		<title lang="zh">25_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240821044900 +0800" stop="20240821053300 +0800">
+		<title lang="zh">11_燕云台</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -39269,6 +39278,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240821040400 +0800" stop="20240821045800 +0800">
 		<title lang="zh">06_铁道游击队 战后篇</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240821045800 +0800" stop="20240821054300 +0800">
+		<title lang="zh">07_铁道游击队 战后篇</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -39308,6 +39320,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240821040200 +0800" stop="20240821045700 +0800">
 		<title lang="zh">02_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240821045700 +0800" stop="20240821054400 +0800">
+		<title lang="zh">03_梦中的那片海</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -39387,6 +39402,9 @@
 	<programme channel="newtv军事评论" start="20240821002000 +0800" stop="20240821004500 +0800">
 		<title lang="zh">国防军事早报</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240821044900 +0800" stop="20240821051600 +0800">
+		<title lang="zh">飞机结构强度的极限挑战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -39426,6 +39444,9 @@
 	<programme channel="newtv炫舞未来" start="20240821044400 +0800" stop="20240821044800 +0800">
 		<title lang="zh">广场舞金曲《福门开 好运来》 演唱：赵真</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240821045100 +0800" stop="20240821052900 +0800">
+		<title lang="zh">心脏支架流言辨真假（20240421）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -39464,6 +39485,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240821030400 +0800" stop="20240821050400 +0800">
 		<title lang="zh">天天把歌唱（2023）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240821050400 +0800" stop="20240821074900 +0800">
+		<title lang="zh">开门大吉（2022）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -39527,6 +39551,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240821031300 +0800" stop="20240821045100 +0800">
 		<title lang="zh">侠探锦毛鼠之血光再起</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240821045100 +0800" stop="20240821055200 +0800">
+		<title lang="zh">男子长拳</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
