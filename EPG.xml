@@ -25944,6 +25944,9 @@
 	<programme channel="咪咕综合体育" start="20240823045000 +0800" stop="20240823045500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240823045500 +0800" stop="20240823063500 +0800">
+		<title lang="zh">足球世界-足球热身赛 皇家马德里-巴塞罗那</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52080,6 +52083,9 @@
 	<programme channel="纯享4K" start="20240823040800 +0800" stop="20240823045000 +0800">
 		<title lang="zh">远方的家4K 西藏类乌齐马鹿国家级自然保护区 高原之上 马鹿的家</title>
 	</programme>
+	<programme channel="纯享4K" start="20240823045000 +0800" stop="20240823053200 +0800">
+		<title lang="zh">远方的家4K 长江行 相逢在长江源</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -64143,6 +64149,9 @@
 	<programme channel="newtv超级电视剧" start="20240823041000 +0800" stop="20240823045700 +0800">
 		<title lang="zh">30_天下粮仓</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240823045700 +0800" stop="20240823054400 +0800">
+		<title lang="zh">31_天下粮仓</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -64181,6 +64190,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240823034900 +0800" stop="20240823044700 +0800">
 		<title lang="zh">02_人有人的用处</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240823044700 +0800" stop="20240823051700 +0800">
+		<title lang="zh">第一集 大勇不惧</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -64314,6 +64326,9 @@
 	<programme channel="newtv怡伴健康" start="20240823042400 +0800" stop="20240823044900 +0800">
 		<title lang="zh">舞蹈世界</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240823044900 +0800" stop="20240823051300 +0800">
+		<title lang="zh">桂雨濛演唱歌曲《云与心》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -64400,6 +64415,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240823040200 +0800" stop="20240823044600 +0800">
 		<title lang="zh">07_铁血玫瑰</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240823044600 +0800" stop="20240823053100 +0800">
+		<title lang="zh">08_铁血玫瑰</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
