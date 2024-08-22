@@ -51669,6 +51669,9 @@
 	<programme channel="纯享4K" start="20240823010900 +0800" stop="20240823020900 +0800">
 		<title lang="zh">乐享汇4K “爱的主打歌”（三）演唱会</title>
 	</programme>
+	<programme channel="纯享4K" start="20240823020900 +0800" stop="20240823022400 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 微笑版顾拜旦</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52421,6 +52424,123 @@
 	</programme>
 	<programme channel="翡翠台" start="20240823050500 +0800" stop="20240823060000 +0800">
 		<title lang="zh">吾淑吾食[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823060000 +0800" stop="20240823074000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823074000 +0800" stop="20240823074500 +0800">
+		<title lang="zh">環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823074500 +0800" stop="20240823081000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823081000 +0800" stop="20240823084000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823084000 +0800" stop="20240823090000 +0800">
+		<title lang="zh">香港早晨[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823090000 +0800" stop="20240823100000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823100000 +0800" stop="20240823100500 +0800">
+		<title lang="zh">勁歌推介[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823100500 +0800" stop="20240823103500 +0800">
+		<title lang="zh">婆媽女婿#10[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823103500 +0800" stop="20240823113500 +0800">
+		<title lang="zh">燕雲台#10[粵/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823113500 +0800" stop="20240823114000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823114000 +0800" stop="20240823121500 +0800">
+		<title lang="zh">交易現場[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823121500 +0800" stop="20240823125000 +0800">
+		<title lang="zh">新派煮意[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823125000 +0800" stop="20240823130000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823130000 +0800" stop="20240823132000 +0800">
+		<title lang="zh">午間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823132000 +0800" stop="20240823132500 +0800">
+		<title lang="zh">猜猜我是誰[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823132500 +0800" stop="20240823143500 +0800">
+		<title lang="zh">流行都市[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823143500 +0800" stop="20240823144500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823144500 +0800" stop="20240823154500 +0800">
+		<title lang="zh">BB來了#10[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823154500 +0800" stop="20240823162000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823162000 +0800" stop="20240823165000 +0800">
+		<title lang="zh">KERORO 軍曹[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823165000 +0800" stop="20240823172000 +0800">
+		<title lang="zh">Hands Up[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823172000 +0800" stop="20240823175000 +0800">
+		<title lang="zh">MIX[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823175000 +0800" stop="20240823180000 +0800">
+		<title lang="zh">財經新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823180000 +0800" stop="20240823182500 +0800">
+		<title lang="zh">今日有樓睇[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823182500 +0800" stop="20240823183000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823183000 +0800" stop="20240823191500 +0800">
+		<title lang="zh">六點半新聞報道[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823191500 +0800" stop="20240823192500 +0800">
+		<title lang="zh">世界觀[粵] 及 天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823192500 +0800" stop="20240823193000 +0800">
+		<title lang="zh">有理說得清[粵] 及 猜猜我是誰[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823193000 +0800" stop="20240823200000 +0800">
+		<title lang="zh">東張西望[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823200000 +0800" stop="20240823203000 +0800">
+		<title lang="zh">愛．回家之開心速遞#2355[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823203000 +0800" stop="20240823213000 +0800">
+		<title lang="zh">法證先鋒VI﹕倖存者的救贖#10[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823213000 +0800" stop="20240823223000 +0800">
+		<title lang="zh">射鵰英雄傳之鐵血丹心#10[粵/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823223000 +0800" stop="20240823223500 +0800">
+		<title lang="zh">猜猜我是誰[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823223500 +0800" stop="20240823230500 +0800">
+		<title lang="zh">瞬間直擊半小時[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823230500 +0800" stop="20240823231500 +0800">
+		<title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823231500 +0800" stop="20240823234500 +0800">
+		<title lang="zh">晚間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823234500 +0800" stop="20240823235000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823235000 +0800" stop="20240823235500 +0800">
+		<title lang="zh">天氣報告[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20240823235500 +0800" stop="20240823235900 +0800">
+		<title lang="zh">隨時候命#10[粵]</title>
 	</programme>
 	<channel id="老故事">
 		<display-name lang="zh">老故事</display-name>
@@ -63066,6 +63186,9 @@
 	<programme channel="黑莓动画" start="20240823014000 +0800" stop="20240823020200 +0800">
 		<title lang="zh">我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240823020200 +0800" stop="20240823024800 +0800">
+		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63591,6 +63714,9 @@
 	<programme channel="newtv精品大剧" start="20240823011300 +0800" stop="20240823020400 +0800">
 		<title lang="zh">12_壮丁也是兵</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240823020400 +0800" stop="20240823025000 +0800">
+		<title lang="zh">13_壮丁也是兵</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -63599,6 +63725,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240823011800 +0800" stop="20240823020400 +0800">
 		<title lang="zh">01_春风化雨</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240823020400 +0800" stop="20240823025000 +0800">
+		<title lang="zh">02_日和清明</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -63642,6 +63771,9 @@
 	<programme channel="newtv热播精选" start="20240823003100 +0800" stop="20240823020600 +0800">
 		<title lang="zh">山寨大黄蜂</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240823020600 +0800" stop="20240823034900 +0800">
+		<title lang="zh">鲨卷风2</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -63656,6 +63788,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20240823003100 +0800" stop="20240823020200 +0800">
 		<title lang="zh">大话西游：至尊宝</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240823020200 +0800" stop="20240823032900 +0800">
+		<title lang="zh">幽灵毒枭</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
