@@ -26196,6 +26196,9 @@
 	<programme channel="咪咕综合体育" start="20240829022000 +0800" stop="20240829031000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240829031500 +0800" stop="20240829055500 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第3轮 马德里竞技-西班牙人 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -50781,6 +50784,9 @@
 	<programme channel="纯享4K" start="20240829023500 +0800" stop="20240829025000 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 汉代帛画b7导引图</title>
 	</programme>
+	<programme channel="纯享4K" start="20240829025000 +0800" stop="20240829034000 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第2集 相伴同行</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61362,6 +61368,9 @@
 	<programme channel="黑莓动画" start="20240829020100 +0800" stop="20240829024700 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240829024700 +0800" stop="20240829033600 +0800">
+		<title lang="zh">星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61896,6 +61905,9 @@
 	<programme channel="newtv超级电视剧" start="20240829022600 +0800" stop="20240829031100 +0800">
 		<title lang="zh">13_猫冬</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240829031100 +0800" stop="20240829035600 +0800">
+		<title lang="zh">14_猫冬</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -61907,6 +61919,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240829020900 +0800" stop="20240829025700 +0800">
 		<title lang="zh">13_昙花梦</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240829025700 +0800" stop="20240829035300 +0800">
+		<title lang="zh">14_昙花梦</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61922,6 +61937,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240829024400 +0800" stop="20240829030800 +0800">
 		<title lang="zh">04_犬行为训练师</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240829030800 +0800" stop="20240829032300 +0800">
+		<title lang="zh">05_农业经理人</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -61949,6 +61967,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240829021600 +0800" stop="20240829025800 +0800">
 		<title lang="zh">17_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240829025800 +0800" stop="20240829034900 +0800">
+		<title lang="zh">18_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61980,6 +62001,9 @@
 	<programme channel="newtv爱情喜剧" start="20240829011700 +0800" stop="20240829025400 +0800">
 		<title lang="zh">爱情重击</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240829025400 +0800" stop="20240829043000 +0800">
+		<title lang="zh">秀后人生</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -62007,6 +62031,9 @@
 	<programme channel="newtv怡伴健康" start="20240829022100 +0800" stop="20240829030600 +0800">
 		<title lang="zh">20_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240829030600 +0800" stop="20240829040100 +0800">
+		<title lang="zh">21_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -62015,6 +62042,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240829022100 +0800" stop="20240829031600 +0800">
 		<title lang="zh">30_女人的抗战</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240829031600 +0800" stop="20240829040100 +0800">
+		<title lang="zh">31_女人的抗战</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -62037,6 +62067,12 @@
 	<programme channel="newtv军事评论" start="20240829023300 +0800" stop="20240829025500 +0800">
 		<title lang="zh">愈演愈烈的俄乌导弹互袭</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240829025500 +0800" stop="20240829031600 +0800">
+		<title lang="zh">波兰军备急速扩张意欲何为</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240829031600 +0800" stop="20240829033800 +0800">
+		<title lang="zh">俄乌“秋季作战”中的主战坦克</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -62051,6 +62087,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240829024600 +0800" stop="20240829031300 +0800">
 		<title lang="zh">形体开肩操-于航（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240829031300 +0800" stop="20240829032900 +0800">
+		<title lang="zh">吉米来吧-尚岩（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
