@@ -49254,6 +49254,9 @@
 	<programme channel="纯享4K" start="20240831024300 +0800" stop="20240831033300 +0800">
 		<title lang="zh">国家公园——万物共生之境4K 第4集 回归之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20240831034500 +0800" stop="20240831042700 +0800">
+		<title lang="zh">远方的家4K 大运河（21） 江南水乡 姑苏风情</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59802,11 +59805,17 @@
 	<programme channel="黑莓动画" start="20240831024000 +0800" stop="20240831032900 +0800">
 		<title lang="zh">星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240831032900 +0800" stop="20240831041400 +0800">
+		<title lang="zh">马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240831014800 +0800" stop="20240831033300 +0800">
 		<title lang="zh">鬼吹灯之南海归墟</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240831033300 +0800" stop="20240831045200 +0800">
+		<title lang="zh">变身闺蜜</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -60297,6 +60306,9 @@
 	<programme channel="newtv超级电影" start="20240831021400 +0800" stop="20240831034500 +0800">
 		<title lang="zh">天网</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240831034500 +0800" stop="20240831055200 +0800">
+		<title lang="zh">牛王</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60314,6 +60326,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240831030400 +0800" stop="20240831034900 +0800">
 		<title lang="zh">24_猫冬</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240831034900 +0800" stop="20240831043400 +0800">
+		<title lang="zh">36_烽火英雄传</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60348,6 +60363,9 @@
 	<programme channel="newtv精品纪录" start="20240831024700 +0800" stop="20240831033700 +0800">
 		<title lang="zh">智能中国b7智慧家园</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240831033700 +0800" stop="20240831043200 +0800">
+		<title lang="zh">声音传奇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60363,6 +60381,9 @@
 	<programme channel="newtv古装剧场" start="20240831025300 +0800" stop="20240831034600 +0800">
 		<title lang="zh">08_祈今朝</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240831034600 +0800" stop="20240831042700 +0800">
+		<title lang="zh">09_祈今朝</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60377,6 +60398,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240831023400 +0800" stop="20240831032600 +0800">
 		<title lang="zh">28_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240831032600 +0800" stop="20240831040700 +0800">
+		<title lang="zh">29_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60398,6 +60422,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240831023800 +0800" stop="20240831032400 +0800">
 		<title lang="zh">36_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240831032400 +0800" stop="20240831041900 +0800">
+		<title lang="zh">37_梦中的那片海</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60450,6 +60477,9 @@
 	<programme channel="newtv怡伴健康" start="20240831023900 +0800" stop="20240831033400 +0800">
 		<title lang="zh">27_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240831033400 +0800" stop="20240831035900 +0800">
+		<title lang="zh">舞蹈世界</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60488,6 +60518,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240831030800 +0800" stop="20240831033000 +0800">
 		<title lang="zh">二〇二三热点冲突冷思考 远程导弹新动向</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240831033000 +0800" stop="20240831035200 +0800">
+		<title lang="zh">美军“恶补”野战防空</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60539,6 +60572,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20240831000500 +0800" stop="20240831032800 +0800">
 		<title lang="zh">典籍里的中国</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240831032800 +0800" stop="20240831052600 +0800">
+		<title lang="zh">天天把歌唱（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
