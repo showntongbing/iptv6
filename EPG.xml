@@ -32145,6 +32145,12 @@
 	<programme channel="纯享4K" start="20240902025600 +0800" stop="20240902032100 +0800">
 		<title lang="zh">辣椒的征途4K 第1集 红色征途的起点</title>
 	</programme>
+	<programme channel="纯享4K" start="20240902032100 +0800" stop="20240902034500 +0800">
+		<title lang="zh">辣椒的征途4K 第2集 谁是辣中霸主</title>
+	</programme>
+	<programme channel="纯享4K" start="20240902034500 +0800" stop="20240902035200 +0800">
+		<title lang="zh">绿水青山行4K 生态扶贫系列：石头上的树</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -38589,11 +38595,17 @@
 	<programme channel="黑莓动画" start="20240902024100 +0800" stop="20240902033700 +0800">
 		<title lang="zh">星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240902033700 +0800" stop="20240902041600 +0800">
+		<title lang="zh">全职法师第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240902013800 +0800" stop="20240902033500 +0800">
 		<title lang="zh">一级谋杀</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240902033500 +0800" stop="20240902051400 +0800">
+		<title lang="zh">新不了情</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -38802,6 +38814,9 @@
 	<programme channel="newtv超级电视剧" start="20240902024900 +0800" stop="20240902033400 +0800">
 		<title lang="zh">33_猫冬</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240902033400 +0800" stop="20240902042000 +0800">
+		<title lang="zh">34_猫冬</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -38850,6 +38865,9 @@
 	<programme channel="newtv古装剧场" start="20240902025200 +0800" stop="20240902034200 +0800">
 		<title lang="zh">18_祈今朝</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240902034200 +0800" stop="20240902042300 +0800">
+		<title lang="zh">19_祈今朝</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -38865,6 +38883,9 @@
 	<programme channel="newtv军旅剧场" start="20240902023200 +0800" stop="20240902032200 +0800">
 		<title lang="zh">38_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240902032200 +0800" stop="20240902040400 +0800">
+		<title lang="zh">39_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -38879,6 +38900,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240902024600 +0800" stop="20240902033200 +0800">
 		<title lang="zh">08_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240902033200 +0800" stop="20240902042700 +0800">
+		<title lang="zh">09_安家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -38897,6 +38921,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240902015700 +0800" stop="20240902033900 +0800">
 		<title lang="zh">六年，六天</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240902033900 +0800" stop="20240902042500 +0800">
+		<title lang="zh">27_儿女情更长</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -38931,6 +38958,9 @@
 	<programme channel="newtv怡伴健康" start="20240902024400 +0800" stop="20240902033900 +0800">
 		<title lang="zh">33_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240902033900 +0800" stop="20240902040400 +0800">
+		<title lang="zh">舞蹈世界</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -38942,6 +38972,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240902024200 +0800" stop="20240902032600 +0800">
 		<title lang="zh">13_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240902032600 +0800" stop="20240902041900 +0800">
+		<title lang="zh">14_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -38972,6 +39005,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240902025500 +0800" stop="20240902031700 +0800">
 		<title lang="zh">地道地雷战为何难破解</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240902031700 +0800" stop="20240902033900 +0800">
+		<title lang="zh">巡边利刃 上</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240902033900 +0800" stop="20240902040100 +0800">
+		<title lang="zh">巡边利刃 下</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
