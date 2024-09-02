@@ -49002,6 +49002,9 @@
 	<programme channel="黑莓动画" start="20240902154600 +0800" stop="20240902161100 +0800">
 		<title lang="zh">09_丝丝做的饺子 上</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240902161100 +0800" stop="20240902163900 +0800">
+		<title lang="zh">蘑菇头和恐龙笨波</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -49028,6 +49031,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240902142700 +0800" stop="20240902160900 +0800">
 		<title lang="zh">天空的遇难船</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240902160900 +0800" stop="20240902174500 +0800">
+		<title lang="zh">正b7青春</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -49268,6 +49274,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20240902142200 +0800" stop="20240902160900 +0800">
 		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20240902160900 +0800" stop="20240902162900 +0800">
+		<title lang="zh">文化十分</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
@@ -49539,6 +49548,9 @@
 	<programme channel="newtv精品纪录" start="20240902150700 +0800" stop="20240902160600 +0800">
 		<title lang="zh">01_小人物 大历史</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240902160600 +0800" stop="20240902164400 +0800">
+		<title lang="zh">春秋战国记 5 城濮的烽烟</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -49598,6 +49610,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240902150800 +0800" stop="20240902160200 +0800">
 		<title lang="zh">19_灼灼风流</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240902160200 +0800" stop="20240902164600 +0800">
+		<title lang="zh">20_灼灼风流</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -49661,6 +49676,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240902151800 +0800" stop="20240902160300 +0800">
 		<title lang="zh">智取华山传奇第22集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240902160300 +0800" stop="20240902165800 +0800">
+		<title lang="zh">07_英雄戟</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -49950,6 +49968,9 @@
 	<programme channel="newtv怡伴健康" start="20240902155500 +0800" stop="20240902160900 +0800">
 		<title lang="zh">小品《一定找到你》 表演：刘涛 郭冬临</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240902160900 +0800" stop="20240902163400 +0800">
+		<title lang="zh">小品《一波三折》 表演：贾玲 张小斐</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -50127,6 +50148,9 @@
 	<programme channel="newtv军事评论" start="20240902154800 +0800" stop="20240902161000 +0800">
 		<title lang="zh">坑道中的一战b7地堡与索姆河战役</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240902161000 +0800" stop="20240902163500 +0800">
+		<title lang="zh">台当局欲通过欧洲国家采购无人机？美韩演习给半岛局势“火上浇油”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50228,6 +50252,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240902153100 +0800" stop="20240902161400 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240902161400 +0800" stop="20240902163200 +0800">
+		<title lang="zh">最好的舞台-李萍（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
