@@ -69495,6 +69495,9 @@
 	<programme channel="黑莓动画" start="20240903095900 +0800" stop="20240903104500 +0800">
 		<title lang="zh">汪汪队立大功第3季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240903104500 +0800" stop="20240903111200 +0800">
+		<title lang="zh">钶龙战记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70062,6 +70065,9 @@
 	<programme channel="newtv超级综艺" start="20240903093600 +0800" stop="20240903103600 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240903103600 +0800" stop="20240903113400 +0800">
+		<title lang="zh">民歌中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -70109,6 +70115,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240903085000 +0800" stop="20240903104700 +0800">
 		<title lang="zh">关东大侠</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240903104700 +0800" stop="20240903122700 +0800">
+		<title lang="zh">特警英雄</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -70197,6 +70206,9 @@
 	<programme channel="newtv精品大剧" start="20240903095700 +0800" stop="20240903104200 +0800">
 		<title lang="zh">31_最后一张签证</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240903104200 +0800" stop="20240903112700 +0800">
+		<title lang="zh">32_最后一张签证</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -70241,6 +70253,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240903100700 +0800" stop="20240903103400 +0800">
 		<title lang="zh">真假“古玉镯”</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240903103400 +0800" stop="20240903111100 +0800">
+		<title lang="zh">一块“宝玉”害死爹</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -70326,6 +70341,9 @@
 	<programme channel="newtv军旅剧场" start="20240903095600 +0800" stop="20240903104200 +0800">
 		<title lang="zh">14_菜刀班尖刀连</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240903104200 +0800" stop="20240903112700 +0800">
+		<title lang="zh">15_菜刀班尖刀连</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -70367,6 +70385,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240903094800 +0800" stop="20240903103200 +0800">
 		<title lang="zh">06_姐妹兄弟</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240903103200 +0800" stop="20240903111600 +0800">
+		<title lang="zh">07_姐妹兄弟</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -70515,6 +70536,9 @@
 	<programme channel="newtv怡伴健康" start="20240903101000 +0800" stop="20240903104500 +0800">
 		<title lang="zh">23_明月照我心</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240903104500 +0800" stop="20240903113600 +0800">
+		<title lang="zh">24_明月照我心</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -70553,6 +70577,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240903094900 +0800" stop="20240903104300 +0800">
 		<title lang="zh">17_铁血玫瑰</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240903104300 +0800" stop="20240903112900 +0800">
+		<title lang="zh">18_铁血玫瑰</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
