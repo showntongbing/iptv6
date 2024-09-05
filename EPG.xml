@@ -53511,6 +53511,9 @@
 	<programme channel="纯享4K" start="20240906003100 +0800" stop="20240906005900 +0800">
 		<title lang="zh">记住乡愁4K第九季 六堡——大山深处茶飘香</title>
 	</programme>
+	<programme channel="纯享4K" start="20240906005900 +0800" stop="20240906014800 +0800">
+		<title lang="zh">乐享汇4K “声动青春”演唱会</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65256,6 +65259,9 @@
 	<programme channel="newtv超级电视剧" start="20240906001900 +0800" stop="20240906010100 +0800">
 		<title lang="zh">15_叛逆者</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240906010100 +0800" stop="20240906014200 +0800">
+		<title lang="zh">16_叛逆者</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -65282,6 +65288,9 @@
 	</channel>
 	<programme channel="newtv军旅剧场" start="20240906000300 +0800" stop="20240906005700 +0800">
 		<title lang="zh">15_南侨机工英雄传</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240906005700 +0800" stop="20240906014300 +0800">
+		<title lang="zh">16_南侨机工英雄传</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -65315,6 +65324,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240906003300 +0800" stop="20240906005300 +0800">
 		<title lang="zh">小品《潘老板》 表演：潘长江 蒋诗萌 高海龙 等</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240906005300 +0800" stop="20240906013900 +0800">
+		<title lang="zh">09_我和我的儿女们</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
