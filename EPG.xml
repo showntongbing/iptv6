@@ -65004,6 +65004,9 @@
 	<programme channel="黑莓动画" start="20240906032200 +0800" stop="20240906040000 +0800">
 		<title lang="zh">全职法师第1季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240906040000 +0800" stop="20240906044400 +0800">
+		<title lang="zh">马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -65012,6 +65015,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240906021500 +0800" stop="20240906035700 +0800">
 		<title lang="zh">消逝的琥珀宫</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240906035700 +0800" stop="20240906053700 +0800">
+		<title lang="zh">希望的另一面</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -65505,6 +65511,9 @@
 	<programme channel="newtv超级体育" start="20240906000500 +0800" stop="20240906041000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会精彩赛事</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240906041000 +0800" stop="20240906053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第1轮 摩纳哥-圣艾蒂安</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -65667,6 +65676,9 @@
 	<programme channel="newtv动作电影" start="20240906022400 +0800" stop="20240906035200 +0800">
 		<title lang="zh">奇门异人</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240906035200 +0800" stop="20240906051800 +0800">
+		<title lang="zh">这个男人来自地球：全新纪</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -65733,6 +65745,9 @@
 	<programme channel="newtv军事评论" start="20240906033800 +0800" stop="20240906035800 +0800">
 		<title lang="zh">谁是莫斯科恐袭事件的幕后黑手</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240906035800 +0800" stop="20240906042400 +0800">
+		<title lang="zh">雪域高原的美丽相见</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -65757,6 +65772,9 @@
 	<programme channel="newtv炫舞未来" start="20240906033700 +0800" stop="20240906035000 +0800">
 		<title lang="zh">不忘初心-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240906035100 +0800" stop="20240906040800 +0800">
+		<title lang="zh">万疆-孙爱迪（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -65765,6 +65783,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240906020100 +0800" stop="20240906035200 +0800">
 		<title lang="zh">令人心动的offer第4季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240906035200 +0800" stop="20240906043600 +0800">
+		<title lang="zh">32_狐影</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
