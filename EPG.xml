@@ -74754,6 +74754,9 @@
 	<programme channel="黑莓动画" start="20240906223800 +0800" stop="20240906230200 +0800">
 		<title lang="zh">16_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240906230200 +0800" stop="20240906232500 +0800">
+		<title lang="zh">03_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75417,6 +75420,9 @@
 	<programme channel="newtv超级体育" start="20240906223500 +0800" stop="20240906003500 +0800">
 		<title lang="zh">实况录像-2024年巴黎残奥会 田径决赛,游泳决赛(录播)7</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240906220500 +0800" stop="20240906231500 +0800">
+		<title lang="zh">巴黎残奥会轮椅篮球女子半决赛-(中国-美国)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -75461,6 +75467,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240906210000 +0800" stop="20240906225000 +0800">
 		<title lang="zh">电影《特种部队2：全面反击》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240906225000 +0800" stop="20240906000800 +0800">
+		<title lang="zh">电影《蜀山2剑魔篇》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -75560,6 +75569,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240906222200 +0800" stop="20240906230400 +0800">
 		<title lang="zh">18_前夜</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240906230400 +0800" stop="20240906001400 +0800">
+		<title lang="zh">05_漫长的季节</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -75960,6 +75972,9 @@
 	<programme channel="newtv军旅剧场" start="20240906222000 +0800" stop="20240906230500 +0800">
 		<title lang="zh">02_上海滩生死较量</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240906230500 +0800" stop="20240906235000 +0800">
+		<title lang="zh">03_上海滩生死较量</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -76052,6 +76067,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240906222500 +0800" stop="20240906230600 +0800">
 		<title lang="zh">40_完美伴侣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240906230600 +0800" stop="20240906234000 +0800">
+		<title lang="zh">41_完美伴侣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -76374,6 +76392,9 @@
 	<programme channel="newtv怡伴健康" start="20240906223100 +0800" stop="20240906230000 +0800">
 		<title lang="zh">第四场 湖南星火燎原vs天津兄弟连 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240906230000 +0800" stop="20240906233000 +0800">
+		<title lang="zh">爱你便许你一世繁花</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -76608,6 +76629,9 @@
 	<programme channel="newtv军事评论" start="20240906223100 +0800" stop="20240906225700 +0800">
 		<title lang="zh">俄A-50U预警机投入实战 美首批“艾布拉姆斯”提前援乌</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240906225700 +0800" stop="20240906232200 +0800">
+		<title lang="zh">台对标X-47B研发无人机 美超视距雷达部署帕劳</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76724,6 +76748,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240906224100 +0800" stop="20240906225900 +0800">
 		<title lang="zh">最好的舞台-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240906225900 +0800" stop="20240906231800 +0800">
+		<title lang="zh">来跳舞-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240906231400 +0800" stop="20240906232900 +0800">
+		<title lang="zh">执迷不悟-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -76913,6 +76943,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240906204600 +0800" stop="20240906214100 +0800">
 		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240906214100 +0800" stop="20240906231200 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240906231200 +0800" stop="20240906000100 +0800">
+		<title lang="zh">我的艺术清单</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240906214100 +0800" stop="20240906231200 +0800">
 		<title lang="zh">一馔千年</title>
