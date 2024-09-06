@@ -16002,10 +16002,10 @@
 	<programme channel="东方卫视" start="20240906220100 +0800" stop="20240906224400 +0800">
 		<title lang="zh">孤舟（3）</title>
 	</programme>
-	<programme channel="东方卫视" start="20240906224400 +0800" stop="20240906232800 +0800">
+	<programme channel="东方卫视" start="20240906224400 +0800" stop="20240906232900 +0800">
 		<title lang="zh">孤舟（4）</title>
 	</programme>
-	<programme channel="东方卫视" start="20240906232800 +0800" stop="20240906235900 +0800">
+	<programme channel="东方卫视" start="20240906232900 +0800" stop="20240906235900 +0800">
 		<title lang="zh">梦想改造家第十季精编（8）</title>
 	</programme>
 	<channel id="东方影视">
@@ -28944,6 +28944,9 @@
 	<programme channel="咪咕综合体育" start="20240906180000 +0800" stop="20240906182500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240906183000 +0800" stop="20240906213000 +0800">
+		<title lang="zh">网球世界-2024美国网球公开赛DAY11精彩回顾</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -29992,142 +29995,145 @@
 		<display-name lang="zh">国学</display-name>
 	</channel>
 	<programme channel="国学" start="20240906000200 +0800" stop="20240906004000 +0800">
-		<title lang="zh">文化中国-百年巨匠</title>
+		<title lang="zh">国学公开课-文艺篇05</title>
 	</programme>
 	<programme channel="国学" start="20240906004000 +0800" stop="20240906011000 +0800">
-		<title lang="zh">国学智慧</title>
+		<title lang="zh">国学半小时-弟子规05</title>
 	</programme>
 	<programme channel="国学" start="20240906011000 +0800" stop="20240906013800 +0800">
-		<title lang="zh">非遗中国</title>
+		<title lang="zh">文化中国</title>
 	</programme>
 	<programme channel="国学" start="20240906013800 +0800" stop="20240906020600 +0800">
-		<title lang="zh">文艺中国</title>
+		<title lang="zh">国韵金钟05</title>
 	</programme>
 	<programme channel="国学" start="20240906020600 +0800" stop="20240906025000 +0800">
-		<title lang="zh">国学大讲堂</title>
+		<title lang="zh">论古今-裘缉木教学05</title>
 	</programme>
-	<programme channel="国学" start="20240906025000 +0800" stop="20240906032400 +0800">
-		<title lang="zh">国学半小时-上</title>
+	<programme channel="国学" start="20240906025000 +0800" stop="20240906032000 +0800">
+		<title lang="zh">书画大讲堂-徐卫国09</title>
 	</programme>
-	<programme channel="国学" start="20240906032400 +0800" stop="20240906035400 +0800">
-		<title lang="zh">国学半小时-下</title>
+	<programme channel="国学" start="20240906032000 +0800" stop="20240906035400 +0800">
+		<title lang="zh">国风文脉-玉石02</title>
 	</programme>
 	<programme channel="国学" start="20240906035400 +0800" stop="20240906041200 +0800">
-		<title lang="zh">国宝故事</title>
+		<title lang="zh">国学小课堂05</title>
 	</programme>
 	<programme channel="国学" start="20240906041200 +0800" stop="20240906044600 +0800">
-		<title lang="zh">文化中国-百年巨匠</title>
+		<title lang="zh">国学公开课-文艺篇05</title>
 	</programme>
 	<programme channel="国学" start="20240906044600 +0800" stop="20240906052000 +0800">
-		<title lang="zh">国学智慧</title>
+		<title lang="zh">国学半小时-弟子规05</title>
 	</programme>
 	<programme channel="国学" start="20240906052000 +0800" stop="20240906054800 +0800">
-		<title lang="zh">非遗中国</title>
+		<title lang="zh">文化中国</title>
 	</programme>
 	<programme channel="国学" start="20240906054800 +0800" stop="20240906061600 +0800">
-		<title lang="zh">文艺中国</title>
+		<title lang="zh">国韵金钟05</title>
 	</programme>
 	<programme channel="国学" start="20240906061600 +0800" stop="20240906070000 +0800">
-		<title lang="zh">国学大讲堂</title>
+		<title lang="zh">论古今-裘缉木教学05</title>
 	</programme>
 	<programme channel="国学" start="20240906070000 +0800" stop="20240906073400 +0800">
-		<title lang="zh">国学半小时-上</title>
+		<title lang="zh">书画大讲堂-徐卫国09</title>
 	</programme>
 	<programme channel="国学" start="20240906073400 +0800" stop="20240906080400 +0800">
-		<title lang="zh">国学半小时-下</title>
+		<title lang="zh">书画大讲堂-徐卫国10</title>
 	</programme>
 	<programme channel="国学" start="20240906080400 +0800" stop="20240906082200 +0800">
-		<title lang="zh">国宝故事</title>
+		<title lang="zh">国学小课堂05</title>
 	</programme>
 	<programme channel="国学" start="20240906082200 +0800" stop="20240906090000 +0800">
-		<title lang="zh">文化中国-百年巨匠</title>
+		<title lang="zh">国学公开课-文艺篇05</title>
 	</programme>
 	<programme channel="国学" start="20240906090000 +0800" stop="20240906093000 +0800">
-		<title lang="zh">国学智慧</title>
+		<title lang="zh">国风文脉-玉石02</title>
 	</programme>
 	<programme channel="国学" start="20240906093000 +0800" stop="20240906095800 +0800">
-		<title lang="zh">非遗中国</title>
+		<title lang="zh">文化中国</title>
 	</programme>
 	<programme channel="国学" start="20240906095800 +0800" stop="20240906102600 +0800">
-		<title lang="zh">文艺中国</title>
+		<title lang="zh">国韵金钟05</title>
 	</programme>
 	<programme channel="国学" start="20240906102600 +0800" stop="20240906111000 +0800">
-		<title lang="zh">国学大讲堂</title>
+		<title lang="zh">论古今-裘缉木教学05</title>
 	</programme>
 	<programme channel="国学" start="20240906111000 +0800" stop="20240906114400 +0800">
-		<title lang="zh">国学半小时-上</title>
+		<title lang="zh">书画大讲堂-徐卫国09</title>
 	</programme>
 	<programme channel="国学" start="20240906114400 +0800" stop="20240906121400 +0800">
-		<title lang="zh">国学半小时-下</title>
+		<title lang="zh">书画大讲堂-徐卫国10</title>
 	</programme>
 	<programme channel="国学" start="20240906121400 +0800" stop="20240906123200 +0800">
-		<title lang="zh">国宝故事</title>
+		<title lang="zh">国学小课堂06</title>
 	</programme>
-	<programme channel="国学" start="20240906123200 +0800" stop="20240906130600 +0800">
-		<title lang="zh">文化中国-百年巨匠</title>
+	<programme channel="国学" start="20240906123200 +0800" stop="20240906131000 +0800">
+		<title lang="zh">国学公开课-文艺篇06</title>
 	</programme>
-	<programme channel="国学" start="20240906130600 +0800" stop="20240906134000 +0800">
-		<title lang="zh">国学智慧</title>
+	<programme channel="国学" start="20240906131000 +0800" stop="20240906134000 +0800">
+		<title lang="zh">国画云课堂-孟庆占05</title>
 	</programme>
 	<programme channel="国学" start="20240906134000 +0800" stop="20240906140800 +0800">
-		<title lang="zh">非遗中国</title>
+		<title lang="zh">我看见</title>
 	</programme>
 	<programme channel="国学" start="20240906140800 +0800" stop="20240906143600 +0800">
-		<title lang="zh">文艺中国</title>
+		<title lang="zh">国韵金钟06</title>
 	</programme>
 	<programme channel="国学" start="20240906143600 +0800" stop="20240906152000 +0800">
-		<title lang="zh">国学大讲堂</title>
+		<title lang="zh">论古今-裘缉木教学06</title>
 	</programme>
 	<programme channel="国学" start="20240906152000 +0800" stop="20240906155400 +0800">
-		<title lang="zh">国学半小时-上</title>
+		<title lang="zh">国风文脉-玉石03</title>
 	</programme>
 	<programme channel="国学" start="20240906155400 +0800" stop="20240906162400 +0800">
-		<title lang="zh">国学半小时-下</title>
+		<title lang="zh">名家讲堂-快乐书法(二)09</title>
 	</programme>
 	<programme channel="国学" start="20240906162400 +0800" stop="20240906164200 +0800">
-		<title lang="zh">国宝故事</title>
+		<title lang="zh">国学小课堂06</title>
 	</programme>
 	<programme channel="国学" start="20240906164200 +0800" stop="20240906171600 +0800">
-		<title lang="zh">文化中国-百年巨匠</title>
+		<title lang="zh">国学公开课-文艺篇06</title>
 	</programme>
 	<programme channel="国学" start="20240906171600 +0800" stop="20240906175000 +0800">
-		<title lang="zh">国学智慧</title>
+		<title lang="zh">国画云课堂-孟庆占05</title>
 	</programme>
 	<programme channel="国学" start="20240906175000 +0800" stop="20240906181800 +0800">
-		<title lang="zh">非遗中国</title>
+		<title lang="zh">我看见</title>
 	</programme>
-	<programme channel="国学" start="20240906181800 +0800" stop="20240906190400 +0800">
-		<title lang="zh">文艺中国</title>
+	<programme channel="国学" start="20240906181800 +0800" stop="20240906184600 +0800">
+		<title lang="zh">国韵金钟06</title>
+	</programme>
+	<programme channel="国学" start="20240906184600 +0800" stop="20240906190400 +0800">
+		<title lang="zh">每日垫片</title>
 	</programme>
 	<programme channel="国学" start="20240906190400 +0800" stop="20240906193400 +0800">
-		<title lang="zh">国学半小时-上</title>
+		<title lang="zh">名家讲堂-快乐书法(二)10</title>
 	</programme>
-	<programme channel="国学" start="20240906193400 +0800" stop="20240906195200 +0800">
-		<title lang="zh">国宝故事</title>
+	<programme channel="国学" start="20240906193400 +0800" stop="20240906200400 +0800">
+		<title lang="zh">国学半小时-插播(二)</title>
 	</programme>
-	<programme channel="国学" start="20240906195200 +0800" stop="20240906202600 +0800">
-		<title lang="zh">文化中国-百年巨匠</title>
+	<programme channel="国学" start="20240906200400 +0800" stop="20240906202600 +0800">
+		<title lang="zh">国学小课堂05</title>
 	</programme>
-	<programme channel="国学" start="20240906202600 +0800" stop="20240906210000 +0800">
-		<title lang="zh">国学智慧</title>
+	<programme channel="国学" start="20240906202600 +0800" stop="20240906205600 +0800">
+		<title lang="zh">国学半小时-插播(二)</title>
 	</programme>
-	<programme channel="国学" start="20240906210000 +0800" stop="20240906212800 +0800">
-		<title lang="zh">非遗中国</title>
+	<programme channel="国学" start="20240906205600 +0800" stop="20240906212600 +0800">
+		<title lang="zh">国风文脉-玉石03</title>
 	</programme>
-	<programme channel="国学" start="20240906212800 +0800" stop="20240906215600 +0800">
-		<title lang="zh">文艺中国</title>
+	<programme channel="国学" start="20240906212600 +0800" stop="20240906215600 +0800">
+		<title lang="zh">国学半小时-插播(二)</title>
 	</programme>
 	<programme channel="国学" start="20240906215600 +0800" stop="20240906224000 +0800">
-		<title lang="zh">国学大讲堂</title>
+		<title lang="zh">论古今-裘缉木教学06</title>
 	</programme>
 	<programme channel="国学" start="20240906224000 +0800" stop="20240906231400 +0800">
-		<title lang="zh">国学半小时-下</title>
+		<title lang="zh">名家讲堂-快乐书法(二)09</title>
 	</programme>
 	<programme channel="国学" start="20240906231400 +0800" stop="20240906234400 +0800">
-		<title lang="zh">国学半小时-上</title>
+		<title lang="zh">名家讲堂-快乐书法(二)10</title>
 	</programme>
 	<programme channel="国学" start="20240906234400 +0800" stop="20240906235900 +0800">
-		<title lang="zh">国宝故事</title>
+		<title lang="zh">国学小课堂06</title>
 	</programme>
 	<channel id="外汇理财">
 		<display-name lang="zh">外汇理财</display-name>
@@ -62100,6 +62106,12 @@
 	<programme channel="纯享4K" start="20240906180300 +0800" stop="20240906181800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 柱球游戏</title>
 	</programme>
+	<programme channel="纯享4K" start="20240906181800 +0800" stop="20240906184600 +0800">
+		<title lang="zh">好吃客4K 西安</title>
+	</programme>
+	<programme channel="纯享4K" start="20240906184600 +0800" stop="20240906191000 +0800">
+		<title lang="zh">了不起的冬天4K 第5集 刀尖之争</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -74652,6 +74664,12 @@
 	<programme channel="黑莓动画" start="20240906175800 +0800" stop="20240906182000 +0800">
 		<title lang="zh">动物兄弟第一季10</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240906182000 +0800" stop="20240906183400 +0800">
+		<title lang="zh">03_龙战士星源</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240906183400 +0800" stop="20240906184700 +0800">
+		<title lang="zh">04_龙战士星源</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75276,6 +75294,9 @@
 	<programme channel="newtv超级体育" start="20240906180000 +0800" stop="20240906183500 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240906183500 +0800" stop="20240906193000 +0800">
+		<title lang="zh">篮球公园</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -75636,6 +75657,9 @@
 	<programme channel="newtv古装剧场" start="20240906172900 +0800" stop="20240906181700 +0800">
 		<title lang="zh">67_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240906181700 +0800" stop="20240906190300 +0800">
+		<title lang="zh">68_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -75707,6 +75731,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240906174600 +0800" stop="20240906184100 +0800">
 		<title lang="zh">21_英雄戟</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240906184100 +0800" stop="20240906192600 +0800">
+		<title lang="zh">22_英雄戟</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -75843,6 +75870,9 @@
 	<programme channel="newtv热播精选" start="20240906180900 +0800" stop="20240906183300 +0800">
 		<title lang="zh">14_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240906183300 +0800" stop="20240906185300 +0800">
+		<title lang="zh">向上</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -75899,6 +75929,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240906174000 +0800" stop="20240906182700 +0800">
 		<title lang="zh">13_我家有喜</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240906182700 +0800" stop="20240906191600 +0800">
+		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -76029,6 +76062,9 @@
 	<programme channel="newtv怡伴健康" start="20240906174600 +0800" stop="20240906183300 +0800">
 		<title lang="zh">器官也有小脾气（七）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240906183300 +0800" stop="20240906191300 +0800">
+		<title lang="zh">第三场 北京东炸团vs河北巧战群雄 第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -76097,6 +76133,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240906174200 +0800" stop="20240906184200 +0800">
 		<title lang="zh">相亲现场遇老熟人？机智大爷这样应对！</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240906184200 +0800" stop="20240906193900 +0800">
+		<title lang="zh">09_玉骨遥</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -76215,6 +76254,12 @@
 	<programme channel="newtv军事评论" start="20240906175400 +0800" stop="20240906181900 +0800">
 		<title lang="zh">俄电子战系统让北约导弹“丢失目标”？北约鼓噪建立“军事申根区”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240906181900 +0800" stop="20240906184400 +0800">
+		<title lang="zh">美怂恿台军进行所谓“城镇战” “艾森豪威尔”号航母进入波斯湾</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240906184400 +0800" stop="20240906190900 +0800">
+		<title lang="zh">朝鲜称卫星拍到五角大楼 美英被指曾阻挠俄乌和谈</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76314,6 +76359,9 @@
 	<programme channel="newtv炫舞未来" start="20240906173600 +0800" stop="20240906183600 +0800">
 		<title lang="zh">憨厚实在的大爷再次登台，却被现场刁难</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240906183600 +0800" stop="20240906192500 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -76383,6 +76431,9 @@
 	<programme channel="newtv精品综合" start="20240906181400 +0800" stop="20240906183100 +0800">
 		<title lang="zh">闪亮的日子第2季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240906183100 +0800" stop="20240906191600 +0800">
+		<title lang="zh">10_埃博拉前线</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -76425,6 +76476,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240906171800 +0800" stop="20240906184100 +0800">
 		<title lang="zh">重案行动之连环凶杀（普通话版）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240906184100 +0800" stop="20240906201000 +0800">
+		<title lang="zh">鲨卷风3</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -76460,6 +76514,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240906154800 +0800" stop="20240906184100 +0800">
 		<title lang="zh">半熟恋人第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240906184100 +0800" stop="20240906190100 +0800">
+		<title lang="zh">【美丽改变生活】-特别推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
