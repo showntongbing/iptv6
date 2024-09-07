@@ -30210,6 +30210,9 @@
 	<programme channel="咪咕综合体育" start="20240907220500 +0800" stop="20240907225100 +0800">
 		<title lang="zh">拜仁慕尼黑：传奇背后 第5集：决战前夜</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240907225100 +0800" stop="20240907000000 +0800">
+		<title lang="zh">国球荣耀-WTT重庆冠军赛 男单 1/4决赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -76161,6 +76164,9 @@
 	<programme channel="黑莓动画" start="20240907223400 +0800" stop="20240907225700 +0800">
 		<title lang="zh">18_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240907225700 +0800" stop="20240907232000 +0800">
+		<title lang="zh">05_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -76740,6 +76746,9 @@
 	<programme channel="newtv超级综艺" start="20240907220500 +0800" stop="20240907225500 +0800">
 		<title lang="zh">妙语连珠</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240907225500 +0800" stop="20240907234000 +0800">
+		<title lang="zh">13_乐游原</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -76850,6 +76859,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240907213200 +0800" stop="20240907225500 +0800">
 		<title lang="zh">电影《独孤天下之异瞳》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240907225500 +0800" stop="20240907003800 +0800">
+		<title lang="zh">电影《终极胜利》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -77039,6 +77051,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240907221300 +0800" stop="20240907225800 +0800">
 		<title lang="zh">35_谁是真英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240907225800 +0800" stop="20240907234400 +0800">
+		<title lang="zh">36_谁是真英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -77418,6 +77433,9 @@
 	<programme channel="newtv家庭剧场" start="20240907221400 +0800" stop="20240907224800 +0800">
 		<title lang="zh">44_完美伴侣</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240907224800 +0800" stop="20240907232600 +0800">
+		<title lang="zh">45_完美伴侣</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -77502,6 +77520,9 @@
 	<programme channel="newtv热播精选" start="20240907221000 +0800" stop="20240907224800 +0800">
 		<title lang="zh">12_闪耀的她</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240907224800 +0800" stop="20240907232600 +0800">
+		<title lang="zh">13_闪耀的她</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -77570,6 +77591,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240907220400 +0800" stop="20240907230000 +0800">
 		<title lang="zh">20_我家有喜</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240907230000 +0800" stop="20240907234600 +0800">
+		<title lang="zh">21_我家有喜</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -77822,6 +77846,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240907221100 +0800" stop="20240907225600 +0800">
 		<title lang="zh">17_玉骨遥</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240907225600 +0800" stop="20240907001300 +0800">
+		<title lang="zh">三组宣传片揭晓，八月组作品遇BOSS团争议</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -78092,6 +78119,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240907223800 +0800" stop="20240907225600 +0800">
 		<title lang="zh">野花香-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240907225600 +0800" stop="20240907000700 +0800">
+		<title lang="zh">新疆姐妹带众人品美食看美景 双胞胎“貌合神离”互相揭短（20240807）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
