@@ -62919,6 +62919,9 @@
 	<programme channel="纯享4K" start="20240907153600 +0800" stop="20240907160400 +0800">
 		<title lang="zh">记住乡愁4K第九季 流沙——流光溢彩金沙滩</title>
 	</programme>
+	<programme channel="纯享4K" start="20240907160400 +0800" stop="20240907163200 +0800">
+		<title lang="zh">记住乡愁4K第九季 东升村的文艺范儿</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75414,6 +75417,9 @@
 	<programme channel="黑莓动画" start="20240907154500 +0800" stop="20240907160300 +0800">
 		<title lang="zh">小志和玩具第十二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240907160300 +0800" stop="20240907162800 +0800">
+		<title lang="zh">甜心格格 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -75975,6 +75981,9 @@
 	<programme channel="newtv超级综艺" start="20240907142300 +0800" stop="20240907155900 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240907155900 +0800" stop="20240907171600 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -76016,6 +76025,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240907143000 +0800" stop="20240907160000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 羽毛球女双决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240907160000 +0800" stop="20240907180000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 乒乓球男团决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -76194,6 +76206,9 @@
 	<programme channel="newtv精品大剧" start="20240907152900 +0800" stop="20240907161500 +0800">
 		<title lang="zh">18_江河之上</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240907161500 +0800" stop="20240907170400 +0800">
+		<title lang="zh">日本SUSUMOTOYA小分子脑活素-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -76263,6 +76278,9 @@
 	<programme channel="newtv精品纪录" start="20240907150600 +0800" stop="20240907155300 +0800">
 		<title lang="zh">新安沉船（上）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240907155300 +0800" stop="20240907164300 +0800">
+		<title lang="zh">06_留取丹心照汗青</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -76323,6 +76341,9 @@
 	<programme channel="newtv古装剧场" start="20240907151200 +0800" stop="20240907160200 +0800">
 		<title lang="zh">39_灼灼风流</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240907160200 +0800" stop="20240907165200 +0800">
+		<title lang="zh">40_灼灼风流</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -76382,6 +76403,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240907151600 +0800" stop="20240907155500 +0800">
 		<title lang="zh">冯小宁从业48周年亲酿纪念酒-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240907155500 +0800" stop="20240907163600 +0800">
+		<title lang="zh">12_欢颜</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -76496,6 +76520,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240907152300 +0800" stop="20240907160900 +0800">
 		<title lang="zh">17_潜行者</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240907160900 +0800" stop="20240907165800 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -76665,6 +76692,9 @@
 	<programme channel="newtv怡伴健康" start="20240907152800 +0800" stop="20240907160600 +0800">
 		<title lang="zh">器官也有小脾气（八）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240907160600 +0800" stop="20240907165500 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -76721,6 +76751,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240907151200 +0800" stop="20240907155800 +0800">
 		<title lang="zh">06_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240907155800 +0800" stop="20240907164300 +0800">
+		<title lang="zh">07_欢乐颂4</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -76827,6 +76860,9 @@
 	<programme channel="newtv军事评论" start="20240907153800 +0800" stop="20240907160000 +0800">
 		<title lang="zh">诺曼底水下探秘（一）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240907160000 +0800" stop="20240907162600 +0800">
+		<title lang="zh">巴以冲突凸显“美式双标” 拜登威胁“美俄开战” 普京48小时密集外交</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76908,6 +76944,9 @@
 	<programme channel="newtv炫舞未来" start="20240907152900 +0800" stop="20240907155700 +0800">
 		<title lang="zh">不同寻常的举报人（20240408）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240907155700 +0800" stop="20240907162500 +0800">
+		<title lang="zh">消失的欠债人（20240329）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -76964,6 +77003,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240907150900 +0800" stop="20240907155800 +0800">
 		<title lang="zh">德国卡赫纯钛RO反渗透净水器-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240907155800 +0800" stop="20240907163600 +0800">
+		<title lang="zh">13_闪耀的她</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
