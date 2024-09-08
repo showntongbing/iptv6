@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20240909024900 +0800" stop="20240909035100 +0800">
 		<title lang="zh">儿行千里20170917</title>
 	</programme>
+	<programme channel="4K综艺" start="20240909035100 +0800" stop="20240909053000 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20191106</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -50595,6 +50598,9 @@
 	<programme channel="纯享4K" start="20240909030400 +0800" stop="20240909034900 +0800">
 		<title lang="zh">传承b7智慧篇4K 第1集 点线之间</title>
 	</programme>
+	<programme channel="纯享4K" start="20240909034900 +0800" stop="20240909043400 +0800">
+		<title lang="zh">传承b7智慧篇4K 第2集 时光之鉴</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60450,6 +60456,9 @@
 	<programme channel="newtv超级电视剧" start="20240909031300 +0800" stop="20240909035500 +0800">
 		<title lang="zh">34_叛逆者</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240909035500 +0800" stop="20240909044000 +0800">
+		<title lang="zh">04_启航：当风起时</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60464,6 +60473,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240909030500 +0800" stop="20240909040000 +0800">
 		<title lang="zh">28_侦察英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240909040000 +0800" stop="20240909045400 +0800">
+		<title lang="zh">29_侦察英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -60500,6 +60512,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240909030300 +0800" stop="20240909035600 +0800">
 		<title lang="zh">17_上古情歌</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240909035600 +0800" stop="20240909044100 +0800">
+		<title lang="zh">18_上古情歌</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60543,6 +60558,9 @@
 	<programme channel="newtv热播精选" start="20240909014300 +0800" stop="20240909035000 +0800">
 		<title lang="zh">夺命枪火</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240909035000 +0800" stop="20240909043600 +0800">
+		<title lang="zh">17_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60564,6 +60582,9 @@
 	<programme channel="newtv动作电影" start="20240909021500 +0800" stop="20240909035800 +0800">
 		<title lang="zh">敦刻尔克行动</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240909035800 +0800" stop="20240909053300 +0800">
+		<title lang="zh">异形：汇合</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -60581,6 +60602,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240909033000 +0800" stop="20240909035700 +0800">
 		<title lang="zh">海底万花筒——与珊瑚礁共生（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240909035700 +0800" stop="20240909043200 +0800">
+		<title lang="zh">海底万花筒——与珊瑚礁共生（下）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -60630,6 +60654,9 @@
 	<programme channel="newtv军事评论" start="20240909032600 +0800" stop="20240909034800 +0800">
 		<title lang="zh">福建舰首航凯旋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240909034800 +0800" stop="20240909041000 +0800">
+		<title lang="zh">探秘军事博物馆 奇特轻武器</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60674,6 +60701,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240909022400 +0800" stop="20240909035600 +0800">
 		<title lang="zh">少女灵异日记</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240909035600 +0800" stop="20240909054000 +0800">
+		<title lang="zh">血域燃烧</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
