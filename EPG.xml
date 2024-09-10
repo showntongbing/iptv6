@@ -29913,6 +29913,12 @@
 	<programme channel="咪咕综合体育" start="20240910090000 +0800" stop="20240910120000 +0800">
 		<title lang="zh">网球世界-2024美国网球公开赛 女单 决赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240910120000 +0800" stop="20240910121000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240910121000 +0800" stop="20240910135000 +0800">
+		<title lang="zh">英超赛场-24/25赛季英超 第2轮 狼队-切尔西</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -74187,6 +74193,9 @@
 	<programme channel="黑莓动画" start="20240910112700 +0800" stop="20240910115300 +0800">
 		<title lang="zh">超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240910115300 +0800" stop="20240910122800 +0800">
+		<title lang="zh">嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74802,6 +74811,9 @@
 	<programme channel="newtv超级体育" start="20240910104000 +0800" stop="20240910120000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会 女排小组赛 法国队-中国队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240910120000 +0800" stop="20240910123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -74880,6 +74892,9 @@
 	<programme channel="newtv超级电视剧" start="20240910113300 +0800" stop="20240910121400 +0800">
 		<title lang="zh">25_大唐狄公案</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240910121400 +0800" stop="20240910125600 +0800">
+		<title lang="zh">26_大唐狄公案</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -74924,6 +74939,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240910112400 +0800" stop="20240910121300 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240910121300 +0800" stop="20240910125900 +0800">
+		<title lang="zh">21_蝶影</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -75027,6 +75045,9 @@
 	<programme channel="newtv古装剧场" start="20240910110800 +0800" stop="20240910115200 +0800">
 		<title lang="zh">22_春光灿烂猪九妹</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240910115200 +0800" stop="20240910123100 +0800">
+		<title lang="zh">美国云杉新一代止疼再生精油-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -75071,6 +75092,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240910112300 +0800" stop="20240910121200 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240910121200 +0800" stop="20240910125700 +0800">
+		<title lang="zh">03_血誓</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -75156,6 +75180,9 @@
 	<programme channel="newtv热播精选" start="20240910110400 +0800" stop="20240910120300 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240910120300 +0800" stop="20240910134200 +0800">
+		<title lang="zh">武动乾坤：九重符塔</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -75219,6 +75246,9 @@
 	<programme channel="newtv动作电影" start="20240910101500 +0800" stop="20240910115400 +0800">
 		<title lang="zh">拳皇</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240910115400 +0800" stop="20240910133200 +0800">
+		<title lang="zh">命悬天涯</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -75269,6 +75299,12 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240910113500 +0800" stop="20240910115000 +0800">
 		<title lang="zh">小品《羊肉串》 表演：陈佩斯 朱时茂</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240910115000 +0800" stop="20240910120300 +0800">
+		<title lang="zh">小品《老伴》 表演：潘长江 蔡明</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240910120300 +0800" stop="20240910121900 +0800">
+		<title lang="zh">小品《老将出马》 表演：巩汉林 赵丽蓉</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -75459,6 +75495,12 @@
 	<programme channel="newtv炫舞未来" start="20240910110000 +0800" stop="20240910114900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240910114900 +0800" stop="20240910121600 +0800">
+		<title lang="zh">为争风头惹上祸（20220422）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240910121600 +0800" stop="20240910124300 +0800">
+		<title lang="zh">天价赎金的背后（20220423）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -75500,6 +75542,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240910111100 +0800" stop="20240910115700 +0800">
 		<title lang="zh">29_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240910115700 +0800" stop="20240910123500 +0800">
+		<title lang="zh">PASSEZLA抗皱紧致淡纹霜贡献组-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -75551,6 +75596,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240910100100 +0800" stop="20240910115600 +0800">
 		<title lang="zh">登录圆鱼洲</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240910115600 +0800" stop="20240910155200 +0800">
+		<title lang="zh">德云斗笑社 第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -75650,6 +75698,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240910111400 +0800" stop="20240910121000 +0800">
 		<title lang="zh">32_雪鹰领主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240910121000 +0800" stop="20240910132100 +0800">
+		<title lang="zh">刀剑笑新传之宝鉴</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
