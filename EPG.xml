@@ -29832,6 +29832,9 @@
 	<programme channel="咪咕足球" start="20240911092500 +0800" stop="20240911110500 +0800">
 		<title lang="zh">2024NBL第25轮 江苏汤沟国藏-安徽文一</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240911110500 +0800" stop="20240911111000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60747,6 +60750,9 @@
 	<programme channel="纯享4K" start="20240911101800 +0800" stop="20240911104800 +0800">
 		<title lang="zh">好吃客4K 北京素食</title>
 	</programme>
+	<programme channel="纯享4K" start="20240911104800 +0800" stop="20240911111600 +0800">
+		<title lang="zh">好吃客4K 京郊长城</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73683,6 +73689,9 @@
 	<programme channel="newtv超级电视剧" start="20240911102000 +0800" stop="20240911110100 +0800">
 		<title lang="zh">26_乡亲乡爱</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240911110100 +0800" stop="20240911114200 +0800">
+		<title lang="zh">28_大唐狄公案</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -73721,6 +73730,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240911100400 +0800" stop="20240911104900 +0800">
 		<title lang="zh">24_蝶影</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240911104900 +0800" stop="20240911113400 +0800">
+		<title lang="zh">25_蝶影</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -73772,6 +73784,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240911100400 +0800" stop="20240911105300 +0800">
 		<title lang="zh">01_言之有味</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240911105300 +0800" stop="20240911114200 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -73932,6 +73947,9 @@
 	<programme channel="newtv热播精选" start="20240911100500 +0800" stop="20240911105400 +0800">
 		<title lang="zh">27_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240911105400 +0800" stop="20240911114300 +0800">
+		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -73991,6 +74009,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240911101000 +0800" stop="20240911105900 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240911105900 +0800" stop="20240911131300 +0800">
+		<title lang="zh">建国大业</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -74151,6 +74172,9 @@
 	<programme channel="newtv军事评论" start="20240911100100 +0800" stop="20240911105300 +0800">
 		<title lang="zh">铁血劲旅启新程——陆军第71集团军“济南第一团”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240911105300 +0800" stop="20240911114500 +0800">
+		<title lang="zh">铁血劲旅启新程——陆军第71集团军“济南第一团” 下集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -74201,6 +74225,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240911094200 +0800" stop="20240911105900 +0800">
 		<title lang="zh">怪不得女孩子喜欢打直球的男生 男嘉宾浪漫情话直击女生芳心！（20240827）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240911105900 +0800" stop="20240911114800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -74390,6 +74417,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240911101600 +0800" stop="20240911110000 +0800">
 		<title lang="zh">35_雪鹰领主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240911110000 +0800" stop="20240911114700 +0800">
+		<title lang="zh">同仁堂海参滋养超值组-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
