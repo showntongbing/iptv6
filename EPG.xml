@@ -33,6 +33,9 @@
 	<programme channel="4K综艺" start="20240912104700 +0800" stop="20240912123100 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20200212</title>
 	</programme>
+	<programme channel="4K综艺" start="20240912123100 +0800" stop="20240912140000 +0800">
+		<title lang="zh">亲爱的客栈第三季20191129</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -71364,6 +71367,9 @@
 	<programme channel="newtv超级体育" start="20240912120000 +0800" stop="20240912123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240912123500 +0800" stop="20240912125500 +0800">
+		<title lang="zh">艺术里的奥林匹克</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -71447,6 +71453,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240912115100 +0800" stop="20240912123600 +0800">
 		<title lang="zh">04_公诉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240912123600 +0800" stop="20240912132200 +0800">
+		<title lang="zh">05_公诉</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -71700,6 +71709,9 @@
 	<programme channel="newtv家庭剧场" start="20240912113500 +0800" stop="20240912122100 +0800">
 		<title lang="zh">36_守婚如玉</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240912122100 +0800" stop="20240912131000 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -71784,6 +71796,9 @@
 	<programme channel="newtv爱情喜剧" start="20240912113600 +0800" stop="20240912122100 +0800">
 		<title lang="zh">16_山里红</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240912122100 +0800" stop="20240912131000 +0800">
+		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -71859,6 +71874,9 @@
 	<programme channel="newtv怡伴健康" start="20240912114700 +0800" stop="20240912121600 +0800">
 		<title lang="zh">47_多彩庄家院第二季</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240912121600 +0800" stop="20240912124800 +0800">
+		<title lang="zh">48_多彩庄家院第二季</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -71900,6 +71918,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240912112100 +0800" stop="20240912121600 +0800">
 		<title lang="zh">27_梦华录</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240912121600 +0800" stop="20240912124700 +0800">
+		<title lang="zh">宵夜江湖第2季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -72093,6 +72114,9 @@
 	<programme channel="newtv精品综合" start="20240912113300 +0800" stop="20240912121700 +0800">
 		<title lang="zh">39_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240912121700 +0800" stop="20240912130400 +0800">
+		<title lang="zh">同仁堂海参滋养超值组-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -72155,6 +72179,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240912095100 +0800" stop="20240912122800 +0800">
 		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240912122800 +0800" stop="20240912130600 +0800">
+		<title lang="zh">石药牌鲨鱼软骨氨糖软骨素特惠组新-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
