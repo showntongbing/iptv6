@@ -72090,6 +72090,9 @@
 	<programme channel="newtv家庭剧场" start="20240913132400 +0800" stop="20240913141300 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240913141300 +0800" stop="20240913150900 +0800">
+		<title lang="zh">01_皎洁的月亮</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -72272,6 +72275,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240913135400 +0800" stop="20240913140700 +0800">
 		<title lang="zh">相声《攀龙附凤》 表演：常贵田 王佩元</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240913140700 +0800" stop="20240913142000 +0800">
+		<title lang="zh">相声《采风》苗阜、郑健</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -72707,6 +72713,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240913123100 +0800" stop="20240913140700 +0800">
 		<title lang="zh">荒漠游侠</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240913140700 +0800" stop="20240913145600 +0800">
+		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
