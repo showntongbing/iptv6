@@ -48,6 +48,9 @@
 	<programme channel="4K综艺" start="20240914000000 +0800" stop="20240914004900 +0800">
 		<title lang="zh">小小的追球20191211</title>
 	</programme>
+	<programme channel="4K综艺" start="20240914004900 +0800" stop="20240914014400 +0800">
+		<title lang="zh">真心大冒险20180407</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -25076,6 +25079,9 @@
 	</channel>
 	<programme channel="咪咕综合体育" start="20240914000000 +0800" stop="20240914010000 +0800">
 		<title lang="zh">国球荣耀-WTT沙特大满贯 男单 半决赛</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240914010000 +0800" stop="20240914020000 +0800">
+		<title lang="zh">国球荣耀-WTT沙特大满贯 男单 决赛</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -59859,6 +59865,9 @@
 	<programme channel="newtv超级体育" start="20240914003000 +0800" stop="20240914010500 +0800">
 		<title lang="zh">顶级赛事-象棋</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240914010500 +0800" stop="20240914040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会精彩赛事</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59876,6 +59885,9 @@
 	</channel>
 	<programme channel="newtv精品大剧" start="20240914000500 +0800" stop="20240914010000 +0800">
 		<title lang="zh">18_青山不墨</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240914010000 +0800" stop="20240914015600 +0800">
+		<title lang="zh">19_青山不墨</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -59919,41 +59931,8 @@
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
-	<programme channel="newtv动作电影" start="20240914000000 +0800" stop="20240914020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914020000 +0800" stop="20240914040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914060000 +0800" stop="20240914080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914080000 +0800" stop="20240914100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914100600 +0800" stop="20240914120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914120000 +0800" stop="20240914140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914140000 +0800" stop="20240914160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914160000 +0800" stop="20240914180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914180000 +0800" stop="20240914190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914190000 +0800" stop="20240914200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914200000 +0800" stop="20240914220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20240914220000 +0800" stop="20240914235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv动作电影" start="20240914004600 +0800" stop="20240914023400 +0800">
+		<title lang="zh">绝色营救</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
