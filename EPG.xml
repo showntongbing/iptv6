@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20240913200500 +0800" stop="20240913204600 +0800">
 		<title lang="zh">小小的追球20191126</title>
 	</programme>
+	<programme channel="4K综艺" start="20240913204600 +0800" stop="20240913215600 +0800">
+		<title lang="zh">小小的追球20191203</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -29903,6 +29906,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240913192000 +0800" stop="20240913210000 +0800">
 		<title lang="zh">2024NBL季后赛半决赛G4 长沙湾田永胜-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240913210500 +0800" stop="20240913220500 +0800">
+		<title lang="zh">勒布朗b7詹姆斯 球场之王</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -60141,6 +60147,9 @@
 	<programme channel="纯享4K" start="20240913203100 +0800" stop="20240913203700 +0800">
 		<title lang="zh">美丽中国自然4K 皖南系列 黄山峰石</title>
 	</programme>
+	<programme channel="纯享4K" start="20240913204200 +0800" stop="20240913212200 +0800">
+		<title lang="zh">探索b7发现4K 江口明末战场考古大揭秘（2）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71901,6 +71910,9 @@
 	<programme channel="newtv超级综艺" start="20240913193000 +0800" stop="20240913210500 +0800">
 		<title lang="zh">中国b7保定乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240913210500 +0800" stop="20240913221900 +0800">
+		<title lang="zh">星光大道—这一站星光</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -71994,6 +72006,9 @@
 	<programme channel="newtv超级电影" start="20240913192300 +0800" stop="20240913205100 +0800">
 		<title lang="zh">电影《绝地危机》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240913205100 +0800" stop="20240913222600 +0800">
+		<title lang="zh">电影《天堂口》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -72075,6 +72090,9 @@
 	<programme channel="newtv超级电视剧" start="20240913201600 +0800" stop="20240913210100 +0800">
 		<title lang="zh">16_侦察英雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240913210100 +0800" stop="20240913214500 +0800">
+		<title lang="zh">05_岁岁青莲</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -72155,6 +72173,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240913195400 +0800" stop="20240913203900 +0800">
 		<title lang="zh">41_大盛魁</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240913203900 +0800" stop="20240913210900 +0800">
+		<title lang="zh">《美丽密码》推荐第39期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -72420,6 +72441,9 @@
 	<programme channel="newtv军旅剧场" start="20240913195000 +0800" stop="20240913203600 +0800">
 		<title lang="zh">20_军刺</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240913203600 +0800" stop="20240913210600 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -72497,6 +72521,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240913194800 +0800" stop="20240913203700 +0800">
 		<title lang="zh">PANATO黑果腺助花楸果复合片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240913203700 +0800" stop="20240913212400 +0800">
+		<title lang="zh">17_血脉</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -73217,6 +73244,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240913185000 +0800" stop="20240913204000 +0800">
 		<title lang="zh">怪兽：黑暗世界</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240913204000 +0800" stop="20240913211000 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
