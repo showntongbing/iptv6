@@ -61716,6 +61716,9 @@
 	<programme channel="纯享4K" start="20240914135200 +0800" stop="20240914142200 +0800">
 		<title lang="zh">旅游指南4K 幸会师父b7太极拳</title>
 	</programme>
+	<programme channel="纯享4K" start="20240914142200 +0800" stop="20240914145100 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7五祖拳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73215,6 +73218,12 @@
 	<programme channel="黑莓动画" start="20240914141100 +0800" stop="20240914141900 +0800">
 		<title lang="zh">保卫植物</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240914141900 +0800" stop="20240914144400 +0800">
+		<title lang="zh">张大牙爱搞怪第三季</title>
+	</programme>
+	<programme channel="黑莓动画" start="20240914144400 +0800" stop="20240914151500 +0800">
+		<title lang="zh">笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73244,6 +73253,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240914130000 +0800" stop="20240914144300 +0800">
 		<title lang="zh">壮志凌云</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240914144300 +0800" stop="20240914161400 +0800">
+		<title lang="zh">仙剑奇侠传前传：酒剑仙</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -73821,6 +73833,9 @@
 	<programme channel="newtv超级体育" start="20240914130000 +0800" stop="20240914143300 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站1(录播)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240914143300 +0800" stop="20240914160500 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第3轮 里尔-巴黎圣日耳曼</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -73913,6 +73928,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240914135100 +0800" stop="20240914143200 +0800">
 		<title lang="zh">24_幸福有配方</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240914143200 +0800" stop="20240914151400 +0800">
+		<title lang="zh">25_幸福有配方</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -74145,6 +74163,9 @@
 	<programme channel="newtv军旅剧场" start="20240914133100 +0800" stop="20240914141600 +0800">
 		<title lang="zh">21_血誓</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240914141600 +0800" stop="20240914150100 +0800">
+		<title lang="zh">22_血誓</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -74199,6 +74220,9 @@
 	<programme channel="newtv家庭剧场" start="20240914134000 +0800" stop="20240914142900 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240914142900 +0800" stop="20240914151500 +0800">
+		<title lang="zh">05_皎洁的月亮</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -74244,6 +74268,9 @@
 	<programme channel="newtv热播精选" start="20240914133900 +0800" stop="20240914142200 +0800">
 		<title lang="zh">01_欢颜</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240914142200 +0800" stop="20240914151300 +0800">
+		<title lang="zh">02_欢颜</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -74288,6 +74315,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240914134900 +0800" stop="20240914143400 +0800">
 		<title lang="zh">25_山里红</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240914143400 +0800" stop="20240914152300 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -74385,6 +74415,9 @@
 	<programme channel="newtv怡伴健康" start="20240914141000 +0800" stop="20240914143300 +0800">
 		<title lang="zh">小品《天网恢恢》 表演：蔡明 王宁</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240914144300 +0800" stop="20240914150300 +0800">
+		<title lang="zh">小品《我爱诗词》 表演：冯巩 贾旭明</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -74435,6 +74468,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240914134600 +0800" stop="20240914143200 +0800">
 		<title lang="zh">34_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240914143200 +0800" stop="20240914151200 +0800">
+		<title lang="zh">石药牌水溶性叶黄素粉固体饮料-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -74529,6 +74565,9 @@
 	<programme channel="newtv军事评论" start="20240914140200 +0800" stop="20240914142400 +0800">
 		<title lang="zh">二战西线反击战 卡昂之战</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240914142400 +0800" stop="20240914144600 +0800">
+		<title lang="zh">二战西线反击战 突破半岛防线</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -74601,6 +74640,9 @@
 	<programme channel="newtv炫舞未来" start="20240914134500 +0800" stop="20240914143200 +0800">
 		<title lang="zh">第24期：爸爸爱上我的闺蜜，两人相差20岁！</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240914143200 +0800" stop="20240914152800 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -74652,6 +74694,9 @@
 	<programme channel="newtv精品综合" start="20240914125700 +0800" stop="20240914143600 +0800">
 		<title lang="zh">冰的启示</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240914143600 +0800" stop="20240914150100 +0800">
+		<title lang="zh">36_名侦探柯南（一）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -74681,6 +74726,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240914123400 +0800" stop="20240914142300 +0800">
 		<title lang="zh">怪兽：黑暗世界</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240914142300 +0800" stop="20240914155800 +0800">
+		<title lang="zh">末日回旋</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
