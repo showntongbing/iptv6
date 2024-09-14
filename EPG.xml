@@ -31158,6 +31158,9 @@
 	<programme channel="咪咕足球" start="20240914192000 +0800" stop="20240914220500 +0800">
 		<title lang="zh">2024NBL季后赛总决赛G1 直播</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240914220500 +0800" stop="20240914222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -73491,6 +73494,9 @@
 	<programme channel="黑莓动画" start="20240914214600 +0800" stop="20240914215300 +0800">
 		<title lang="zh">52_超麻烦大战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240914215300 +0800" stop="20240914220600 +0800">
+		<title lang="zh">01_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74136,6 +74142,9 @@
 	<programme channel="newtv超级体育" start="20240914183000 +0800" stop="20240914220000 +0800">
 		<title lang="zh">2024年世乒联冠军赛(中国澳门站)-半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240914220000 +0800" stop="20240914001000 +0800">
+		<title lang="zh">2024/2025英格兰足球超级联赛-第4轮(利物浦-诺丁汉森林)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -74718,6 +74727,9 @@
 	<programme channel="newtv家庭剧场" start="20240914210000 +0800" stop="20240914215700 +0800">
 		<title lang="zh">21_血脉</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240914215700 +0800" stop="20240914225300 +0800">
+		<title lang="zh">22_血脉</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -75023,6 +75035,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240914212100 +0800" stop="20240914215800 +0800">
 		<title lang="zh">第五场 天津津门荣耀vs海南四海 第5局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240914215800 +0800" stop="20240914222800 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -75485,6 +75500,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240914202300 +0800" stop="20240914214900 +0800">
 		<title lang="zh">异形：汇合</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240914214900 +0800" stop="20240914221900 +0800">
+		<title lang="zh">【美好生活】八段锦长寿操</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
