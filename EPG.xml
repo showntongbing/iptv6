@@ -30999,6 +30999,12 @@
 	<programme channel="咪咕综合体育" start="20240914105000 +0800" stop="20240914120000 +0800">
 		<title lang="zh">网球世界-2024美国网球公开赛 女双第1轮 张帅/梅拉德诺维奇-梅尔滕斯/谢淑薇</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240914120000 +0800" stop="20240914121000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20240914121000 +0800" stop="20240914135000 +0800">
+		<title lang="zh">我的赛场你做主</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -61665,6 +61671,9 @@
 	<programme channel="纯享4K" start="20240914111600 +0800" stop="20240914115800 +0800">
 		<title lang="zh">远方的家4K 大运河（19） 航行在苏南运河</title>
 	</programme>
+	<programme channel="纯享4K" start="20240914115800 +0800" stop="20240914123900 +0800">
+		<title lang="zh">远方的家4K 大运河（20） 从枫桥到阊门</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73146,6 +73155,9 @@
 	<programme channel="黑莓动画" start="20240914112700 +0800" stop="20240914115100 +0800">
 		<title lang="zh">百变布鲁可第4季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240914115100 +0800" stop="20240914121700 +0800">
+		<title lang="zh">超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73701,6 +73713,9 @@
 	<programme channel="newtv超级综艺" start="20240914105300 +0800" stop="20240914120900 +0800">
 		<title lang="zh">中国b7保定乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240914120900 +0800" stop="20240914123900 +0800">
+		<title lang="zh">TOP音乐咖</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -73727,6 +73742,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240914090800 +0800" stop="20240914120000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会精彩赛事</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240914120000 +0800" stop="20240914123500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -73851,6 +73869,9 @@
 	<programme channel="newtv精品大剧" start="20240914111100 +0800" stop="20240914115100 +0800">
 		<title lang="zh">石药牌水溶性叶黄素粉固体饮料-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240914115100 +0800" stop="20240914123600 +0800">
+		<title lang="zh">01_父亲的草原母亲的河</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -73947,6 +73968,9 @@
 	<programme channel="newtv古装剧场" start="20240914110600 +0800" stop="20240914114700 +0800">
 		<title lang="zh">13_大舜</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240914114700 +0800" stop="20240914123600 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -73991,6 +74015,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240914110500 +0800" stop="20240914115000 +0800">
 		<title lang="zh">真福QK升级版纳通片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240914115000 +0800" stop="20240914123500 +0800">
+		<title lang="zh">19_血誓</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -74037,6 +74064,9 @@
 	<programme channel="newtv家庭剧场" start="20240914111300 +0800" stop="20240914115700 +0800">
 		<title lang="zh">02_皎洁的月亮</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240914115700 +0800" stop="20240914125300 +0800">
+		<title lang="zh">03_皎洁的月亮</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -74076,6 +74106,9 @@
 	<programme channel="newtv热播精选" start="20240914112700 +0800" stop="20240914121400 +0800">
 		<title lang="zh">石药牌鲨鱼软骨氨糖软骨素特惠组新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240914121400 +0800" stop="20240914133900 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -74111,6 +74144,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240914111900 +0800" stop="20240914121400 +0800">
 		<title lang="zh">23_山里红</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240914121400 +0800" stop="20240914130000 +0800">
+		<title lang="zh">24_山里红</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -74187,6 +74223,9 @@
 	<programme channel="newtv怡伴健康" start="20240914105900 +0800" stop="20240914115500 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240914115500 +0800" stop="20240914124500 +0800">
+		<title lang="zh">04_好妻子</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -74228,6 +74267,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240914112900 +0800" stop="20240914121500 +0800">
 		<title lang="zh">37_梦华录</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240914121500 +0800" stop="20240914130000 +0800">
+		<title lang="zh">宵夜江湖第3季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -74306,6 +74348,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240914111200 +0800" stop="20240914120400 +0800">
 		<title lang="zh">军民共建谱华章 走进双拥模范城——辽宁阜新</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240914120400 +0800" stop="20240914125600 +0800">
+		<title lang="zh">红军传人心向党 国防知识挑战赛走进新疆军区某红军师</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -74414,6 +74459,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240914112900 +0800" stop="20240914121300 +0800">
 		<title lang="zh">49_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240914121300 +0800" stop="20240914125700 +0800">
+		<title lang="zh">真福QK升级版纳通片-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
