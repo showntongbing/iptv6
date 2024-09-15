@@ -99,6 +99,9 @@
 	<programme channel="4K综艺" start="20240915200500 +0800" stop="20240915203800 +0800">
 		<title lang="zh">重返地球20180209</title>
 	</programme>
+	<programme channel="4K综艺" start="20240915203800 +0800" stop="20240915211300 +0800">
+		<title lang="zh">重返地球20180216</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -32688,6 +32691,9 @@
 	<programme channel="咪咕综合体育" start="20240915203500 +0800" stop="20240915204500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240915204500 +0800" stop="20240915231000 +0800">
+		<title lang="zh">英超赛场-24/25赛季英超 第4轮 托特纳姆热刺-阿森纳 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -63237,6 +63243,9 @@
 	<programme channel="纯享4K" start="20240915200200 +0800" stop="20240915204300 +0800">
 		<title lang="zh">远方的家4K 大运河（22）金鸡湖畔新苏州</title>
 	</programme>
+	<programme channel="纯享4K" start="20240915204300 +0800" stop="20240915204800 +0800">
+		<title lang="zh">美丽中国自然4K 皖南系列 金山银山</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75306,6 +75315,9 @@
 	<programme channel="newtv精品大剧" start="20240915195300 +0800" stop="20240915203800 +0800">
 		<title lang="zh">49_大盛魁</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240915203800 +0800" stop="20240915210800 +0800">
+		<title lang="zh">《美丽密码》推荐第40期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -75785,6 +75797,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240915195400 +0800" stop="20240915203600 +0800">
 		<title lang="zh">29_我的博士老公</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240915203600 +0800" stop="20240915210600 +0800">
+		<title lang="zh">《美丽密码》推荐第40期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -76275,6 +76290,9 @@
 	<programme channel="newtv精品综合" start="20240915195300 +0800" stop="20240915203200 +0800">
 		<title lang="zh">26_你是我的荣耀</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240915203200 +0800" stop="20240915210200 +0800">
+		<title lang="zh">《美丽密码》推荐第40期</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -76367,6 +76385,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240915202300 +0800" stop="20240915205300 +0800">
 		<title lang="zh">【美好生活】八段锦长寿操</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240915205300 +0800" stop="20240915222200 +0800">
+		<title lang="zh">一馔千年</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
