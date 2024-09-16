@@ -30744,6 +30744,9 @@
 	<programme channel="咪咕足球" start="20240916092500 +0800" stop="20240916110500 +0800">
 		<title lang="zh">2024NBL第23轮 香港金牛-江苏汤沟国藏</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240916111000 +0800" stop="20240916125000 +0800">
+		<title lang="zh">当燃CBA 24/25夏季联赛 青岛国信制药-天津先行者</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -70032,6 +70035,9 @@
 	<programme channel="newtv精品大剧" start="20240916103000 +0800" stop="20240916111600 +0800">
 		<title lang="zh">10_父亲的草原母亲的河</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240916111600 +0800" stop="20240916115600 +0800">
+		<title lang="zh">石药牌水溶性叶黄素粉固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -70173,6 +70179,9 @@
 	<programme channel="newtv军旅剧场" start="20240916103200 +0800" stop="20240916111300 +0800">
 		<title lang="zh">39_北国英雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240916111300 +0800" stop="20240916115800 +0800">
+		<title lang="zh">真福QK升级版纳通片-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -70247,6 +70256,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240916102600 +0800" stop="20240916111200 +0800">
 		<title lang="zh">44_星汉灿烂b7月升沧海</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240916111200 +0800" stop="20240916120000 +0800">
+		<title lang="zh">石药牌鲨鱼软骨氨糖软骨素特惠组新-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -70346,6 +70358,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240916101000 +0800" stop="20240916110400 +0800">
 		<title lang="zh">14_燕云台</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240916110400 +0800" stop="20240916113200 +0800">
+		<title lang="zh">不寻常的“交易”</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -70551,6 +70566,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240916092400 +0800" stop="20240916111500 +0800">
 		<title lang="zh">特种部队2：全面反击</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240916111500 +0800" stop="20240916120400 +0800">
+		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -70667,6 +70685,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240916101000 +0800" stop="20240916110500 +0800">
 		<title lang="zh">14_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240916110500 +0800" stop="20240916115400 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
