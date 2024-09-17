@@ -26181,6 +26181,9 @@
 	<programme channel="咪咕足球" start="20240918042100 +0800" stop="20240918043000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240918043000 +0800" stop="20240918053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -61203,6 +61206,9 @@
 	<programme channel="newtv超级综艺" start="20240918033000 +0800" stop="20240918043000 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240918043000 +0800" stop="20240918052100 +0800">
+		<title lang="zh">艺览天下</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -61308,6 +61314,9 @@
 	<programme channel="newtv古装剧场" start="20240918033000 +0800" stop="20240918042600 +0800">
 		<title lang="zh">08_厨子当官</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240918042600 +0800" stop="20240918051400 +0800">
+		<title lang="zh">09_厨子当官</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61404,6 +61413,9 @@
 	<programme channel="newtv怡伴健康" start="20240918035200 +0800" stop="20240918042600 +0800">
 		<title lang="zh">灵长动物家园（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240918042600 +0800" stop="20240918053500 +0800">
+		<title lang="zh">京剧《龙凤呈祥》第一段</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -61452,6 +61464,9 @@
 	<programme channel="newtv军事评论" start="20240918035900 +0800" stop="20240918042400 +0800">
 		<title lang="zh">以色列截获哈马斯关键情报 美军无人机现身加沙战场 中东地区面临“全面战争”？（20231105）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240918042400 +0800" stop="20240918044900 +0800">
+		<title lang="zh">以军要瘫痪加沙地下隧道网 美军“死神”无人机被击落 英航母计划停靠日本（20231111）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61475,6 +61490,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240918040700 +0800" stop="20240918042900 +0800">
 		<title lang="zh">胸大肌中部训练（20231017）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240918042900 +0800" stop="20240918045000 +0800">
+		<title lang="zh">小器械塑形：软铁负重背心训练（20231024）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
