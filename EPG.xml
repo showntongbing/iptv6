@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20240919020200 +0800" stop="20240919025600 +0800">
 		<title lang="zh">小小的追球20200129</title>
 	</programme>
+	<programme channel="4K综艺" start="20240919025600 +0800" stop="20240919040500 +0800">
+		<title lang="zh">小小的追球20200204</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -25302,6 +25305,9 @@
 	<programme channel="咪咕综合体育" start="20240919011500 +0800" stop="20240919025500 +0800">
 		<title lang="zh">足球世界-中国足协杯 1/4决赛 上海申花-北京国安</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240919025500 +0800" stop="20240919043500 +0800">
+		<title lang="zh">一杆定音-2024斯诺克利雅得大师赛 卡特-丁俊晖</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -48456,6 +48462,9 @@
 	<programme channel="纯享4K" start="20240919022300 +0800" stop="20240919030300 +0800">
 		<title lang="zh">荣宝斋4K 第1集 荣重书林</title>
 	</programme>
+	<programme channel="纯享4K" start="20240919030300 +0800" stop="20240919034300 +0800">
+		<title lang="zh">荣宝斋4K 第2集 宝增艺圃</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59211,6 +59220,9 @@
 	<programme channel="newtv超级电影" start="20240919014200 +0800" stop="20240919031600 +0800">
 		<title lang="zh">河长</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240919031600 +0800" stop="20240919045000 +0800">
+		<title lang="zh">村官过大年</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59277,6 +59289,9 @@
 	<programme channel="newtv军旅剧场" start="20240919021400 +0800" stop="20240919030900 +0800">
 		<title lang="zh">09_南侨机工英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20240919030900 +0800" stop="20240919040400 +0800">
+		<title lang="zh">10_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -59285,6 +59300,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240919020200 +0800" stop="20240919024700 +0800">
 		<title lang="zh">24_小棉袄</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240919024700 +0800" stop="20240919034200 +0800">
+		<title lang="zh">25_小棉袄</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -59337,6 +59355,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240919015400 +0800" stop="20240919024900 +0800">
 		<title lang="zh">38_守婚如玉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240919024900 +0800" stop="20240919034400 +0800">
+		<title lang="zh">39_守婚如玉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -59355,6 +59376,12 @@
 	<programme channel="newtv炫舞未来" start="20240919024400 +0800" stop="20240919025700 +0800">
 		<title lang="zh">浪子闲话-饶子龙（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240919025700 +0800" stop="20240919031100 +0800">
+		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240919031100 +0800" stop="20240919032700 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -59369,6 +59396,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20240919020100 +0800" stop="20240919025000 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240919025000 +0800" stop="20240919042000 +0800">
+		<title lang="zh">一号化妆间</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
