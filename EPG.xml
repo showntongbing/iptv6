@@ -25314,6 +25314,9 @@
 	<programme channel="咪咕足球" start="20240919012600 +0800" stop="20240919022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240919024100 +0800" stop="20240919042100 +0800">
+		<title lang="zh">2024NBL第12轮 江西赣驰-河南赊店老酒</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
@@ -48450,6 +48453,9 @@
 	<programme channel="纯享4K" start="20240919020800 +0800" stop="20240919022300 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 运动员进行曲</title>
 	</programme>
+	<programme channel="纯享4K" start="20240919022300 +0800" stop="20240919030300 +0800">
+		<title lang="zh">荣宝斋4K 第1集 荣重书林</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58692,6 +58698,9 @@
 	<programme channel="黑莓动画" start="20240919014500 +0800" stop="20240919023200 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240919023200 +0800" stop="20240919032600 +0800">
+		<title lang="zh">星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59214,6 +59223,9 @@
 	<programme channel="newtv超级电视剧" start="20240919015600 +0800" stop="20240919024000 +0800">
 		<title lang="zh">39_蝶影</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240919024000 +0800" stop="20240919032500 +0800">
+		<title lang="zh">40_蝶影</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -59222,6 +59234,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240919012800 +0800" stop="20240919022400 +0800">
 		<title lang="zh">10_公诉</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240919022400 +0800" stop="20240919031800 +0800">
+		<title lang="zh">11_公诉</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -59235,6 +59250,9 @@
 	<programme channel="newtv精品纪录" start="20240919010800 +0800" stop="20240919023400 +0800">
 		<title lang="zh">走出自闭症</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240919023400 +0800" stop="20240919033200 +0800">
+		<title lang="zh">第八集 创新体系</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59243,6 +59261,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240919014300 +0800" stop="20240919023800 +0800">
 		<title lang="zh">11_厨子当官</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240919023800 +0800" stop="20240919033400 +0800">
+		<title lang="zh">12_厨子当官</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -59289,6 +59310,9 @@
 	<programme channel="newtv动作电影" start="20240919004600 +0800" stop="20240919022100 +0800">
 		<title lang="zh">永生之战</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240919022100 +0800" stop="20240919034600 +0800">
+		<title lang="zh">限时营救</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -59300,6 +59324,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240919014800 +0800" stop="20240919023400 +0800">
 		<title lang="zh">14_清平乐[DVD版]</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240919023400 +0800" stop="20240919032600 +0800">
+		<title lang="zh">15_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -59324,6 +59351,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240919013500 +0800" stop="20240919022500 +0800">
 		<title lang="zh">勇者之战（20240915）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240919024400 +0800" stop="20240919025700 +0800">
+		<title lang="zh">浪子闲话-饶子龙（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -59354,6 +59384,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20240919004300 +0800" stop="20240919022000 +0800">
 		<title lang="zh">2024美洲杯小组赛：乌拉圭VS玻利维亚</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20240919022000 +0800" stop="20240919040000 +0800">
+		<title lang="zh">2024美洲杯小组赛：巴拉圭VS巴西</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
