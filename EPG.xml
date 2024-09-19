@@ -31797,6 +31797,9 @@
 	<programme channel="咪咕足球" start="20240919140000 +0800" stop="20240919140500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240919140500 +0800" stop="20240919150500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
