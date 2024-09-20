@@ -60237,6 +60237,9 @@
 	<programme channel="newtv超级体育" start="20240921010500 +0800" stop="20240921040000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎奥运会精彩赛事</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240921040000 +0800" stop="20240921053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英格兰足球超级联赛第3轮 莱斯特城-阿斯顿维拉</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60269,6 +60272,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240921030800 +0800" stop="20240921035300 +0800">
 		<title lang="zh">11_天底良知</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240921035300 +0800" stop="20240921043800 +0800">
+		<title lang="zh">20_再造之恩</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
