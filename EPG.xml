@@ -62967,6 +62967,9 @@
 	<programme channel="纯享4K" start="20240922222600 +0800" stop="20240922225000 +0800">
 		<title lang="zh">了不起的冬天4K 第4集 有“范儿”</title>
 	</programme>
+	<programme channel="纯享4K" start="20240922225000 +0800" stop="20240922232000 +0800">
+		<title lang="zh">寻古中国4K 稻谷记b7稻丰古国</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -75660,6 +75663,9 @@
 	<programme channel="newtv精品大剧" start="20240922221400 +0800" stop="20240922225100 +0800">
 		<title lang="zh">03_兰闺喜事</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240922225100 +0800" stop="20240922233700 +0800">
+		<title lang="zh">04_兰闺喜事</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -75944,6 +75950,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240922220400 +0800" stop="20240922224800 +0800">
 		<title lang="zh">14_百战天狼</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240922224800 +0800" stop="20240922231800 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -76569,6 +76578,9 @@
 	<programme channel="newtv军事评论" start="20240922223200 +0800" stop="20240922225400 +0800">
 		<title lang="zh">铁血湘江 第一集 五岭逶迤（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240922225400 +0800" stop="20240922231600 +0800">
+		<title lang="zh">铁血湘江 第二集 五岭逶迤（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76658,6 +76670,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240922220200 +0800" stop="20240922225800 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240922225800 +0800" stop="20240922231300 +0800">
+		<title lang="zh">韭菜花儿开-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
