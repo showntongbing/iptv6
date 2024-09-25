@@ -87,6 +87,9 @@
 	<programme channel="4K综艺" start="20240925153400 +0800" stop="20240925160400 +0800">
 		<title lang="zh">小小的追球20200212</title>
 	</programme>
+	<programme channel="4K综艺" start="20240925160400 +0800" stop="20240925173400 +0800">
+		<title lang="zh">我最爱的女人们20190719</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -32967,11 +32970,35 @@
 	<programme channel="国会频道1" start="20240925073000 +0800" stop="20240925090000 +0800">
 		<title lang="zh">立法院院會</title>
 	</programme>
-	<programme channel="国会频道1" start="20240925090000 +0800" stop="20240925180000 +0800">
+	<programme channel="国会频道1" start="20240925090000 +0800" stop="20240925113400 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道1" start="20240925180000 +0800" stop="20240925235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道1" start="20240925113400 +0800" stop="20240925115100 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240925115100 +0800" stop="20240925121600 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240925121600 +0800" stop="20240925122400 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240925122400 +0800" stop="20240925150100 +0800">
+		<title lang="zh">財政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240925150100 +0800" stop="20240925175100 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240925175100 +0800" stop="20240925204200 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240925204200 +0800" stop="20240925205800 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240925205800 +0800" stop="20240925212300 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240925212300 +0800" stop="20240925235900 +0800">
+		<title lang="zh">財政委員會</title>
 	</programme>
 	<channel id="国会频道2">
 		<display-name lang="zh">国会频道2</display-name>
@@ -32988,11 +33015,44 @@
 	<programme channel="国会频道2" start="20240925083000 +0800" stop="20240925090000 +0800">
 		<title lang="zh">立法院院會</title>
 	</programme>
-	<programme channel="国会频道2" start="20240925090000 +0800" stop="20240925180000 +0800">
+	<programme channel="国会频道2" start="20240925090000 +0800" stop="20240925102200 +0800">
 		<title lang="zh">立法院會議直播</title>
 	</programme>
-	<programme channel="国会频道2" start="20240925180000 +0800" stop="20240925235900 +0800">
-		<title lang="zh">當日立法院會議轉播</title>
+	<programme channel="国会频道2" start="20240925102200 +0800" stop="20240925103500 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925103500 +0800" stop="20240925104900 +0800">
+		<title lang="zh">教育及文化委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925104900 +0800" stop="20240925110400 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925110400 +0800" stop="20240925122800 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925122800 +0800" stop="20240925151900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925151900 +0800" stop="20240925180900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925180900 +0800" stop="20240925182400 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925182400 +0800" stop="20240925183800 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925183800 +0800" stop="20240925185100 +0800">
+		<title lang="zh">教育及文化委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925185100 +0800" stop="20240925201600 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925201600 +0800" stop="20240925230600 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240925230600 +0800" stop="20240925235900 +0800">
+		<title lang="zh">立法院院會</title>
 	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
@@ -73497,6 +73557,9 @@
 	<programme channel="黑莓动画" start="20240925155900 +0800" stop="20240925161600 +0800">
 		<title lang="zh">小志和玩具第十二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240925161600 +0800" stop="20240925164000 +0800">
+		<title lang="zh">甜心格格 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74181,6 +74244,9 @@
 	<programme channel="newtv超级电影" start="20240925142000 +0800" stop="20240925161400 +0800">
 		<title lang="zh">电影《武动乾坤：涅槃神石》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240925161400 +0800" stop="20240925175900 +0800">
+		<title lang="zh">电影《追凶十九年》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -74384,6 +74450,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240925154400 +0800" stop="20240925160900 +0800">
 		<title lang="zh">05_爱泼斯坦</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240925160900 +0800" stop="20240925164300 +0800">
+		<title lang="zh">06_中西功</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -75236,6 +75305,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240925152700 +0800" stop="20240925160800 +0800">
 		<title lang="zh">02_新白蛇传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240925160800 +0800" stop="20240925165600 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
