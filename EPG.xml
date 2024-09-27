@@ -74214,6 +74214,9 @@
 	<programme channel="黑莓动画" start="20240927134900 +0800" stop="20240927141000 +0800">
 		<title lang="zh">一只笨笨的小恐龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240927141000 +0800" stop="20240927142000 +0800">
+		<title lang="zh">保卫植物</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74934,6 +74937,9 @@
 	<programme channel="newtv超级电视剧" start="20240927132300 +0800" stop="20240927140900 +0800">
 		<title lang="zh">38_天龙八部</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240927140900 +0800" stop="20240927145400 +0800">
+		<title lang="zh">39_天龙八部</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -74987,6 +74993,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240927132400 +0800" stop="20240927140900 +0800">
 		<title lang="zh">14_我知道我爱你</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240927140900 +0800" stop="20240927145500 +0800">
+		<title lang="zh">15_我知道我爱你</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -75116,6 +75125,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240927131800 +0800" stop="20240927140400 +0800">
 		<title lang="zh">28_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240927140400 +0800" stop="20240927150000 +0800">
+		<title lang="zh">29_长歌行</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -75327,6 +75339,9 @@
 	<programme channel="newtv爱情喜剧" start="20240927132300 +0800" stop="20240927141600 +0800">
 		<title lang="zh">04_都市外乡人</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240927141600 +0800" stop="20240927150100 +0800">
+		<title lang="zh">05_都市外乡人</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -75498,6 +75513,9 @@
 	<programme channel="newtv军事评论" start="20240927134300 +0800" stop="20240927141000 +0800">
 		<title lang="zh">打卡纽伦堡武器展</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240927141000 +0800" stop="20240927143700 +0800">
+		<title lang="zh">军迷马来西亚游记</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75653,6 +75671,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240927124200 +0800" stop="20240927140900 +0800">
 		<title lang="zh">女刑警之叠面角色</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240927140900 +0800" stop="20240927153000 +0800">
+		<title lang="zh">恐怖电影院</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
