@@ -42312,6 +42312,9 @@
 	<programme channel="纯享4K" start="20240929024400 +0800" stop="20240929024900 +0800">
 		<title lang="zh">萌兔的奇妙旅程4K 第3集</title>
 	</programme>
+	<programme channel="纯享4K" start="20240929025400 +0800" stop="20240929032400 +0800">
+		<title lang="zh">美丽中国说4K 中国香港</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49344,11 +49347,17 @@
 	<programme channel="黑莓动画" start="20240929021400 +0800" stop="20240929030200 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929030200 +0800" stop="20240929035000 +0800">
+		<title lang="zh">星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20240929012300 +0800" stop="20240929031100 +0800">
 		<title lang="zh">何日君再来</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240929031100 +0800" stop="20240929045000 +0800">
+		<title lang="zh">仕女图</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -49644,6 +49653,9 @@
 	<programme channel="newtv精品大剧" start="20240929015600 +0800" stop="20240929024800 +0800">
 		<title lang="zh">21_照亮你</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240929024800 +0800" stop="20240929034000 +0800">
+		<title lang="zh">22_照亮你</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -49659,6 +49671,9 @@
 	<programme channel="newtv精品纪录" start="20240929022300 +0800" stop="20240929030700 +0800">
 		<title lang="zh">第3集：打造顶级技术管理者</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240929030700 +0800" stop="20240929034600 +0800">
+		<title lang="zh">第4集：回得去的故土，躺不平的人生——技术高管的数字化转身</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -49671,6 +49686,9 @@
 	<programme channel="newtv古装剧场" start="20240929020800 +0800" stop="20240929030100 +0800">
 		<title lang="zh">07_乐游原</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240929030100 +0800" stop="20240929035700 +0800">
+		<title lang="zh">08_乐游原</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -49682,6 +49700,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240929015100 +0800" stop="20240929024600 +0800">
 		<title lang="zh">17_雪域天路</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240929024600 +0800" stop="20240929034200 +0800">
+		<title lang="zh">18_雪域天路</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -49707,6 +49728,9 @@
 	<programme channel="newtv热播精选" start="20240929015200 +0800" stop="20240929031600 +0800">
 		<title lang="zh">逃跑计划</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240929031600 +0800" stop="20240929040100 +0800">
+		<title lang="zh">16_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -49724,6 +49748,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240929020200 +0800" stop="20240929031500 +0800">
 		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240929031500 +0800" stop="20240929045200 +0800">
+		<title lang="zh">双鞭呼延灼</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -49749,6 +49776,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240929015400 +0800" stop="20240929025900 +0800">
 		<title lang="zh">53_三国机密</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240929025900 +0800" stop="20240929035500 +0800">
+		<title lang="zh">54_三国机密</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -49763,6 +49793,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240929013000 +0800" stop="20240929024700 +0800">
 		<title lang="zh">女朋友生气怎么哄？专家亲自示范教你“转危为安”！（20240419）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240929025500 +0800" stop="20240929030300 +0800">
+		<title lang="zh">《广场舞》 纳西情歌（附教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240929031100 +0800" stop="20240929032300 +0800">
+		<title lang="zh">《广场舞》 赞赞赞（附教学）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
