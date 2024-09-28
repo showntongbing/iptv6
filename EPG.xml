@@ -24165,6 +24165,9 @@
 	<programme channel="咪咕综合体育" start="20240929001500 +0800" stop="20240929024000 +0800">
 		<title lang="zh">足球世界-24/25赛季德甲 第5轮 拜仁慕尼黑-勒沃库森 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240929024500 +0800" stop="20240929052500 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第8轮 奥萨苏纳-巴塞罗那 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -24176,6 +24179,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240929012600 +0800" stop="20240929022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240929022600 +0800" stop="20240929024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240929024100 +0800" stop="20240929042100 +0800">
+		<title lang="zh">2024NBL第7轮 安徽文一-合肥狂风峻茂</title>
 	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
@@ -42297,6 +42306,12 @@
 	<programme channel="纯享4K" start="20240929021400 +0800" stop="20240929022900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 齐白石人物四条屏</title>
 	</programme>
+	<programme channel="纯享4K" start="20240929022900 +0800" stop="20240929024400 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 奥林匹克运动雕塑</title>
+	</programme>
+	<programme channel="纯享4K" start="20240929024400 +0800" stop="20240929024900 +0800">
+		<title lang="zh">萌兔的奇妙旅程4K 第3集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49575,6 +49590,9 @@
 	<programme channel="newtv超级综艺" start="20240929014500 +0800" stop="20240929023000 +0800">
 		<title lang="zh">16_欢迎光临</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240929023000 +0800" stop="20240929032800 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49583,6 +49601,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240929002500 +0800" stop="20240929023800 +0800">
 		<title lang="zh">2024/2025德国足球甲级联赛-第5轮(拜仁慕尼黑-勒沃库森)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240929023800 +0800" stop="20240929040000 +0800">
+		<title lang="zh">实况录像-2024年世界二十岁以下田径锦标赛1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49608,6 +49629,9 @@
 	<programme channel="newtv超级电视剧" start="20240929015100 +0800" stop="20240929023600 +0800">
 		<title lang="zh">15_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240929023600 +0800" stop="20240929032100 +0800">
+		<title lang="zh">16_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49631,6 +49655,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240929014500 +0800" stop="20240929022300 +0800">
 		<title lang="zh">20_微博上的皮肤病专家 朱学骏</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240929022300 +0800" stop="20240929030700 +0800">
+		<title lang="zh">第3集：打造顶级技术管理者</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -49667,6 +49694,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240929014800 +0800" stop="20240929023300 +0800">
 		<title lang="zh">28_千金保姆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240929023300 +0800" stop="20240929032800 +0800">
+		<title lang="zh">29_千金保姆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -49706,6 +49736,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240929013700 +0800" stop="20240929022300 +0800">
 		<title lang="zh">44_清平乐[DVD版]</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240929022300 +0800" stop="20240929031700 +0800">
+		<title lang="zh">45_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -49748,6 +49781,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240929005800 +0800" stop="20240929022900 +0800">
 		<title lang="zh">鬼吹灯之湘西密藏</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240929022900 +0800" stop="20240929035900 +0800">
+		<title lang="zh">降妖除魔之定海神针</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
