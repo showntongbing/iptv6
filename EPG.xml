@@ -24993,6 +24993,132 @@
 	<programme channel="四海钓鱼" start="20240929233500 +0800" stop="20240929234500 +0800">
 		<title lang="zh">钓界新声</title>
 	</programme>
+	<channel id="国会频道1">
+		<display-name lang="zh">国会频道1</display-name>
+	</channel>
+	<programme channel="国会频道1" start="20240929010100 +0800" stop="20240929012100 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929012100 +0800" stop="20240929012900 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929012900 +0800" stop="20240929014600 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929014600 +0800" stop="20240929021000 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929021000 +0800" stop="20240929044700 +0800">
+		<title lang="zh">財政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929044700 +0800" stop="20240929045500 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929045500 +0800" stop="20240929051200 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929051200 +0800" stop="20240929053600 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929053600 +0800" stop="20240929081300 +0800">
+		<title lang="zh">財政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929081300 +0800" stop="20240929082200 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929082200 +0800" stop="20240929083800 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929083800 +0800" stop="20240929090000 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929090000 +0800" stop="20240929110600 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929110600 +0800" stop="20240929140100 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929140100 +0800" stop="20240929142100 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929142100 +0800" stop="20240929142900 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929142900 +0800" stop="20240929144600 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929144600 +0800" stop="20240929151000 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929151000 +0800" stop="20240929174700 +0800">
+		<title lang="zh">財政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929174700 +0800" stop="20240929175500 +0800">
+		<title lang="zh">內政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929175500 +0800" stop="20240929181200 +0800">
+		<title lang="zh">外交及國防委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929181200 +0800" stop="20240929183600 +0800">
+		<title lang="zh">經濟委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929183600 +0800" stop="20240929200000 +0800">
+		<title lang="zh">財政委員會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929200000 +0800" stop="20240929225000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道1" start="20240929225000 +0800" stop="20240929235900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<channel id="国会频道2">
+		<display-name lang="zh">国会频道2</display-name>
+	</channel>
+	<programme channel="国会频道2" start="20240929012100 +0800" stop="20240929045100 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929045100 +0800" stop="20240929064800 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929064800 +0800" stop="20240929070700 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929070700 +0800" stop="20240929090000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929090000 +0800" stop="20240929115000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929115000 +0800" stop="20240929144000 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929144000 +0800" stop="20240929151000 +0800">
+		<title lang="zh">程序委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929151000 +0800" stop="20240929163500 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929163500 +0800" stop="20240929165000 +0800">
+		<title lang="zh">司法及法制委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929165000 +0800" stop="20240929170300 +0800">
+		<title lang="zh">社會福利及衛生環境委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929170300 +0800" stop="20240929171700 +0800">
+		<title lang="zh">教育及文化委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929171700 +0800" stop="20240929200000 +0800">
+		<title lang="zh">交通委員會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929200000 +0800" stop="20240929201900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929201900 +0800" stop="20240929222500 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
+	<programme channel="国会频道2" start="20240929222500 +0800" stop="20240929235900 +0800">
+		<title lang="zh">立法院院會</title>
+	</programme>
 	<channel id="国兴卫视">
 		<display-name lang="zh">国兴卫视</display-name>
 	</channel>
@@ -49752,6 +49878,9 @@
 	<programme channel="黑莓动画" start="20240929042700 +0800" stop="20240929051200 +0800">
 		<title lang="zh">马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240929051200 +0800" stop="20240929060100 +0800">
+		<title lang="zh">入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -49760,6 +49889,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240929031100 +0800" stop="20240929045000 +0800">
 		<title lang="zh">仕女图</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240929045000 +0800" stop="20240929062300 +0800">
+		<title lang="zh">勒阿弗尔</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -50040,6 +50172,9 @@
 	<programme channel="newtv超级电影" start="20240929034600 +0800" stop="20240929051600 +0800">
 		<title lang="zh">舞动人生</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240929051600 +0800" stop="20240929064800 +0800">
+		<title lang="zh">极地营救</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50109,6 +50244,9 @@
 	<programme channel="newtv精品纪录" start="20240929041500 +0800" stop="20240929044900 +0800">
 		<title lang="zh">第7集：毛茂德|从虎牙直播，看技术如何驱动效能提升</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240929044900 +0800" stop="20240929054700 +0800">
+		<title lang="zh">苍生大医</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -50126,6 +50264,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240929035700 +0800" stop="20240929045500 +0800">
 		<title lang="zh">09_乐游原</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240929045500 +0800" stop="20240929054900 +0800">
+		<title lang="zh">20_大戏法</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -50169,6 +50310,9 @@
 	<programme channel="newtv家庭剧场" start="20240929040900 +0800" stop="20240929050100 +0800">
 		<title lang="zh">17_爱拼会赢</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240929050100 +0800" stop="20240929054200 +0800">
+		<title lang="zh">18_爱拼会赢</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -50183,6 +50327,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240929040100 +0800" stop="20240929045600 +0800">
 		<title lang="zh">17_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240929045600 +0800" stop="20240929054100 +0800">
+		<title lang="zh">18_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -50210,6 +50357,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20240929031500 +0800" stop="20240929045200 +0800">
 		<title lang="zh">双鞭呼延灼</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20240929045200 +0800" stop="20240929063300 +0800">
+		<title lang="zh">虚拟世界</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -50250,6 +50400,9 @@
 	<programme channel="newtv潮妈辣婆" start="20240929035500 +0800" stop="20240929044900 +0800">
 		<title lang="zh">01_流光之城</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240929044900 +0800" stop="20240929054400 +0800">
+		<title lang="zh">02_流光之城</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50258,6 +50411,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240929041000 +0800" stop="20240929050100 +0800">
 		<title lang="zh">挺进深蓝 南部战区海军某基地 下集</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240929050100 +0800" stop="20240929055400 +0800">
+		<title lang="zh">像雷锋那样当兵 国防知识挑战赛</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -50279,6 +50435,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240929033800 +0800" stop="20240929045500 +0800">
 		<title lang="zh">金牌喜剧班（20210220）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240929045800 +0800" stop="20240929050600 +0800">
+		<title lang="zh">《广场舞》 花儿香第二讲_幸福的花儿香</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240929051100 +0800" stop="20240929051800 +0800">
+		<title lang="zh">《广场舞》 花儿香第一讲_相思的方向</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -50381,6 +50543,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240929032200 +0800" stop="20240929050300 +0800">
 		<title lang="zh">魔戟战神</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240929050300 +0800" stop="20240929062100 +0800">
+		<title lang="zh">男子南拳</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
