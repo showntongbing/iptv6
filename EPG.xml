@@ -93,6 +93,9 @@
 	<programme channel="4K综艺" start="20240929184800 +0800" stop="20240929203400 +0800">
 		<title lang="zh">花儿与少年第一季20140530</title>
 	</programme>
+	<programme channel="4K综艺" start="20240929203400 +0800" stop="20240929221600 +0800">
+		<title lang="zh">花儿与少年第一季20140606</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -62790,6 +62793,9 @@
 	<programme channel="newtv超级综艺" start="20240929193000 +0800" stop="20240929205000 +0800">
 		<title lang="zh">灯火中国-重庆篇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240929205000 +0800" stop="20240929214400 +0800">
+		<title lang="zh">幸福账单-勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -62889,6 +62895,9 @@
 	<programme channel="newtv超级电影" start="20240929192600 +0800" stop="20240929205400 +0800">
 		<title lang="zh">电影《边境威龙》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240929205400 +0800" stop="20240929221500 +0800">
+		<title lang="zh">电影《怒火追凶》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -62972,6 +62981,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240929194900 +0800" stop="20240929203400 +0800">
 		<title lang="zh">32_女人的抗战</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240929203400 +0800" stop="20240929211900 +0800">
+		<title lang="zh">17_江河之上</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -63404,6 +63416,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20240929200600 +0800" stop="20240929204600 +0800">
 		<title lang="zh">23_头号前妻</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20240929204600 +0800" stop="20240929211600 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -64092,6 +64107,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240929190900 +0800" stop="20240929203600 +0800">
 		<title lang="zh">守卫恶魔镇</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240929203600 +0800" stop="20240929210600 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -64139,6 +64157,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240929202000 +0800" stop="20240929205000 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240929205000 +0800" stop="20240929220700 +0800">
+		<title lang="zh">你好生活第4季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -64289,6 +64310,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240929195700 +0800" stop="20240929203700 +0800">
 		<title lang="zh">03_飞狐外传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240929203700 +0800" stop="20240929210700 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
