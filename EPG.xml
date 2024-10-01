@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20241002025600 +0800" stop="20241002034900 +0800">
 		<title lang="zh">我最爱的女人们20190720</title>
 	</programme>
+	<programme channel="4K综艺" start="20241002034900 +0800" stop="20241002052600 +0800">
+		<title lang="zh">我最爱的女人们20190726</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -55905,6 +55908,9 @@
 	<programme channel="纯享4K" start="20241002030800 +0800" stop="20241002035800 +0800">
 		<title lang="zh">航拍中国 第二季4K 甘肃</title>
 	</programme>
+	<programme channel="纯享4K" start="20241002035800 +0800" stop="20241002044000 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67422,6 +67428,9 @@
 	<programme channel="newtv超级体育" start="20241002023500 +0800" stop="20241002040000 +0800">
 		<title lang="zh">实况录像-2024年中国羽毛球公开赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241002040000 +0800" stop="20241002053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第2轮 巴黎圣日耳曼-蒙彼利埃</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67436,6 +67445,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241002033100 +0800" stop="20241002040500 +0800">
 		<title lang="zh">一件幸福的事（上）</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241002040500 +0800" stop="20241002045200 +0800">
+		<title lang="zh">一件幸福的事（下）</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -67470,6 +67482,9 @@
 	<programme channel="newtv精品大剧" start="20241002025500 +0800" stop="20241002034800 +0800">
 		<title lang="zh">01_余生，请多指教</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241002034800 +0800" stop="20241002043600 +0800">
+		<title lang="zh">02_余生，请多指教</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -67493,6 +67508,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241002030600 +0800" stop="20241002040000 +0800">
 		<title lang="zh">走进纳米世界</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241002040000 +0800" stop="20241002045000 +0800">
+		<title lang="zh">蓝色能源 海盐</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -67523,6 +67541,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241002025900 +0800" stop="20241002035400 +0800">
 		<title lang="zh">33_雪域天路</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241002035400 +0800" stop="20241002044900 +0800">
+		<title lang="zh">20_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -67643,6 +67664,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241002034300 +0800" stop="20241002035700 +0800">
 		<title lang="zh">韭菜花儿开-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241002035700 +0800" stop="20241002041500 +0800">
+		<title lang="zh">野花香-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
