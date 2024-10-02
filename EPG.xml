@@ -66159,6 +66159,9 @@
 	<programme channel="纯享4K" start="20241002223900 +0800" stop="20241002230800 +0800">
 		<title lang="zh">旅游指南4K 幸会师父b7洪拳 蔡李佛拳</title>
 	</programme>
+	<programme channel="纯享4K" start="20241002230800 +0800" stop="20241002233700 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7太极拳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -78585,6 +78588,9 @@
 	<programme channel="黑莓动画" start="20241002223900 +0800" stop="20241002230300 +0800">
 		<title lang="zh">21_咒术回战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241002230300 +0800" stop="20241002232100 +0800">
+		<title lang="zh">07_大理寺日志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79311,6 +79317,9 @@
 	<programme channel="newtv超级电视剧" start="20241002221300 +0800" stop="20241002225800 +0800">
 		<title lang="zh">28_江河之上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241002225800 +0800" stop="20241002234500 +0800">
+		<title lang="zh">19_花琉璃轶闻</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79400,6 +79409,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241002220700 +0800" stop="20241002225700 +0800">
 		<title lang="zh">09_灼灼风流</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241002225700 +0800" stop="20241002234100 +0800">
+		<title lang="zh">10_灼灼风流</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79499,6 +79511,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241002221500 +0800" stop="20241002230600 +0800">
 		<title lang="zh">第1集：山语</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241002230600 +0800" stop="20241002232900 +0800">
+		<title lang="zh">01_汪曾祺 逆境中的微光</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -79676,6 +79691,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241002220300 +0800" stop="20241002224800 +0800">
 		<title lang="zh">06_海魂</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241002224800 +0800" stop="20241002231800 +0800">
+		<title lang="zh">【五脏自愈操】推荐第一期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79859,6 +79877,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241002213600 +0800" stop="20241002231200 +0800">
 		<title lang="zh">登录圆鱼洲</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241002231200 +0800" stop="20241002000100 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -80190,6 +80211,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241002222100 +0800" stop="20241002230700 +0800">
 		<title lang="zh">15_小日子</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241002230700 +0800" stop="20241002235100 +0800">
+		<title lang="zh">女生追查男友傅首尔犀利点评</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -80303,6 +80327,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241002223100 +0800" stop="20241002225300 +0800">
 		<title lang="zh">数说b7护航15年</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241002225300 +0800" stop="20241002231500 +0800">
+		<title lang="zh">韩国阅兵式上的新式装备</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241002231500 +0800" stop="20241002233600 +0800">
+		<title lang="zh">二〇二三全球无人机盘点</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -80780,6 +80810,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241002223200 +0800" stop="20241002230200 +0800">
 		<title lang="zh">【五脏自愈操】推荐第一期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241002230200 +0800" stop="20241002002600 +0800">
+		<title lang="zh">锦衣之下之绣春刀</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
