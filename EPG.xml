@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20241006004900 +0800" stop="20241006023800 +0800">
 		<title lang="zh">真心大冒险20180623</title>
 	</programme>
+	<programme channel="4K综艺" start="20241006023800 +0800" stop="20241006041000 +0800">
+		<title lang="zh">花儿与少年第一季20140523</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -30120,6 +30123,9 @@
 	<programme channel="咪咕综合体育" start="20241006020500 +0800" stop="20241006023000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241006023000 +0800" stop="20241006051000 +0800">
+		<title lang="zh">足球世界-24/25赛季意甲 第7轮 国际米兰-都灵 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -30131,6 +30137,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241006012600 +0800" stop="20241006022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241006022600 +0800" stop="20241006024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241006024100 +0800" stop="20241006042100 +0800">
+		<title lang="zh">2024NBL第3轮 合肥狂风峻茂-河南赊店老酒</title>
 	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
@@ -55773,6 +55785,9 @@
 	<programme channel="纯享4K" start="20241006020600 +0800" stop="20241006022100 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7在塞纳河上划船</title>
 	</programme>
+	<programme channel="纯享4K" start="20241006022100 +0800" stop="20241006025100 +0800">
+		<title lang="zh">寻古中国4K 古滇记b7古国寻踪</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67065,6 +67080,9 @@
 	<programme channel="newtv超级体育" start="20241006010500 +0800" stop="20241006023500 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 罗马站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241006023500 +0800" stop="20241006040000 +0800">
+		<title lang="zh">实况录像-2024年中国羽毛球公开赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -67094,6 +67112,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241006014000 +0800" stop="20241006023300 +0800">
 		<title lang="zh">20_余生，请多指教</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241006023300 +0800" stop="20241006031700 +0800">
+		<title lang="zh">21_余生，请多指教</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -67133,6 +67154,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241006015300 +0800" stop="20241006024300 +0800">
 		<title lang="zh">07_我们队伍向太阳</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241006024300 +0800" stop="20241006033300 +0800">
+		<title lang="zh">08_我们队伍向太阳</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -67182,6 +67206,9 @@
 	<programme channel="newtv怡伴健康" start="20241006013600 +0800" stop="20241006022300 +0800">
 		<title lang="zh">65_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241006022300 +0800" stop="20241006031600 +0800">
+		<title lang="zh">66_清平乐[DVD版]</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -67190,6 +67217,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241006014800 +0800" stop="20241006024200 +0800">
 		<title lang="zh">01_乌鸦小姐与蜥蜴先生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241006024200 +0800" stop="20241006033500 +0800">
+		<title lang="zh">02_乌鸦小姐与蜥蜴先生</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -67205,6 +67235,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241006013900 +0800" stop="20241006023900 +0800">
 		<title lang="zh">“嘴强”天团VS“满级萌娃” “萌友”们开启团战模式（20240822）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241006024200 +0800" stop="20241006025600 +0800">
+		<title lang="zh">相遇花开-饶子龙（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
