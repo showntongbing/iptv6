@@ -79974,6 +79974,9 @@
 	<programme channel="newtv超级体育" start="20241005140000 +0800" stop="20241005150000 +0800">
 		<title lang="zh">2024年世乒联大满贯赛(北京站)-女单半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241005150000 +0800" stop="20241005173000 +0800">
+		<title lang="zh">2024年中国网球公开赛-女单半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -80066,6 +80069,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241005140800 +0800" stop="20241005145600 +0800">
 		<title lang="zh">21_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241005145600 +0800" stop="20241005154200 +0800">
+		<title lang="zh">22_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
