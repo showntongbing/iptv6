@@ -28728,11 +28728,17 @@
 	<programme channel="咪咕综合体育" start="20241007000000 +0800" stop="20241007014000 +0800">
 		<title lang="zh">足球世界-24/25赛季德甲 第6轮 法兰克福-拜仁慕尼黑 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241007014500 +0800" stop="20241007023000 +0800">
+		<title lang="zh">国球荣耀-WTT常规挑战赛阿拉图木站 女单 决赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20241007000100 +0800" stop="20241007012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241007012600 +0800" stop="20241007022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
@@ -63009,6 +63015,9 @@
 	<programme channel="黑莓动画" start="20241007003800 +0800" stop="20241007013200 +0800">
 		<title lang="zh">一人之下第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241007013200 +0800" stop="20241007020300 +0800">
+		<title lang="zh">我靠充值当武帝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -63420,6 +63429,9 @@
 	<programme channel="newtv超级体育" start="20241007004000 +0800" stop="20241007014000 +0800">
 		<title lang="zh">实况录像-2024年皮划艇激流回旋世界杯 意大利站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241007014000 +0800" stop="20241007023800 +0800">
+		<title lang="zh">赛事集锦-2024年世界山地自行车锦标赛3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -63435,11 +63447,17 @@
 	<programme channel="newtv超级电视剧" start="20241007005600 +0800" stop="20241007014200 +0800">
 		<title lang="zh">19_碧海雄心</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241007014200 +0800" stop="20241007022700 +0800">
+		<title lang="zh">20_碧海雄心</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20241007004200 +0800" stop="20241007012100 +0800">
 		<title lang="zh">23_余生，请多指教</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241007012100 +0800" stop="20241007021600 +0800">
+		<title lang="zh">24_余生，请多指教</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -63449,6 +63467,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241007011500 +0800" stop="20241007014000 +0800">
 		<title lang="zh">04_或许，你也有条黑狗</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241007014000 +0800" stop="20241007021400 +0800">
+		<title lang="zh">05_坚持，再坚持一下</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -63489,6 +63510,9 @@
 	<programme channel="newtv爱情喜剧" start="20241007000100 +0800" stop="20241007013900 +0800">
 		<title lang="zh">北回归线</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241007013900 +0800" stop="20241007032100 +0800">
+		<title lang="zh">跑调天后</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -63500,6 +63524,9 @@
 	</channel>
 	<programme channel="newtv怡伴健康" start="20241007002800 +0800" stop="20241007011600 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241007011600 +0800" stop="20241007020200 +0800">
+		<title lang="zh">67_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -63531,6 +63558,9 @@
 	<programme channel="newtv惊悚悬疑" start="20241007003200 +0800" stop="20241007012000 +0800">
 		<title lang="zh">林格贝尔野生蓝莓原浆新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241007012000 +0800" stop="20241007025500 +0800">
+		<title lang="zh">火线干探之革命</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -63548,6 +63578,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20241007000300 +0800" stop="20241007014100 +0800">
 		<title lang="zh">2024-25赛季英超联赛第1轮：阿森纳VS伍尔弗汉普顿</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241007014100 +0800" stop="20241007030100 +0800">
+		<title lang="zh">2024-25赛季法甲联赛第1轮：勒阿弗尔VS巴黎圣日耳曼</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
