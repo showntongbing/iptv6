@@ -28734,6 +28734,9 @@
 	<programme channel="咪咕综合体育" start="20241007014500 +0800" stop="20241007023000 +0800">
 		<title lang="zh">国球荣耀-WTT常规挑战赛阿拉图木站 女单 决赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241007023000 +0800" stop="20241007051000 +0800">
+		<title lang="zh">足球世界-24/25赛季法甲 第7轮 尼斯-巴黎圣日耳曼 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28742,6 +28745,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241007012600 +0800" stop="20241007022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241007022600 +0800" stop="20241007024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241007024100 +0800" stop="20241007042100 +0800">
+		<title lang="zh">2024NBL第3轮 香港金牛-武汉鲲鹏</title>
 	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
@@ -63558,11 +63567,17 @@
 	<programme channel="newtv超级体育" start="20241007014000 +0800" stop="20241007023800 +0800">
 		<title lang="zh">赛事集锦-2024年世界山地自行车锦标赛3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241007023800 +0800" stop="20241007040000 +0800">
+		<title lang="zh">实况录像-2024年中国羽毛球公开赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
 	<programme channel="newtv超级电影" start="20241007003400 +0800" stop="20241007024500 +0800">
 		<title lang="zh">戏杀</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241007024500 +0800" stop="20241007044100 +0800">
+		<title lang="zh">海的尽头是草原</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -63575,6 +63590,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241007014200 +0800" stop="20241007022700 +0800">
 		<title lang="zh">20_碧海雄心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241007022700 +0800" stop="20241007031200 +0800">
+		<title lang="zh">21_碧海雄心</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -63627,6 +63645,9 @@
 	<programme channel="newtv军旅剧场" start="20241007015000 +0800" stop="20241007024000 +0800">
 		<title lang="zh">12_我们队伍向太阳</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241007024000 +0800" stop="20241007033000 +0800">
+		<title lang="zh">13_我们队伍向太阳</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63638,6 +63659,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241007015500 +0800" stop="20241007024000 +0800">
 		<title lang="zh">07_猫冬</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241007024000 +0800" stop="20241007032500 +0800">
+		<title lang="zh">08_猫冬</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -63663,6 +63687,9 @@
 	<programme channel="newtv动作电影" start="20241007004600 +0800" stop="20241007023100 +0800">
 		<title lang="zh">伏虎武松</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241007023100 +0800" stop="20241007040800 +0800">
+		<title lang="zh">复仇者格林：战事再起</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -63683,6 +63710,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241007014700 +0800" stop="20241007024100 +0800">
 		<title lang="zh">07_乌鸦小姐与蜥蜴先生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241007024100 +0800" stop="20241007033400 +0800">
+		<title lang="zh">08_乌鸦小姐与蜥蜴先生</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -63782,6 +63812,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20241007004700 +0800" stop="20241007022200 +0800">
 		<title lang="zh">陈真之拳镇山河</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241007022200 +0800" stop="20241007035000 +0800">
+		<title lang="zh">兵临城下-虎贲</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
