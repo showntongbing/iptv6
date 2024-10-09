@@ -45,6 +45,9 @@
 	<programme channel="4K综艺" start="20241010020800 +0800" stop="20241010022800 +0800">
 		<title lang="zh">少年说听你说20180625</title>
 	</programme>
+	<programme channel="4K综艺" start="20241010022800 +0800" stop="20241010025100 +0800">
+		<title lang="zh">少年说听你说20180627</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -29901,6 +29904,12 @@
 	<programme channel="咪咕足球" start="20241010012600 +0800" stop="20241010022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241010022600 +0800" stop="20241010024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241010024100 +0800" stop="20241010042100 +0800">
+		<title lang="zh">2024NBL第5轮 武汉鲲鹏-江西赣驰</title>
+	</programme>
 	<channel id="唯心电视">
 		<display-name lang="zh">唯心电视</display-name>
 	</channel>
@@ -55062,6 +55071,12 @@
 	<programme channel="纯享4K" start="20241010011900 +0800" stop="20241010021800 +0800">
 		<title lang="zh">乐享汇4K “新的唱响”演唱会（21）</title>
 	</programme>
+	<programme channel="纯享4K" start="20241010021800 +0800" stop="20241010023300 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7阿让特伊赛船会</title>
+	</programme>
+	<programme channel="纯享4K" start="20241010023300 +0800" stop="20241010030300 +0800">
+		<title lang="zh">味道4K 原味乡间b7定南篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -65919,11 +65934,17 @@
 	<programme channel="黑莓动画" start="20241010015600 +0800" stop="20241010024200 +0800">
 		<title lang="zh">骸骨骑士大人奇幻世界冒险中</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241010024200 +0800" stop="20241010033700 +0800">
+		<title lang="zh">星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20241010011800 +0800" stop="20241010024200 +0800">
 		<title lang="zh">藏海花之雪夜凶灯</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241010024200 +0800" stop="20241010041000 +0800">
+		<title lang="zh">大陆酒店</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -66372,6 +66393,9 @@
 	<programme channel="newtv超级体育" start="20241010013000 +0800" stop="20241010023000 +0800">
 		<title lang="zh">实况录像-2024年世界公路自行车锦标赛 男子决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241010023000 +0800" stop="20241010040000 +0800">
+		<title lang="zh">实况录像-2024年世乒联大满贯赛 北京站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -66393,6 +66417,9 @@
 	<programme channel="newtv超级电视剧" start="20241010013700 +0800" stop="20241010022300 +0800">
 		<title lang="zh">35_碧海雄心</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241010022300 +0800" stop="20241010030800 +0800">
+		<title lang="zh">36_碧海雄心</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -66401,6 +66428,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241010013800 +0800" stop="20241010023400 +0800">
 		<title lang="zh">07_狮子山下的故事（普通话版）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241010023400 +0800" stop="20241010032900 +0800">
+		<title lang="zh">08_狮子山下的故事（普通话版）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -66441,6 +66471,9 @@
 	<programme channel="newtv军旅剧场" start="20241010015500 +0800" stop="20241010024400 +0800">
 		<title lang="zh">27_我们队伍向太阳</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241010024400 +0800" stop="20241010033400 +0800">
+		<title lang="zh">28_我们队伍向太阳</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -66474,6 +66507,9 @@
 	<programme channel="newtv动作电影" start="20241010004800 +0800" stop="20241010021700 +0800">
 		<title lang="zh">绝世战魂</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241010021700 +0800" stop="20241010040500 +0800">
+		<title lang="zh">龙形侠影黄澄可</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -66485,6 +66521,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241010014200 +0800" stop="20241010022700 +0800">
 		<title lang="zh">08_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241010022700 +0800" stop="20241010032100 +0800">
+		<title lang="zh">09_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -66512,6 +66551,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241010015600 +0800" stop="20241010022100 +0800">
 		<title lang="zh">美以同时“撤军” 伊朗出兵红海 菲律宾欲“大规模招募”海岸警卫队员</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241010022100 +0800" stop="20241010024600 +0800">
+		<title lang="zh">俄乌持续高强度远程“对打” 乌总统：今年摧毁克里米亚大桥</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
