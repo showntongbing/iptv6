@@ -55671,6 +55671,9 @@
 	<programme channel="纯享4K" start="20241011022000 +0800" stop="20241011025000 +0800">
 		<title lang="zh">味道4K 原味乡间b7沂水篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20241011025000 +0800" stop="20241011031900 +0800">
+		<title lang="zh">味道4K 原味乡间b7舒城篇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66321,6 +66324,9 @@
 	<programme channel="黑莓电影" start="20241011010500 +0800" stop="20241011030000 +0800">
 		<title lang="zh">不可思议的海岸物语</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241011030000 +0800" stop="20241011042200 +0800">
+		<title lang="zh">九辫灵狐</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -66828,6 +66834,9 @@
 	<programme channel="newtv超级电影" start="20241011013000 +0800" stop="20241011025400 +0800">
 		<title lang="zh">狗先生追爱记</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241011025400 +0800" stop="20241011042400 +0800">
+		<title lang="zh">霍金传</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -66873,6 +66882,9 @@
 	<programme channel="newtv精品纪录" start="20241011021400 +0800" stop="20241011031200 +0800">
 		<title lang="zh">04_风险地带</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241011031200 +0800" stop="20241011034200 +0800">
+		<title lang="zh">03_环绕</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -66897,6 +66909,9 @@
 	<programme channel="newtv军旅剧场" start="20241011021700 +0800" stop="20241011031100 +0800">
 		<title lang="zh">02_山村大爷</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241011031100 +0800" stop="20241011040600 +0800">
+		<title lang="zh">03_山村大爷</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -66908,6 +66923,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241011021600 +0800" stop="20241011030100 +0800">
 		<title lang="zh">27_猫冬</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241011030100 +0800" stop="20241011035600 +0800">
+		<title lang="zh">28_猫冬</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -66926,6 +66944,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241011011400 +0800" stop="20241011031500 +0800">
 		<title lang="zh">昂首挺胸</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241011031500 +0800" stop="20241011040900 +0800">
+		<title lang="zh">19_稍息立正我爱你</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -66950,6 +66971,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241011021400 +0800" stop="20241011030800 +0800">
 		<title lang="zh">12_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241011030800 +0800" stop="20241011033500 +0800">
+		<title lang="zh">风情与风景——南岛即景（下）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -66984,6 +67008,9 @@
 	<programme channel="newtv军事评论" start="20241011022600 +0800" stop="20241011025100 +0800">
 		<title lang="zh">瑙鲁宣布与台湾“断交” 胡塞武装制定报复计划和目标清单</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241011025100 +0800" stop="20241011031700 +0800">
+		<title lang="zh">俄军A-50预警机被乌方“击落”？ 伊朗称打击以色列“间谍总部”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -66992,6 +67019,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241011021500 +0800" stop="20241011031400 +0800">
 		<title lang="zh">8岁萌娃高鹿鸣热爱科学实验，自制气球糖葫芦科普科学小知识（20241004）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241011031400 +0800" stop="20241011032400 +0800">
+		<title lang="zh">彩虹节拍-璞玉（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
