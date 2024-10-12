@@ -53044,6 +53044,9 @@
 	<programme channel="纯享4K" start="20241013022300 +0800" stop="20241013025300 +0800">
 		<title lang="zh">味道4K 原味乡间b7英德篇（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20241013025300 +0800" stop="20241013034300 +0800">
+		<title lang="zh">航拍中国 第三季4K 一同飞越 天津</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -63832,6 +63835,9 @@
 	<programme channel="newtv超级电影" start="20241013012900 +0800" stop="20241013025800 +0800">
 		<title lang="zh">我心雀跃</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241013025800 +0800" stop="20241013041600 +0800">
+		<title lang="zh">食人虫</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -63843,6 +63849,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241013020400 +0800" stop="20241013024900 +0800">
 		<title lang="zh">14_高兴的酸甜苦辣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241013024900 +0800" stop="20241013033400 +0800">
+		<title lang="zh">15_高兴的酸甜苦辣</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -63871,6 +63880,9 @@
 	<programme channel="newtv精品纪录" start="20241013020600 +0800" stop="20241013025200 +0800">
 		<title lang="zh">08_数九盼春</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241013025200 +0800" stop="20241013035000 +0800">
+		<title lang="zh">06_我们，向何处去</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -63895,6 +63907,9 @@
 	<programme channel="newtv军旅剧场" start="20241013015900 +0800" stop="20241013025400 +0800">
 		<title lang="zh">12_山村大爷</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241013025400 +0800" stop="20241013034900 +0800">
+		<title lang="zh">13_山村大爷</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -63906,6 +63921,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241013020500 +0800" stop="20241013025000 +0800">
 		<title lang="zh">03_好歹一家人</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241013025000 +0800" stop="20241013034500 +0800">
+		<title lang="zh">04_好歹一家人</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -63955,6 +63973,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241013015900 +0800" stop="20241013025400 +0800">
 		<title lang="zh">07_山河锦绣</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241013025400 +0800" stop="20241013034900 +0800">
+		<title lang="zh">08_山河锦绣</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -63993,6 +64014,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241013024200 +0800" stop="20241013025700 +0800">
 		<title lang="zh">护花使者-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241013025700 +0800" stop="20241013031200 +0800">
+		<title lang="zh">韭菜花儿开-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
