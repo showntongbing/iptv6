@@ -78922,6 +78922,9 @@
 	<programme channel="黑莓电影" start="20241013093600 +0800" stop="20241013111500 +0800">
 		<title lang="zh">拳霸3</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241013111500 +0800" stop="20241013124300 +0800">
+		<title lang="zh">李时，你是真顽皮</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -79594,6 +79597,9 @@
 	<programme channel="newtv精品纪录" start="20241013100700 +0800" stop="20241013110500 +0800">
 		<title lang="zh">05_香港</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241013110500 +0800" stop="20241013115500 +0800">
+		<title lang="zh">06_西藏</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79677,6 +79683,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241013102200 +0800" stop="20241013110700 +0800">
 		<title lang="zh">20_冲出月亮岛</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241013110700 +0800" stop="20241013115500 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80023,6 +80032,9 @@
 	<programme channel="newtv炫舞未来" start="20241013101900 +0800" stop="20241013110700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241013110700 +0800" stop="20241013120200 +0800">
+		<title lang="zh">房子只租不买，女嘉宾直言“我没生活保障！”</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80058,6 +80070,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241013102700 +0800" stop="20241013111200 +0800">
 		<title lang="zh">35_星汉灿烂b7月升沧海</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241013111200 +0800" stop="20241013120000 +0800">
+		<title lang="zh">36_星汉灿烂b7月升沧海</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
