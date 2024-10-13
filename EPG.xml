@@ -63,6 +63,90 @@
 	<programme channel="4K综艺" start="20241014034300 +0800" stop="20241014045200 +0800">
 		<title lang="zh">小小的追球20200128</title>
 	</programme>
+	<programme channel="4K综艺" start="20241014045200 +0800" stop="20241014062300 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20200122</title>
+	</programme>
+	<channel id="ABCAUSTRALIA">
+		<display-name lang="zh">ABCAUSTRALIA</display-name>
+	</channel>
+	<programme channel="ABCAUSTRALIA" start="20241014000000 +0800" stop="20241014010000 +0800">
+		<title lang="zh">Insiders:2024 第36集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014010000 +0800" stop="20241014020000 +0800">
+		<title lang="zh">Landline:2024 第35集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014020000 +0800" stop="20241014050000 +0800">
+		<title lang="zh">News Breakfast:2024 第206集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014050000 +0800" stop="20241014080000 +0800">
+		<title lang="zh">ABC News Mornings:2024 第206集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014080000 +0800" stop="20241014090000 +0800">
+		<title lang="zh">ABC News At Noon:2024 第206集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014090000 +0800" stop="20241014093000 +0800">
+		<title lang="zh">The Cook Up With Adam Liaw 第5季第36集 -Homestyle Hacks</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014093000 +0800" stop="20241014100000 +0800">
+		<title lang="zh">Foreign Correspondent:2024 第21集 -Eat, Pray, Build - Bali</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014100000 +0800" stop="20241014110000 +0800">
+		<title lang="zh">Grand Designs Transformations 第1季第2集 -Avalon And Balwyn</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014110000 +0800" stop="20241014120000 +0800">
+		<title lang="zh">Landline:2024 第35集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014120000 +0800" stop="20241014130000 +0800">
+		<title lang="zh">Afternoon Briefing:2024 第186集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014130000 +0800" stop="20241014140000 +0800">
+		<title lang="zh">ABC News With Joe Obrien:2024 第206集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014140000 +0800" stop="20241014143000 +0800">
+		<title lang="zh">The Cook Up With Adam Liaw 第5季第36集 -Homestyle Hacks</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014143000 +0800" stop="20241014150000 +0800">
+		<title lang="zh">Kitchen Cabinet 第7季第8集 -Anika Wells</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014150000 +0800" stop="20241014153000 +0800">
+		<title lang="zh">ABC National News:2024 第288集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014153000 +0800" stop="20241014160000 +0800">
+		<title lang="zh">7.30:2024 第161集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014160000 +0800" stop="20241014164500 +0800">
+		<title lang="zh">ABC News Tonight:2024 第206集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014164500 +0800" stop="20241014170000 +0800">
+		<title lang="zh">The Business:2024 第149集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014170000 +0800" stop="20241014175500 +0800">
+		<title lang="zh">The World:2024 第165集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014175500 +0800" stop="20241014183000 +0800">
+		<title lang="zh">Foreign Correspondent:2024 第21集 -Eat, Pray, Build - Bali</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014183000 +0800" stop="20241014193000 +0800">
+		<title lang="zh">Grand Designs Transformations 第1季第2集 -Avalon And Balwyn</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014193000 +0800" stop="20241014203000 +0800">
+		<title lang="zh">The Secret Lives Of Our Urban Birds 第1季第4集 -Perth</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014203000 +0800" stop="20241014210000 +0800">
+		<title lang="zh">7.30:2024 第161集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014210000 +0800" stop="20241014211500 +0800">
+		<title lang="zh">ABC Late News:2024 第206集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014211500 +0800" stop="20241014213000 +0800">
+		<title lang="zh">The Business:2024 第149集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014213000 +0800" stop="20241014222500 +0800">
+		<title lang="zh">The World:2024 第165集</title>
+	</programme>
+	<programme channel="ABCAUSTRALIA" start="20241014222500 +0800" stop="20241014230000 +0800">
+		<title lang="zh">Foreign Correspondent:2024 第21集 -Eat, Pray, Build - Bali</title>
+	</programme>
 	<channel id="ALJAZEERA">
 		<display-name lang="zh">ALJAZEERA</display-name>
 	</channel>
@@ -29856,6 +29940,9 @@
 	<programme channel="咪咕综合体育" start="20241014044800 +0800" stop="20241014045300 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241014045300 +0800" stop="20241014063300 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第5轮 拜仁慕尼黑-勒沃库森</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52077,6 +52164,78 @@
 	<programme channel="生活时尚" start="20241014235700 +0800" stop="20241014000000 +0800">
 		<title lang="zh">自然之旅欣赏</title>
 	</programme>
+	<channel id="电竞天堂">
+		<display-name lang="zh">电竞天堂</display-name>
+	</channel>
+	<programme channel="电竞天堂" start="20241014003100 +0800" stop="20241014010500 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014010500 +0800" stop="20241014015500 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014015500 +0800" stop="20241014023500 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014023500 +0800" stop="20241014031900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014031900 +0800" stop="20241014035400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014035400 +0800" stop="20241014044400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014044400 +0800" stop="20241014052400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014052400 +0800" stop="20241014060800 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014060800 +0800" stop="20241014064300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014064300 +0800" stop="20241014073300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014073300 +0800" stop="20241014081300 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014081300 +0800" stop="20241014085700 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014085700 +0800" stop="20241014093200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014093200 +0800" stop="20241014102200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014102200 +0800" stop="20241014110200 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014110200 +0800" stop="20241014114600 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014114600 +0800" stop="20241014122100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014122100 +0800" stop="20241014131000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014131000 +0800" stop="20241014135100 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－4重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014135100 +0800" stop="20241014143500 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛6－1四川�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014143500 +0800" stop="20241014151000 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014151000 +0800" stop="20241014155900 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－3重庆�...</title>
+	</programme>
+	<programme channel="电竞天堂" start="20241014155900 +0800" stop="20241014163400 +0800">
+		<title lang="zh">JJ斗地主S3春季赛八强赛4－2重庆�...</title>
+	</programme>
 	<channel id="电视指南">
 		<display-name lang="zh">电视指南</display-name>
 	</channel>
@@ -64359,6 +64518,9 @@
 	<programme channel="newtv超级电视剧" start="20241014040600 +0800" stop="20241014045200 +0800">
 		<title lang="zh">13_独孤天下</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241014045200 +0800" stop="20241014053700 +0800">
+		<title lang="zh">14_独孤天下</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -64376,6 +64538,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241014035200 +0800" stop="20241014044700 +0800">
 		<title lang="zh">03_百战天狼</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241014044700 +0800" stop="20241014054500 +0800">
+		<title lang="zh">20_我们的婚姻</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -64416,6 +64581,9 @@
 	<programme channel="newtv古装剧场" start="20241014035700 +0800" stop="20241014045200 +0800">
 		<title lang="zh">40_扶摇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241014045200 +0800" stop="20241014054700 +0800">
+		<title lang="zh">41_斛珠夫人</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -64433,6 +64601,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241014040300 +0800" stop="20241014045800 +0800">
 		<title lang="zh">19_山村大爷</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241014045800 +0800" stop="20241014054100 +0800">
+		<title lang="zh">03_黑狐之风影（修复版）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -64469,6 +64640,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241014035900 +0800" stop="20241014045500 +0800">
 		<title lang="zh">27_爱的幸福闪耀（普通话版）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241014045500 +0800" stop="20241014054200 +0800">
+		<title lang="zh">28_爱的幸福闪耀（普通话版）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -64572,6 +64746,9 @@
 	<programme channel="newtv军事评论" start="20241014035300 +0800" stop="20241014044700 +0800">
 		<title lang="zh">杨巍：导弹老兵的汉服人生</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241014044700 +0800" stop="20241014054100 +0800">
+		<title lang="zh">海州湾里守岛人</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -64604,6 +64781,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241014044400 +0800" stop="20241014050000 +0800">
 		<title lang="zh">说出愿望吧-応子（完整）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241014050000 +0800" stop="20241014053000 +0800">
+		<title lang="zh">绽放吧！妈妈（20240801）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
