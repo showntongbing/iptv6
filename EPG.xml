@@ -67446,6 +67446,9 @@
 	<programme channel="纯享4K" start="20241014222700 +0800" stop="20241014225700 +0800">
 		<title lang="zh">村庄故事4K 寻根右龙</title>
 	</programme>
+	<programme channel="纯享4K" start="20241014225700 +0800" stop="20241014232700 +0800">
+		<title lang="zh">村庄故事4K 山庄玉露香</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -78591,6 +78594,9 @@
 	<programme channel="黑莓动画" start="20241014223600 +0800" stop="20241014225900 +0800">
 		<title lang="zh">20_咒术回战 第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241014225900 +0800" stop="20241014232300 +0800">
+		<title lang="zh">21_咒术回战第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79112,6 +79118,9 @@
 	</programme>
 	<programme channel="newtv超级综艺" start="20241014214100 +0800" stop="20241014230400 +0800">
 		<title lang="zh">会唱歌的院子</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20241014230400 +0800" stop="20241014234900 +0800">
+		<title lang="zh">37_追爱家族</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
@@ -79776,6 +79785,9 @@
 	<programme channel="newtv家庭剧场" start="20241014222000 +0800" stop="20241014230300 +0800">
 		<title lang="zh">34_遍地书香</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241014230300 +0800" stop="20241014235600 +0800">
+		<title lang="zh">35_遍地书香</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80106,6 +80118,9 @@
 	<programme channel="newtv怡伴健康" start="20241014223100 +0800" stop="20241014230100 +0800">
 		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241014230100 +0800" stop="20241014234000 +0800">
+		<title lang="zh">在遗忘世界前让我见见你（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80337,6 +80352,9 @@
 	<programme channel="newtv军事评论" start="20241014223400 +0800" stop="20241014225600 +0800">
 		<title lang="zh">美“鱼鹰”复飞之路再遇坎坷</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241014225600 +0800" stop="20241014231800 +0800">
+		<title lang="zh">北约援乌武器瞄向俄本土</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80450,6 +80468,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241014223500 +0800" stop="20241014225500 +0800">
 		<title lang="zh">风中的额吉-応子（完整）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241014230000 +0800" stop="20241014231800 +0800">
+		<title lang="zh">野花香-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -80801,6 +80822,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241014220700 +0800" stop="20241014225100 +0800">
 		<title lang="zh">25_千古玦尘</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241014225100 +0800" stop="20241014232100 +0800">
+		<title lang="zh">八段锦推荐第四期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
