@@ -56979,6 +56979,9 @@
 	<programme channel="纯享4K" start="20241017025800 +0800" stop="20241017034800 +0800">
 		<title lang="zh">航拍中国 第三季4K 一同飞越 宁夏</title>
 	</programme>
+	<programme channel="纯享4K" start="20241017034800 +0800" stop="20241017043000 +0800">
+		<title lang="zh">远方的家4K 长江行 金沙江：探秘香格里拉</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67887,6 +67890,9 @@
 	<programme channel="黑莓动画" start="20241017032200 +0800" stop="20241017035900 +0800">
 		<title lang="zh">全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241017035900 +0800" stop="20241017044400 +0800">
+		<title lang="zh">马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -68328,6 +68334,9 @@
 	<programme channel="newtv超级体育" start="20241017035000 +0800" stop="20241017040000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2024年巴黎残奥会 残奥典藏</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241017040000 +0800" stop="20241017053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第5轮 布赖顿-诺丁汉森林</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -68357,6 +68366,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241017030800 +0800" stop="20241017035400 +0800">
 		<title lang="zh">36_高兴的酸甜苦辣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241017035400 +0800" stop="20241017043900 +0800">
+		<title lang="zh">26_独孤天下</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -68424,6 +68436,9 @@
 	<programme channel="newtv军旅剧场" start="20241017030000 +0800" stop="20241017035500 +0800">
 		<title lang="zh">32_山村大爷</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241017035500 +0800" stop="20241017045000 +0800">
+		<title lang="zh">01_刀锋乱世情</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -68435,6 +68450,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241017021600 +0800" stop="20241017030100 +0800">
 		<title lang="zh">23_好歹一家人</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241017035600 +0800" stop="20241017044100 +0800">
+		<title lang="zh">24_好歹一家人</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -68486,6 +68504,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241017032200 +0800" stop="20241017034900 +0800">
 		<title lang="zh">自然的声音（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241017034900 +0800" stop="20241017042500 +0800">
+		<title lang="zh">自然颂歌——田野 荒地与海岸（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -68549,6 +68570,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241017033600 +0800" stop="20241017035100 +0800">
 		<title lang="zh">山歌好比春江水-毕刚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241017035100 +0800" stop="20241017040900 +0800">
+		<title lang="zh">春三月-李莹</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
