@@ -63,6 +63,9 @@
 	<programme channel="4K综艺" start="20241021025200 +0800" stop="20241021035200 +0800">
 		<title lang="zh">小小的追球20200205</title>
 	</programme>
+	<programme channel="4K综艺" start="20241021035200 +0800" stop="20241021045900 +0800">
+		<title lang="zh">小小的追球20200211</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -69714,6 +69717,9 @@
 	<programme channel="newtv超级体育" start="20241021022000 +0800" stop="20241021035000 +0800">
 		<title lang="zh">实况录像-2024年世乒联大满贯赛 北京站 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241021040000 +0800" stop="20241021053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第6轮 阿森纳-莱斯特城</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -69762,6 +69768,9 @@
 	<programme channel="newtv精品大剧" start="20241021025800 +0800" stop="20241021035300 +0800">
 		<title lang="zh">35_百战天狼</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241021035300 +0800" stop="20241021044400 +0800">
+		<title lang="zh">15_花开山乡（4K）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -69779,6 +69788,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241021022700 +0800" stop="20241021035000 +0800">
 		<title lang="zh">进击的人工智能</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241021035000 +0800" stop="20241021042800 +0800">
+		<title lang="zh">第5集：从世界到中国</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -69809,6 +69821,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241021025100 +0800" stop="20241021034600 +0800">
 		<title lang="zh">20_刀锋乱世情</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241021034600 +0800" stop="20241021044100 +0800">
+		<title lang="zh">21_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -69842,6 +69857,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241021030500 +0800" stop="20241021035100 +0800">
 		<title lang="zh">21_小日子</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241021035100 +0800" stop="20241021044600 +0800">
+		<title lang="zh">22_小日子</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -69945,6 +69963,9 @@
 	<programme channel="newtv军事评论" start="20241021032400 +0800" stop="20241021034900 +0800">
 		<title lang="zh">制造“偶遇” 美台被曝秘密举行军演 以军持续扩大拉法战事</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241021034900 +0800" stop="20241021041400 +0800">
+		<title lang="zh">布林肯突访基辅 俄军开辟新战线 美欲用机密情报阻止以军进攻拉法</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -69983,6 +70004,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20241021023700 +0800" stop="20241021035600 +0800">
 		<title lang="zh">搜神记：南海美人鲛</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241021035600 +0800" stop="20241021051400 +0800">
+		<title lang="zh">幽灵毒枭</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
