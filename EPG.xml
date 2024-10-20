@@ -60,6 +60,9 @@
 	<programme channel="4K综艺" start="20241021014300 +0800" stop="20241021025200 +0800">
 		<title lang="zh">小小的追球20200204</title>
 	</programme>
+	<programme channel="4K综艺" start="20241021025200 +0800" stop="20241021035200 +0800">
+		<title lang="zh">小小的追球20200205</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -69690,6 +69693,9 @@
 	<programme channel="newtv超级综艺" start="20241021021900 +0800" stop="20241021030900 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241021030900 +0800" stop="20241021034100 +0800">
+		<title lang="zh">国之颂</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -69708,6 +69714,9 @@
 	<programme channel="newtv超级电影" start="20241021015100 +0800" stop="20241021031200 +0800">
 		<title lang="zh">美人邦</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241021031200 +0800" stop="20241021065900 +0800">
+		<title lang="zh">模特魅影</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -69723,6 +69732,9 @@
 	<programme channel="newtv超级电视剧" start="20241021021400 +0800" stop="20241021025600 +0800">
 		<title lang="zh">15_妈妈在等你</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241021025600 +0800" stop="20241021033700 +0800">
+		<title lang="zh">16_妈妈在等你</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -69734,6 +69746,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241021020400 +0800" stop="20241021025800 +0800">
 		<title lang="zh">34_百战天狼</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241021025800 +0800" stop="20241021035300 +0800">
+		<title lang="zh">35_百战天狼</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -69777,6 +69792,9 @@
 	<programme channel="newtv军旅剧场" start="20241021015700 +0800" stop="20241021025100 +0800">
 		<title lang="zh">19_刀锋乱世情</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241021025100 +0800" stop="20241021034600 +0800">
+		<title lang="zh">20_刀锋乱世情</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -69807,6 +69825,9 @@
 	<programme channel="newtv家庭剧场" start="20241021024200 +0800" stop="20241021030500 +0800">
 		<title lang="zh">20_主妇的战争</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241021030500 +0800" stop="20241021035100 +0800">
+		<title lang="zh">21_小日子</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -69815,6 +69836,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20241021012500 +0800" stop="20241021024800 +0800">
 		<title lang="zh">逃跑计划</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20241021024800 +0800" stop="20241021033300 +0800">
+		<title lang="zh">29_逐浪之爱（普通话版）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -69848,6 +69872,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241021022100 +0800" stop="20241021031500 +0800">
 		<title lang="zh">08_长歌行</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241021031500 +0800" stop="20241021034200 +0800">
+		<title lang="zh">高山深处的好邻居（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -69884,6 +69911,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241021023300 +0800" stop="20241021025800 +0800">
 		<title lang="zh">3D打印 纳米技术 航天科技 军事技术“进化论”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241021025800 +0800" stop="20241021032400 +0800">
+		<title lang="zh">朝鲜展示新型火箭炮系统 哈马斯或在加沙地带重新集结</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -69929,6 +69959,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20241021000600 +0800" stop="20241021025000 +0800">
 		<title lang="zh">十三邀第7季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241021025000 +0800" stop="20241021044800 +0800">
+		<title lang="zh">正大综艺（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
