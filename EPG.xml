@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20241025032000 +0800" stop="20241025045300 +0800">
 		<title lang="zh">真心大冒险20180616</title>
 	</programme>
+	<programme channel="4K综艺" start="20241025045300 +0800" stop="20241025064200 +0800">
+		<title lang="zh">真心大冒险20180623</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -60393,6 +60396,9 @@
 	<programme channel="纯享4K" start="20241025044300 +0800" stop="20241025044800 +0800">
 		<title lang="zh">美丽中国自然4K 江西鄱阳湖系列 拾穗者</title>
 	</programme>
+	<programme channel="纯享4K" start="20241025045300 +0800" stop="20241025053300 +0800">
+		<title lang="zh">探索b7发现4K 江口明末战场考古大揭秘（1）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72036,6 +72042,9 @@
 	<programme channel="黑莓动画" start="20241025041300 +0800" stop="20241025045800 +0800">
 		<title lang="zh">马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241025045800 +0800" stop="20241025054700 +0800">
+		<title lang="zh">葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72044,6 +72053,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241025024500 +0800" stop="20241025045500 +0800">
 		<title lang="zh">入殓师</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241025045500 +0800" stop="20241025065200 +0800">
+		<title lang="zh">一级谋杀</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -72609,6 +72621,9 @@
 	<programme channel="newtv精品大剧" start="20241025040300 +0800" stop="20241025045500 +0800">
 		<title lang="zh">32_花开山乡（4K）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241025045500 +0800" stop="20241025054600 +0800">
+		<title lang="zh">33_花开山乡（4K）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -72635,6 +72650,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241025042500 +0800" stop="20241025045600 +0800">
 		<title lang="zh">01_战端再起</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241025045600 +0800" stop="20241025052600 +0800">
+		<title lang="zh">02_郾城大捷</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -72695,6 +72713,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241025040200 +0800" stop="20241025045700 +0800">
 		<title lang="zh">15_好事成双</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241025045700 +0800" stop="20241025054300 +0800">
+		<title lang="zh">16_好事成双</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -72816,6 +72837,9 @@
 	<programme channel="newtv军事评论" start="20241025043200 +0800" stop="20241025045400 +0800">
 		<title lang="zh">谁是军营厨王（23）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241025045400 +0800" stop="20241025051600 +0800">
+		<title lang="zh">谁是军营厨王（24）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -72842,6 +72866,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241025034400 +0800" stop="20241025050100 +0800">
 		<title lang="zh">向光而行 光影画星光首秀 凝聚童心大爆发（20241012）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241025050100 +0800" stop="20241025053900 +0800">
+		<title lang="zh">被误解的疼痛（20240912）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
