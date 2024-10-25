@@ -27741,6 +27741,9 @@
 	<programme channel="咪咕足球" start="20241026024100 +0800" stop="20241026042100 +0800">
 		<title lang="zh">2024NBL季后赛半决赛G1 香港金牛-长沙湾田永胜</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241026043000 +0800" stop="20241026053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -67236,6 +67239,9 @@
 	<programme channel="newtv超级电视剧" start="20241026035000 +0800" stop="20241026043500 +0800">
 		<title lang="zh">14_虎胆巍城</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241026043500 +0800" stop="20241026052100 +0800">
+		<title lang="zh">15_虎胆巍城</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -67253,6 +67259,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241026034900 +0800" stop="20241026044300 +0800">
 		<title lang="zh">02_乌鸦小姐与蜥蜴先生</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241026044300 +0800" stop="20241026053800 +0800">
+		<title lang="zh">03_乌鸦小姐与蜥蜴先生</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -67274,6 +67283,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241026034600 +0800" stop="20241026042700 +0800">
 		<title lang="zh">02_人机结合</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241026042700 +0800" stop="20241026045800 +0800">
+		<title lang="zh">03_血战颍昌</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -67359,6 +67371,9 @@
 	<programme channel="newtv爱情喜剧" start="20241026032200 +0800" stop="20241026041700 +0800">
 		<title lang="zh">15_向往的生活</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241026041700 +0800" stop="20241026051200 +0800">
+		<title lang="zh">16_向往的生活</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -67367,6 +67382,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241026030700 +0800" stop="20241026041800 +0800">
 		<title lang="zh">蛇形行动</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241026041800 +0800" stop="20241026060400 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -67388,6 +67406,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241026034100 +0800" stop="20241026041700 +0800">
 		<title lang="zh">保护栖息地——驼鹿的家园</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241026041700 +0800" stop="20241026061300 +0800">
+		<title lang="zh">璀璨梨园 戏曲演唱会 京剧专场（二）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -67439,6 +67460,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241026041000 +0800" stop="20241026043600 +0800">
 		<title lang="zh">美军无人机现身台岛附近 日本首次公开高超音速武器试验</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241026043600 +0800" stop="20241026050200 +0800">
+		<title lang="zh">排爆专家</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
