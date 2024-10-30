@@ -15,6 +15,9 @@
 	<programme channel="4K综艺" start="20241031020900 +0800" stop="20241031030100 +0800">
 		<title lang="zh">小小的追球20191218</title>
 	</programme>
+	<programme channel="4K综艺" start="20241031030100 +0800" stop="20241031041600 +0800">
+		<title lang="zh">小小的追球20191224</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -59532,6 +59535,9 @@
 	<programme channel="纯享4K" start="20241031015300 +0800" stop="20241031025300 +0800">
 		<title lang="zh">乐享汇4K “时光旅程”（四）演唱会</title>
 	</programme>
+	<programme channel="纯享4K" start="20241031025900 +0800" stop="20241031032900 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（3）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -71502,6 +71508,9 @@
 	<programme channel="newtv军旅剧场" start="20241031020100 +0800" stop="20241031024700 +0800">
 		<title lang="zh">地道英雄 第1集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241031024700 +0800" stop="20241031033400 +0800">
+		<title lang="zh">地道英雄 第2集</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -71513,6 +71522,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241031020500 +0800" stop="20241031024800 +0800">
 		<title lang="zh">09_妻子的新世界</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241031024800 +0800" stop="20241031033000 +0800">
+		<title lang="zh">10_妻子的新世界</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -71568,6 +71580,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241031015900 +0800" stop="20241031024800 +0800">
 		<title lang="zh">80_因为爱情有多美（DVD版）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241031024800 +0800" stop="20241031033700 +0800">
+		<title lang="zh">01_新居之约</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -71600,6 +71615,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241031014300 +0800" stop="20241031030000 +0800">
 		<title lang="zh">“运动达人”VS“做饭能手” 谁能抱得美人归？（20241029）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241031030000 +0800" stop="20241031031500 +0800">
+		<title lang="zh">孤勇者-李萍</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
