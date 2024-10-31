@@ -42192,6 +42192,9 @@
 	<programme channel="纯享4K" start="20241101024200 +0800" stop="20241101024900 +0800">
 		<title lang="zh">绿水青山行4K 生态扶贫系列：疯婆娘</title>
 	</programme>
+	<programme channel="纯享4K" start="20241101024900 +0800" stop="20241101031900 +0800">
+		<title lang="zh">味道4K 美味天津</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51858,11 +51861,17 @@
 	<programme channel="黑莓动画" start="20241101020800 +0800" stop="20241101025800 +0800">
 		<title lang="zh">名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241101025800 +0800" stop="20241101035400 +0800">
+		<title lang="zh">星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20241101013200 +0800" stop="20241101030000 +0800">
 		<title lang="zh">大陆酒店</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241101030000 +0800" stop="20241101044100 +0800">
+		<title lang="zh">奇门遁甲</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -52233,6 +52242,9 @@
 	<programme channel="newtv超级电视剧" start="20241101021500 +0800" stop="20241101025600 +0800">
 		<title lang="zh">23_无所畏惧</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241101025600 +0800" stop="20241101033800 +0800">
+		<title lang="zh">24_无所畏惧</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52290,6 +52302,9 @@
 	<programme channel="newtv军旅剧场" start="20241101021200 +0800" stop="20241101025900 +0800">
 		<title lang="zh">地道英雄 第6集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241101025900 +0800" stop="20241101034600 +0800">
+		<title lang="zh">地道英雄 第7集</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52319,6 +52334,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20241101005900 +0800" stop="20241101024800 +0800">
 		<title lang="zh">老当益壮</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241101024800 +0800" stop="20241101033400 +0800">
+		<title lang="zh">09_遍地书香</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52418,6 +52436,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20241101001400 +0800" stop="20241101025500 +0800">
 		<title lang="zh">跃上高阶职场</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241101025500 +0800" stop="20241101044600 +0800">
+		<title lang="zh">天天把歌唱（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
