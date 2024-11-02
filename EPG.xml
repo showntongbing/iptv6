@@ -25092,6 +25092,9 @@
 	<programme channel="咪咕足球" start="20241102123500 +0800" stop="20241102141000 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241102141500 +0800" stop="20241102151500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -55908,6 +55911,9 @@
 	<programme channel="纯享4K" start="20241102133400 +0800" stop="20241102141400 +0800">
 		<title lang="zh">荣宝斋4K 第4集 文会知音   </title>
 	</programme>
+	<programme channel="纯享4K" start="20241102141400 +0800" stop="20241102150300 +0800">
+		<title lang="zh">大数据时代4K 第1集 数据时代</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66717,6 +66723,9 @@
 	<programme channel="黑莓动画" start="20241102135600 +0800" stop="20241102140600 +0800">
 		<title lang="zh">植物精灵大战僵尸怪第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241102140600 +0800" stop="20241102143500 +0800">
+		<title lang="zh">张大牙爱搞怪第四季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67293,6 +67302,9 @@
 	<programme channel="newtv超级电视剧" start="20241102134100 +0800" stop="20241102142200 +0800">
 		<title lang="zh">19_妻子的新世界</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241102142200 +0800" stop="20241102150300 +0800">
+		<title lang="zh">20_妻子的新世界</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -67421,6 +67433,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241102132000 +0800" stop="20241102140200 +0800">
 		<title lang="zh">第3集：尤利乌斯b7恺撒</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241102140200 +0800" stop="20241102144700 +0800">
+		<title lang="zh">人仁牌何首乌防脱育发精华液-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -67785,6 +67800,9 @@
 	<programme channel="newtv怡伴健康" start="20241102134800 +0800" stop="20241102140200 +0800">
 		<title lang="zh">小品《天网恢恢》 表演：蔡明 王宁</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241102140200 +0800" stop="20241102142200 +0800">
+		<title lang="zh">小品《好人不打折》 表演：郭冬临 郭达</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -67841,6 +67859,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241102132400 +0800" stop="20241102140800 +0800">
 		<title lang="zh">02_嫣语赋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241102140800 +0800" stop="20241102144700 +0800">
+		<title lang="zh">五粮液出品感恩卷轴白酒-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -67934,6 +67955,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241102133600 +0800" stop="20241102140200 +0800">
 		<title lang="zh">军中状元360 坦克能手雪地争霸赛</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241102140200 +0800" stop="20241102142700 +0800">
+		<title lang="zh">喜迎元宵秀厨艺</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -68258,6 +68282,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241102132600 +0800" stop="20241102141300 +0800">
 		<title lang="zh">20_少林寺传奇藏经阁</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241102141300 +0800" stop="20241102144800 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶健康组-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
