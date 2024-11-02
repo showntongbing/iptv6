@@ -42027,6 +42027,9 @@
 	<programme channel="纯享4K" start="20241103023700 +0800" stop="20241103030700 +0800">
 		<title lang="zh">味道4K 原味乡间b7襄阳篇（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20241103030700 +0800" stop="20241103033700 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇（4）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52146,6 +52149,9 @@
 	<programme channel="newtv超级电视剧" start="20241103023000 +0800" stop="20241103031100 +0800">
 		<title lang="zh">33_无所畏惧</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241103031100 +0800" stop="20241103035300 +0800">
+		<title lang="zh">34_无所畏惧</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52191,6 +52197,9 @@
 	<programme channel="newtv古装剧场" start="20241103022000 +0800" stop="20241103031300 +0800">
 		<title lang="zh">20_且试天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241103031300 +0800" stop="20241103040300 +0800">
+		<title lang="zh">21_且试天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52205,6 +52214,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241103022100 +0800" stop="20241103030800 +0800">
 		<title lang="zh">地道英雄 第17集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241103030800 +0800" stop="20241103035500 +0800">
+		<title lang="zh">地道英雄 第18集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52230,6 +52242,9 @@
 	<programme channel="newtv热播精选" start="20241103020100 +0800" stop="20241103030700 +0800">
 		<title lang="zh">头牌特工</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241103030700 +0800" stop="20241103035100 +0800">
+		<title lang="zh">12_如果蜗牛有爱情（普通话版）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52239,6 +52254,9 @@
 	<programme channel="newtv爱情喜剧" start="20241103020700 +0800" stop="20241103025300 +0800">
 		<title lang="zh">19_遍地书香</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241103025300 +0800" stop="20241103034000 +0800">
+		<title lang="zh">20_遍地书香</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -52247,6 +52265,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241103012900 +0800" stop="20241103030800 +0800">
 		<title lang="zh">鲨鱼帝国</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241103030800 +0800" stop="20241103050300 +0800">
+		<title lang="zh">叱咤风云</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52278,6 +52299,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241103022500 +0800" stop="20241103031300 +0800">
 		<title lang="zh">20_新居之约</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241103031300 +0800" stop="20241103040100 +0800">
+		<title lang="zh">21_新居之约</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52299,6 +52323,12 @@
 	<programme channel="newtv军事评论" start="20241103022400 +0800" stop="20241103024900 +0800">
 		<title lang="zh">黎接连发生通信设备爆炸 黎以冲突风险加剧</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241103024900 +0800" stop="20241103031400 +0800">
+		<title lang="zh">以防长称“战争”进入新阶段 俄实施陆海军全面换装计划</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241103031400 +0800" stop="20241103033900 +0800">
+		<title lang="zh">美军测试新战法 叫嚣“快速击沉”解放军军舰？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52307,6 +52337,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241103015800 +0800" stop="20241103024800 +0800">
 		<title lang="zh">勇者之战（20241020）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241103030100 +0800" stop="20241103031500 +0800">
+		<title lang="zh">触电-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241103031500 +0800" stop="20241103033100 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -52326,11 +52362,17 @@
 	<programme channel="newtv惊悚悬疑" start="20241103013700 +0800" stop="20241103031000 +0800">
 		<title lang="zh">袁天罡之异域妖踪</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20241103031000 +0800" stop="20241103043100 +0800">
+		<title lang="zh">铁血武魂</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
 	<programme channel="newtv金牌综艺" start="20241103002200 +0800" stop="20241103025200 +0800">
 		<title lang="zh">跃上高阶职场</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20241103025200 +0800" stop="20241103044200 +0800">
+		<title lang="zh">天天把歌唱（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
