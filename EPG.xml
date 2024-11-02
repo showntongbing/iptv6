@@ -84,6 +84,9 @@
 	<programme channel="4K综艺" start="20241102152100 +0800" stop="20241102165100 +0800">
 		<title lang="zh">亲爱的客栈第三季20191129</title>
 	</programme>
+	<programme channel="4K综艺" start="20241102165100 +0800" stop="20241102181000 +0800">
+		<title lang="zh">亲爱的客栈第三季20191206</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -55938,6 +55941,9 @@
 	<programme channel="纯享4K" start="20241102162200 +0800" stop="20241102165200 +0800">
 		<title lang="zh">记住乡愁4K第七季 第三十七集 嘉兴——红船自此扬帆起（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20241102165200 +0800" stop="20241102170700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7跳绳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -66765,6 +66771,9 @@
 	<programme channel="黑莓动画" start="20241102163000 +0800" stop="20241102165500 +0800">
 		<title lang="zh">03_小游戏 大学问</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241102165500 +0800" stop="20241102171100 +0800">
+		<title lang="zh">13_小水滴的力量</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -67446,6 +67455,9 @@
 	<programme channel="newtv精品大剧" start="20241102162000 +0800" stop="20241102165800 +0800">
 		<title lang="zh">天天轻油低芥酸菜籽二酯食用油-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241102165800 +0800" stop="20241102174000 +0800">
+		<title lang="zh">14_只是结婚的关系</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -67523,6 +67535,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241102162500 +0800" stop="20241102170000 +0800">
 		<title lang="zh">02_我的抗战：八百孤军</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241102170000 +0800" stop="20241102173900 +0800">
+		<title lang="zh">五粮液出品感恩卷轴白酒-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -67800,6 +67815,9 @@
 	<programme channel="newtv热播精选" start="20241102164100 +0800" stop="20241102165800 +0800">
 		<title lang="zh">18_宇宙护卫队之百变霸王龙第二季</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241102165800 +0800" stop="20241102173300 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶健康组-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -67857,6 +67875,9 @@
 	<programme channel="newtv爱情喜剧" start="20241102161000 +0800" stop="20241102165600 +0800">
 		<title lang="zh">16_千金保姆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20241102165600 +0800" stop="20241102173500 +0800">
+		<title lang="zh">QK纳通片特殊膳食食品-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -67895,6 +67916,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20241102162300 +0800" stop="20241102170100 +0800">
 		<title lang="zh">天天轻油低芥酸菜籽二酯食用油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20241102170100 +0800" stop="20241102184200 +0800">
+		<title lang="zh">血战残阳</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -68534,6 +68558,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241102162100 +0800" stop="20241102170000 +0800">
 		<title lang="zh">Baclayon巴康洋聚合钛凝胶缓压枕-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241102170000 +0800" stop="20241102174500 +0800">
+		<title lang="zh">23_少林寺传奇藏经阁</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
