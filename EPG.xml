@@ -45930,11 +45930,17 @@
 	<programme channel="黑莓动画" start="20241107012200 +0800" stop="20241107014100 +0800">
 		<title lang="zh">我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241107014100 +0800" stop="20241107023100 +0800">
+		<title lang="zh">名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20241107000500 +0800" stop="20241107013600 +0800">
 		<title lang="zh">挑战未来</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241107013600 +0800" stop="20241107031000 +0800">
+		<title lang="zh">生死96小时</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -46287,6 +46293,9 @@
 	<programme channel="newtv超级电影" start="20241107002500 +0800" stop="20241107015500 +0800">
 		<title lang="zh">袁天罡之神都赤焰</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241107015500 +0800" stop="20241107032700 +0800">
+		<title lang="zh">袁天罡之西域圣佛</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -46296,11 +46305,17 @@
 	<programme channel="newtv超级电视剧" start="20241107010300 +0800" stop="20241107014900 +0800">
 		<title lang="zh">11_我姥爷1945之绝命枪</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241107014900 +0800" stop="20241107023400 +0800">
+		<title lang="zh">12_我姥爷1945之绝命枪</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20241107004200 +0800" stop="20241107013200 +0800">
 		<title lang="zh">31_雁归西窗月</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241107013200 +0800" stop="20241107022100 +0800">
+		<title lang="zh">32_雁归西窗月</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -46310,6 +46325,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241107012000 +0800" stop="20241107015800 +0800">
 		<title lang="zh">03_她培育出中国内地第一例试管婴儿 张丽珠</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241107015800 +0800" stop="20241107023600 +0800">
+		<title lang="zh">04_中医针灸专家 韩济生</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46326,6 +46344,9 @@
 	<programme channel="newtv军旅剧场" start="20241107004700 +0800" stop="20241107013100 +0800">
 		<title lang="zh">地道英雄 第34集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241107013100 +0800" stop="20241107021800 +0800">
+		<title lang="zh">地道英雄 第35集</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -46334,6 +46355,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241107010300 +0800" stop="20241107013900 +0800">
 		<title lang="zh">19_完美伴侣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241107013900 +0800" stop="20241107021900 +0800">
+		<title lang="zh">20_完美伴侣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -46353,6 +46377,9 @@
 	<programme channel="newtv动作电影" start="20241107000600 +0800" stop="20241107014300 +0800">
 		<title lang="zh">血战狙击岭</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241107014300 +0800" stop="20241107032400 +0800">
+		<title lang="zh">绝世低手之夺命玉玺</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -46361,6 +46388,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241107010200 +0800" stop="20241107014700 +0800">
 		<title lang="zh">08_我的左手右手</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241107014700 +0800" stop="20241107023200 +0800">
+		<title lang="zh">09_我的左手右手</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -46383,11 +46413,17 @@
 	<programme channel="newtv军事评论" start="20241107011800 +0800" stop="20241107014400 +0800">
 		<title lang="zh">美国报复 升级中东危机 北约备战 俄乌和谈无望？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241107014400 +0800" stop="20241107020900 +0800">
+		<title lang="zh">3D打印 纳米技术 航天科技 军事技术“进化论”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20241107001500 +0800" stop="20241107013200 +0800">
 		<title lang="zh">“不倒翁”演员揭秘表演幕后 “花仙子姐妹”吐槽双胞胎日常（20241009）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241107013200 +0800" stop="20241107023200 +0800">
+		<title lang="zh">选对健康（20241101）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -46460,6 +46496,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20241107002400 +0800" stop="20241107015700 +0800">
 		<title lang="zh">斗战苍穹</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241107015700 +0800" stop="20241107032600 +0800">
+		<title lang="zh">陈真之拳镇山河</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
