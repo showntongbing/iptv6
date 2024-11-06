@@ -38025,6 +38025,9 @@
 	<programme channel="纯享4K" start="20241107041000 +0800" stop="20241107045200 +0800">
 		<title lang="zh">远方的家4K 长江行 金沙江：公主起舞的乐园</title>
 	</programme>
+	<programme channel="纯享4K" start="20241107045800 +0800" stop="20241107050300 +0800">
+		<title lang="zh">美丽中国自然4K 黄河之水系列 湿地家园</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -46449,6 +46452,9 @@
 	<programme channel="黑莓动画" start="20241107040800 +0800" stop="20241107045200 +0800">
 		<title lang="zh">马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241107045200 +0800" stop="20241107054100 +0800">
+		<title lang="zh">葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -46803,6 +46809,9 @@
 	<programme channel="newtv超级综艺" start="20241107034900 +0800" stop="20241107050600 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241107050600 +0800" stop="20241107073000 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -46911,6 +46920,9 @@
 	<programme channel="newtv精品纪录" start="20241107042300 +0800" stop="20241107044800 +0800">
 		<title lang="zh">发明b7传播</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241107044800 +0800" stop="20241107052300 +0800">
+		<title lang="zh">百年复兴路</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47013,6 +47025,9 @@
 	<programme channel="newtv动作电影" start="20241107032400 +0800" stop="20241107050000 +0800">
 		<title lang="zh">异形：汇合</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241107050000 +0800" stop="20241107063600 +0800">
+		<title lang="zh">热武青春</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -47094,6 +47109,9 @@
 	<programme channel="newtv军事评论" start="20241107043600 +0800" stop="20241107045800 +0800">
 		<title lang="zh">寄往边关的思念</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241107045800 +0800" stop="20241107052000 +0800">
+		<title lang="zh">守护同行的温暖</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47123,6 +47141,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241107044400 +0800" stop="20241107045700 +0800">
 		<title lang="zh">不忘初心-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241107045700 +0800" stop="20241107051400 +0800">
+		<title lang="zh">万疆-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -47225,6 +47246,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241107032600 +0800" stop="20241107045800 +0800">
 		<title lang="zh">蜀山之万剑封魔</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241107045800 +0800" stop="20241107063300 +0800">
+		<title lang="zh">男子太极拳</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
