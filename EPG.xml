@@ -50088,6 +50088,9 @@
 	<programme channel="newtv超级体育" start="20241108023500 +0800" stop="20241108040000 +0800">
 		<title lang="zh">实况录像-2024年中国羽毛球公开赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241108040000 +0800" stop="20241108053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第8轮 巴黎圣日耳曼-斯特拉斯堡</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50117,6 +50120,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241108031900 +0800" stop="20241108040400 +0800">
 		<title lang="zh">19_我姥爷1945之绝命枪</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241108040400 +0800" stop="20241108045000 +0800">
+		<title lang="zh">02_武当一剑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50193,6 +50199,9 @@
 	<programme channel="newtv军旅剧场" start="20241108030000 +0800" stop="20241108034800 +0800">
 		<title lang="zh">05_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241108034800 +0800" stop="20241108043600 +0800">
+		<title lang="zh">06_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50210,6 +50219,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241108030900 +0800" stop="20241108034600 +0800">
 		<title lang="zh">27_完美伴侣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241108034600 +0800" stop="20241108043700 +0800">
+		<title lang="zh">07_妈妈无罪</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -50280,6 +50292,9 @@
 	<programme channel="newtv潮妈辣婆" start="20241108030500 +0800" stop="20241108035300 +0800">
 		<title lang="zh">08_女人的抗战</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241108035300 +0800" stop="20241108044100 +0800">
+		<title lang="zh">09_女人的抗战</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50328,6 +50343,9 @@
 	<programme channel="newtv炫舞未来" start="20241108033600 +0800" stop="20241108035000 +0800">
 		<title lang="zh">undress-毕刚</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20241108035000 +0800" stop="20241108040500 +0800">
+		<title lang="zh">点赞新时代-饶子龙（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50369,6 +50387,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20241108022000 +0800" stop="20241108035800 +0800">
 		<title lang="zh">2024-25赛季西甲联赛第6轮：毕尔巴鄂竞技VS塞尔塔</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241108035800 +0800" stop="20241108052700 +0800">
+		<title lang="zh">2024-25赛季英超联赛第5轮：布赖顿VS诺丁汉森林</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
