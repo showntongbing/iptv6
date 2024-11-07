@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20241108020200 +0800" stop="20241108024900 +0800">
 		<title lang="zh">小小的追球20200101</title>
 	</programme>
+	<programme channel="4K综艺" start="20241108024900 +0800" stop="20241108040900 +0800">
+		<title lang="zh">小小的追球20200107</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -40119,6 +40122,9 @@
 	<programme channel="纯享4K" start="20241108023000 +0800" stop="20241108030000 +0800">
 		<title lang="zh">寻古中国4K 稻谷记b7一望万年</title>
 	</programme>
+	<programme channel="纯享4K" start="20241108030000 +0800" stop="20241108033000 +0800">
+		<title lang="zh">寻古中国4K 稻谷记b7晨曦寻稻</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49728,6 +49734,9 @@
 	<programme channel="黑莓电影" start="20241108012300 +0800" stop="20241108025400 +0800">
 		<title lang="zh">河神b7诡水怪谈</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241108025400 +0800" stop="20241108043500 +0800">
+		<title lang="zh">新干线大爆破</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -50079,6 +50088,9 @@
 	<programme channel="newtv超级电影" start="20241108013400 +0800" stop="20241108025800 +0800">
 		<title lang="zh">四平青年之三傻罪途</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241108025800 +0800" stop="20241108045200 +0800">
+		<title lang="zh">茜茜公主</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50106,6 +50118,9 @@
 	<programme channel="newtv精品大剧" start="20241108021000 +0800" stop="20241108025300 +0800">
 		<title lang="zh">06_民国恩仇录</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20241108025300 +0800" stop="20241108033600 +0800">
+		<title lang="zh">07_民国恩仇录</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -50120,6 +50135,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241108023800 +0800" stop="20241108025300 +0800">
 		<title lang="zh">第一集 云端足球</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241108025300 +0800" stop="20241108030700 +0800">
+		<title lang="zh">第二集 自然之光</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50144,6 +50162,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241108021200 +0800" stop="20241108030000 +0800">
 		<title lang="zh">04_军人荣誉之铁血雄心</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241108030000 +0800" stop="20241108034800 +0800">
+		<title lang="zh">05_军人荣誉之铁血雄心</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50232,6 +50253,9 @@
 	<programme channel="newtv军事评论" start="20241108022800 +0800" stop="20241108025300 +0800">
 		<title lang="zh">北约扩建黑海基地 美国打造“三北联动” 俄方称现已进入战争状态</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241108025300 +0800" stop="20241108031800 +0800">
+		<title lang="zh">台100吨级海巡艇抵太平岛 美日安保同盟迎最大规模升级</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50240,6 +50264,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241108015100 +0800" stop="20241108025100 +0800">
 		<title lang="zh">原山和百克力现场进行篮球对决 NBA主持人来解说（20241025）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241108025900 +0800" stop="20241108032100 +0800">
+		<title lang="zh">心在跳情在烧-毕刚（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -50324,6 +50351,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241108014600 +0800" stop="20241108025300 +0800">
 		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241108025300 +0800" stop="20241108041900 +0800">
+		<title lang="zh">热血杨家将</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
