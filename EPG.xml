@@ -47268,11 +47268,17 @@
 	<programme channel="newtv超级综艺" start="20241112021700 +0800" stop="20241112030700 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241112030700 +0800" stop="20241112032200 +0800">
+		<title lang="zh">异曲同“功”</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20241112000000 +0800" stop="20241112030500 +0800">
 		<title lang="zh">顶级赛事-高尔夫</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241112030500 +0800" stop="20241112040000 +0800">
+		<title lang="zh">实况录像-2024年皮划艇激流回旋世界杯 西班牙站 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47282,6 +47288,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241112012700 +0800" stop="20241112030400 +0800">
 		<title lang="zh">四个丘比特</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241112030400 +0800" stop="20241112044100 +0800">
+		<title lang="zh">看车人的七月</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -47340,6 +47349,9 @@
 	<programme channel="newtv古装剧场" start="20241112020100 +0800" stop="20241112025600 +0800">
 		<title lang="zh">19_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20241112025600 +0800" stop="20241112035100 +0800">
+		<title lang="zh">20_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47369,6 +47381,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241112021600 +0800" stop="20241112025500 +0800">
 		<title lang="zh">46_完美伴侣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241112025500 +0800" stop="20241112034000 +0800">
+		<title lang="zh">01_大嫁风尚</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47436,6 +47451,9 @@
 	<programme channel="newtv军事评论" start="20241112022900 +0800" stop="20241112025100 +0800">
 		<title lang="zh">美军“恶补”野战防空</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241112025100 +0800" stop="20241112031200 +0800">
+		<title lang="zh">F-16入场会否影响俄乌战局</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47450,6 +47468,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241112024200 +0800" stop="20241112025000 +0800">
 		<title lang="zh">迷迭香-金洋（完整）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241112025000 +0800" stop="20241112031200 +0800">
+		<title lang="zh">心在跳情在烧-毕刚（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -47531,6 +47552,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241112013200 +0800" stop="20241112025000 +0800">
 		<title lang="zh">六扇门之嫣州八艳</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241112025000 +0800" stop="20241112042200 +0800">
+		<title lang="zh">广东十虎苏灿之卧龙在田</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
