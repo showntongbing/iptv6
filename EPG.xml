@@ -14208,6 +14208,9 @@
 	<programme channel="咪咕足球" start="20241115042100 +0800" stop="20241115043000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241115043000 +0800" stop="20241115053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
@@ -40551,6 +40554,9 @@
 	<programme channel="黑莓电影" start="20241115031600 +0800" stop="20241115043900 +0800">
 		<title lang="zh">大唐狄公案之狐影迷案</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241115043900 +0800" stop="20241115060100 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -40944,6 +40950,9 @@
 	<programme channel="newtv超级电视剧" start="20241115035700 +0800" stop="20241115044300 +0800">
 		<title lang="zh">31_武当一剑</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241115044300 +0800" stop="20241115052800 +0800">
+		<title lang="zh">32_武当一剑</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40992,6 +41001,9 @@
 	<programme channel="newtv精品纪录" start="20241115034400 +0800" stop="20241115044100 +0800">
 		<title lang="zh">第一集 创新引领</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241115044100 +0800" stop="20241115053600 +0800">
+		<title lang="zh">走进纳米世界</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -41025,6 +41037,9 @@
 	<programme channel="newtv军旅剧场" start="20241115032600 +0800" stop="20241115042100 +0800">
 		<title lang="zh">12_铁道游击队 战后篇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20241115042100 +0800" stop="20241115051500 +0800">
+		<title lang="zh">21_秘密列车</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -41043,6 +41058,9 @@
 	<programme channel="newtv家庭剧场" start="20241115033500 +0800" stop="20241115042000 +0800">
 		<title lang="zh">16_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241115042000 +0800" stop="20241115051600 +0800">
+		<title lang="zh">05_求婚大作战</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -41058,6 +41076,9 @@
 	<programme channel="newtv热播精选" start="20241115034500 +0800" stop="20241115043400 +0800">
 		<title lang="zh">02_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241115043400 +0800" stop="20241115052000 +0800">
+		<title lang="zh">03_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -41066,6 +41087,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241115030600 +0800" stop="20241115043100 +0800">
 		<title lang="zh">爱无止境</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241115043100 +0800" stop="20241115051500 +0800">
+		<title lang="zh">48_萌妻食神</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -41099,6 +41123,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241115035400 +0800" stop="20241115043100 +0800">
 		<title lang="zh">荒野中的栖息地——寻找驼鹿</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241115043100 +0800" stop="20241115070700 +0800">
+		<title lang="zh">京剧《凤还巢》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -41153,6 +41180,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241115041600 +0800" stop="20241115043800 +0800">
 		<title lang="zh">筑梦太空的航天人（4）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241115043800 +0800" stop="20241115050000 +0800">
+		<title lang="zh">走向深蓝（1）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -41279,6 +41309,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241115031200 +0800" stop="20241115044400 +0800">
 		<title lang="zh">非常四侠之杀手廿一</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241115044400 +0800" stop="20241115055000 +0800">
+		<title lang="zh">男子剑术</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
