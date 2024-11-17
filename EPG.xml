@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20241118030300 +0800" stop="20241118035100 +0800">
 		<title lang="zh">我最爱的女人们20190615</title>
 	</programme>
+	<programme channel="4K综艺" start="20241118035100 +0800" stop="20241118052700 +0800">
+		<title lang="zh">我最爱的女人们20190621</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -39228,6 +39231,9 @@
 	<programme channel="纯享4K" start="20241118031900 +0800" stop="20241118035900 +0800">
 		<title lang="zh">荣宝斋4K 第5集 脉动新声</title>
 	</programme>
+	<programme channel="纯享4K" start="20241118035900 +0800" stop="20241118044100 +0800">
+		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘“最美高原湿地”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47397,6 +47403,9 @@
 	<programme channel="黑莓电影" start="20241118024400 +0800" stop="20241118035100 +0800">
 		<title lang="zh">法医秦明之亡命救赎</title>
 	</programme>
+	<programme channel="黑莓电影" start="20241118035100 +0800" stop="20241118055100 +0800">
+		<title lang="zh">老无所依</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -47649,6 +47658,9 @@
 	<programme channel="newtv超级综艺" start="20241118022300 +0800" stop="20241118035700 +0800">
 		<title lang="zh">喜剧的喜聚</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241118035700 +0800" stop="20241118044700 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47660,6 +47672,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20241118030500 +0800" stop="20241118040000 +0800">
 		<title lang="zh">实况录像-2024年皮划艇激流回旋世界杯 西班牙站 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241118040000 +0800" stop="20241118053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第9轮 马赛-巴黎圣日耳曼</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47735,6 +47750,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20241118025900 +0800" stop="20241118035300 +0800">
 		<title lang="zh">45_天地姻缘七仙女</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241118035300 +0800" stop="20241118044900 +0800">
+		<title lang="zh">46_天地姻缘七仙女</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47868,6 +47886,9 @@
 	<programme channel="newtv军事评论" start="20241118033600 +0800" stop="20241118035700 +0800">
 		<title lang="zh">谁是莫斯科恐袭事件的幕后黑手</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241118035700 +0800" stop="20241118041900 +0800">
+		<title lang="zh">营地炊烟（7）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47922,6 +47943,9 @@
 	<programme channel="newtv金牌综艺" start="20241118030200 +0800" stop="20241118040100 +0800">
 		<title lang="zh">正大综艺（2023）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20241118040100 +0800" stop="20241118065200 +0800">
+		<title lang="zh">天天把歌唱（2023）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -47930,6 +47954,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20241118021500 +0800" stop="20241118035400 +0800">
 		<title lang="zh">2024-25赛季英超联赛第7轮：曼城VS富勒姆</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241118035400 +0800" stop="20241118053900 +0800">
+		<title lang="zh">2024-25赛季法甲联赛第7轮：雷恩VS摩纳哥</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
